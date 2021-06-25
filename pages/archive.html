@@ -7,28 +7,28 @@ permalink: /archive/
 <div id="archive-wrapper">
 <div>2020</div>
 {% for event in site.data.archive.2020.events %}
-    <img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}">
+    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
 {% endfor %}
 <div>2019</div>
 {% for event in site.data.archive.2019.events %}
-    <img style="width: 160px;" src="/assets/images/2019/{{ event.imageUrl }}" alt="{{event.title}}">
+    <div><img style="width: 160px;" src="/assets/images/2019/{{ event.imageUrl }}" alt="{{event.title}}"></div>
 {% endfor %}
 <div>2018</div>
 {% for event in site.data.archive.2018.events %}
-    <img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}">
+    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
 {% endfor %}
 <div>2017</div>
 {% for event in site.data.archive.2017.events %}
-    <img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}">
+    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
 {% endfor %}
 <div>2016</div>
 {% for event in site.data.archive.2016.events %}
-    <img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}">
+    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
 {% endfor %}
 <div>2015</div>
 {% for event in site.data.archive.2015.events %}
     <!-- <h2>{{ event.title | strip_html }}</h2>
     <div>{{event.time.from | date: "%b %d @ %H:%M"}}</div> -->
-    <img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}">
+    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
 {% endfor %}
 </div>
