@@ -18,6 +18,11 @@
     img {
         width: 300px;
     }
+    a {
+        color: white;
+        text-shadow: none;
+        text-align: center;
+    }
 }
   
 #reader {
@@ -26,7 +31,17 @@
     right: 20px;
     background-color: transparent;
     img {
-        width: 300px;
+        width: 100px;
+    }
+}
+
+#shiriglasses {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: transparent;
+    img {
+        width: 100px;
     }
 }
   
