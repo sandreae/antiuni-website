@@ -1,3 +1,11 @@
 #page {
     background-color: red;
 }
+body {
+    background-image: url("background-1.png");
+    background-size: 1000px;
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: max-content;
+  }
