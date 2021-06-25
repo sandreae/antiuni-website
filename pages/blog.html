@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 {% for post in site.posts %}
-    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+    <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date_to_string }}: {{ post.title }}</a></h4>
     {{post.content}}
 {% endfor %}
 
