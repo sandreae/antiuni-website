@@ -1,0 +1,16 @@
+nav {
+    
+    a {
+        color: $linkColor;;
+        text-decoration: none;
+        &:visited {
+            color: $linkColor;
+        }
+        &:hover,
+        &:active,
+        &.active {
+            background: $linkClickedBgColor;
+            color: $linkClickedColor;
+        }
+    }
+}

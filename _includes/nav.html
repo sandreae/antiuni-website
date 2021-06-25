@@ -1,0 +1,11 @@
+<nav id="nav">
+    {% for nav in site.data.nav %}
+        {% if nav.title == page.title %}
+            <a class="active" href="{{ nav.url }}" target="_top">{{ nav.title }}</a>
+        {% else %} 
+            <a href="{{ site.baseurl }}{{ nav.href }}" target="_top">{{ nav.title }}</a>
+        {% endif %}
+    {% endfor %}
+</nav>
+
+ 
