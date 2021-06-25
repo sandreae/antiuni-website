@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Anti-racism Resources"
-date: 2012-04-04
+date: 2020-06-01
 img: ""
 ---
 <a href="/anti-racism-resources" target="_blank">
