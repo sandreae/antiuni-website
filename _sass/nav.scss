@@ -1,6 +1,8 @@
 nav {
     
     a {
+        font-size: 2em;
+        padding-right: 5px;
         &.active {
             background: $linkClickedBgColor;
             color: $linkClickedColor;
