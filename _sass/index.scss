@@ -18,6 +18,14 @@
     img {
         width: 300px;
     }
+    a {
+        color: white;
+        text-shadow: none;
+        text-align: center;
+    }
+    a:hover{
+        background-color: transparent;
+    }
 }
   
 #reader {
@@ -26,7 +34,22 @@
     right: 20px;
     background-color: transparent;
     img {
-        width: 300px;
+        width: 100px;
+    }
+    a:hover{
+        background-color: transparent;
     }
 }
-  
+
+#shiriglasses {
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+    background-color: transparent;
+    img {
+        width: 60px;
+    }
+    a:hover{
+        background-color: transparent;
+    }
+}
