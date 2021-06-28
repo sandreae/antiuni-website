@@ -3,7 +3,7 @@ layout: page
 title: History
 permalink: /history/
 ---
-<span class="wavy">**The 1968 Antiuniversity of London**</span>
+<span class="wavy">The 1968 Antiuniversity of London</span>
   
 The Antiuniversity was an organisation and an education experiment in the late 1960s based in Rivington Street, east London.
 
