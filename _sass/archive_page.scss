@@ -17,3 +17,21 @@
         };
     }
 }
+
+.archive-item {
+    max-height: 160px;
+    min-height: 160px;
+    flex: 0 0 160px;
+    display: block;
+    img {
+        width: 100%;
+    }
+    &:hover {
+        background-color: yellow;
+    }
+}
+
+.archive-img-wrapper {
+    font-size: 2em;
+    width: 100%;
+}

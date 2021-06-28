@@ -1,3 +1,36 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: "Antiuniversity Now"
+plugins:
+  - jekyll-datapage-generator
+page_gen-dirs: true
+page_gen:
+  - data: 'events-2020'
+    template: 'event'
+    name: 'title'
+    dir: 'events'
+
+  - data: 'events-2019'
+    template: 'event'
+    name: 'title'
+    dir: 'events'
+
+  - data: 'events-2018'
+    template: 'event'
+    name: 'title'
+    dir: 'events'
+
+  - data: 'events-2017'
+    template: 'event'
+    name: 'title'
+    dir: 'events'
+
+  - data: 'events-2016'
+    template: 'event'
+    name: 'title'
+    dir: 'events'
+
+  - data: 'events-2015'
+    template: 'event'
+    name: 'title'
+    dir: 'events'

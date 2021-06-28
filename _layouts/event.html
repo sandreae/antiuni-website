@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="event-page-wrapper">
+    <div>
+        <h2>{{page.title}}</h2>
+        <h3>{{ page.time.from | date: "%-d %B %Y @ %R"}}</h3>
+        <p><a href="{{page.websiteUrl}}">website</a></p>
+    <div>
+        <strong>Venue: {{page.place.name}}</strong>
+        <p>{{page.place.about}}</p>
+    </div>
+    <div>
+        <strong>Organiser: {{page.organiser.name}}</strong>
+        <p>{{page.organiser.about}}</p>
+    </div>
+    <div><img style="width: 30%;" src="{{ page.imageUrl }}" alt="{{event.title}}"></div>
+    <div>{{page.description | markdownify }}</div>        
+</div>
+

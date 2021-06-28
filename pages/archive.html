@@ -6,29 +6,53 @@ permalink: /archive/
 
 <div id="archive-wrapper">
 <div>2020</div>
-{% for event in site.data.archive.2020.events %}
-    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
+{% for event in site.data.events-2020 %}
+    <div class="archive-item">
+        <a href="/{{ event.title | datapage_url: 'events' }}">
+            <img src="{{ event.imageUrl }}" alt="{{event.title}}">
+        </a>
+    </div>
 {% endfor %}
 <div>2019</div>
-{% for event in site.data.archive.2019.events %}
-    <div><img style="width: 160px;" src="/assets/images/2019/{{ event.imageUrl }}" alt="{{event.title}}"></div>
+{% for event in site.data.events-2019 %}
+    <div class="archive-item">
+        <a href="/{{ event.title | datapage_url: 'events' }}">
+            <img src="{{ event.imageUrl }}" alt="{{event.title}}">
+        </a>
+    </div>
 {% endfor %}
 <div>2018</div>
-{% for event in site.data.archive.2018.events %}
-    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
+{% for event in site.data.events-2018 %}
+    <div class="archive-item">
+        <a href="/{{ event.title | datapage_url: 'events' }}">
+            <img src="{{ event.imageUrl }}" alt="{{event.title}}">
+        </a>
+    </div>
 {% endfor %}
 <div>2017</div>
-{% for event in site.data.archive.2017.events %}
-    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
+{% for event in site.data.events-2017 %}
+    <div class="archive-item">
+        <a href="/{{ event.title | datapage_url: 'events' }}">
+            <img src="{{ event.imageUrl }}" alt="{{event.title}}">
+        </a>
+    </div>
 {% endfor %}
 <div>2016</div>
-{% for event in site.data.archive.2016.events %}
-    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
+{% for event in site.data.events-2016 %}
+    <div class="archive-item">
+        <a href="/{{ event.title | datapage_url: 'events' }}">
+            <img src="{{ event.imageUrl }}" alt="{{event.title}}">
+        </a>
+    </div>
 {% endfor %}
 <div>2015</div>
-{% for event in site.data.archive.2015.events %}
+{% for event in site.data.events-2015 %}
     <!-- <h2>{{ event.title | strip_html }}</h2>
-    <div>{{event.time.from | date: "%b %d @ %H:%M"}}</div> -->
-    <div><img style="width: 160px;" src="{{ event.imageUrl }}" alt="{{event.title}}"></div>
+    <div class="archive-item">{{event.time.from | date: "%b %d @ %H:%M"}}</div> -->
+    <div class="archive-item">
+        <a href="/{{ event.title | datapage_url: 'events' }}">
+            <img src="{{ event.imageUrl }}" alt="{{event.title}}">
+        </a>
+    </div>
 {% endfor %}
 </div>
