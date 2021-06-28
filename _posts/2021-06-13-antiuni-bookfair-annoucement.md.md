@@ -12,4 +12,4 @@ Antiuniversity events will be programmed in the usual way, directly through the 
 
 The entire festival will take place in-person (when possible) and digitally. 💥💥💥
 
-![Antiuniversity x Anarchist Bookfair in London](/assets/images/anti-anarchist-2021.png)
+![Antiuniversity x Anarchist Bookfair in London](/assets/images/blog/anti-anarchist-2021.png)

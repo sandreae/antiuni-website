@@ -20,4 +20,4 @@ Nick Dearden & Jeremy Gilbert on Brexit culture, global trade and escaping entan
 
 *More information and zoom links on <a href="https://2020.antiuniversity.org" target="_blank">2020.antiuniversity.org</a>*
 
-![CPP](/assets/images/cpp.png)
+![CPP](/assets/images/blog/cpp.png)
