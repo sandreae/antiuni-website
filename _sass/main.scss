@@ -31,3 +31,13 @@ img {
 .anti{
   background-color: rgba(255, 0, 0, 0.411);
 }
+
+hr.dotted {
+  border-top: 3px dotted $fontColor;
+}
+
+.wavy {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: rgb(0, 255, 98);
+}
