@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: "New Series of Culture Power & Politics"
 date: 2020-04-25
 img: ""

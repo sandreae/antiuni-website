@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: "Antiuniversity 2020 dates"
 date: 2020-04-04
 img: ""

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: "Culture Power & Politics: autumn / winter 2019 series"
 date: 2019-10-01
 img: ""

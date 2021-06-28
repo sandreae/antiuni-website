@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: "Antiuniversity x Anarchist Bookfair in London"
 date: 2021-06-13
 img: ""

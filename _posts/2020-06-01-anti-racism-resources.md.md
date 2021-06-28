@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: "Anti-racism Resources"
 date: 2020-06-01
 img: ""

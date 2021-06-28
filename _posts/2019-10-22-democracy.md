@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: "Keywords: Democracy with Astra Taylor"
 date: 2019-10-22
 img: ""

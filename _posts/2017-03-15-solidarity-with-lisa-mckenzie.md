@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: "Special announcement: Solidarity with Lisa Mckenzie"
 date: 2017-03-15
 img: ""
