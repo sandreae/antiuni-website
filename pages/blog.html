@@ -3,9 +3,11 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-
+<i>Throughout the year, the Antiuniversity organises, supports and participates in a range of events to complement the festival programme.<br/>
+    Click <a href="https://us11.campaign-archive.com/home/?u=2c6f5abfd5a2ebebc72f9633f&id=828e864ad0" target="_blank">here</a> for our newsletter archive.</i>
 {% for post in site.posts %}
-    <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date_to_string }}: {{ post.title }}</a></h4>
+    <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> ~{{ post.date | date_to_string }}~</h4>
     {{post.content}}
+    <hr class="dotted">
 {% endfor %}
 
