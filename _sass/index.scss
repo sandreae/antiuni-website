@@ -42,6 +42,13 @@
     }
 }
 
+@media only screen and (max-width: $breakpoint-sm) {
+    #reader {
+        top: 40px;
+        right: 20px;
+    }
+  }
+
 #shiriglasses {
     position: absolute;
     bottom: 150px;
@@ -55,3 +62,10 @@
         -webkit-filter:blur(5px);
     }
 }
+
+@media only screen and (max-width: $breakpoint-sm) {
+    #shiriglasses {
+        bottom: 300px;
+        right: 80px;
+    }
+  }
