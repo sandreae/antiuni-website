@@ -5,7 +5,7 @@ layout: default
 <div class="event-page-wrapper">
     <div>
         <h2>{{page.title}}</h2>
-        <h3>{{ page.time.from | date: "%-d %B %Y @ %R"}}</h3>
+        <h3>{{ page.date | date: "%-d %B %Y"}}</h3>
         <p><a href="{{page.websiteUrl}}">website</a></p>
     <div>
         <strong>Venue: {{page.place.name}}</strong>
