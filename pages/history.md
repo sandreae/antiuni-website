@@ -16,11 +16,11 @@ Despite being short-lived and mostly shrouded in mystery, the Antiuniversity con
 Click <a href="http://antihistory.org/" target="_blank">here</a> and <a href="http://antihistory.org/deinsti" target="_blank">here</a> to read Jakob Jakobsen's research about the Antiuniversity of East London on the Antihistory blog.
 Click <a href="http://files.antihistory.org/AntiTabloid.pdf" target="_blank">here</a> to download the Antiuniversity tabloid (60MB PDF) edited by Jakobson and published by Flat Time House.
 
-![Alt text](/assets/images/antiuni-poster-68.png)
+![Alt text](/assets/images/antiuni-poster-68-poster.jpg)
 
-![Alt text](/assets/images/antiuni-article-68.png)<br /><span class="caption">International Times, 19 January 1968</span>
+![Alt text](/assets/images/antiuni-article-68.jpg)<br /><span class="caption">International Times, 19 January 1968</span>
 
-![Alt text](/assets/images/antiuni-list-68.png)
+![Alt text](/assets/images/antiuni-list-68-small.jpg)
 
 <iframe width="400" height="300" src="https://www.youtube.com/embed/Kbi_KgBA7-c?rel=0" frameborder="0" allowfullscreen></iframe> 
 

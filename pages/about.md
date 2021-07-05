@@ -48,7 +48,7 @@ All events will be accepted, providing they do not cause any harm.<br/>
 
 ![Antiuniversity Event](/assets/images/about/about-event-7.png)<br /><span class="caption">Supernormal Super Sensory Summerschool Sing-out</span>
 
-![Antiuniversity Event](/assets/images/about/about-event-8.png)<br /><span class="caption">???</span>
+![Antiuniversity Event](/assets/images/about/about-event-8.png)<br /><span class="caption">Degenerate Space, The Smallness inside the bigness, 2016</span>
 
-![Antiuniversity Event](/assets/images/about/about-event-9.png)<br /><span class="caption">???</span>
+![Antiuniversity Event](/assets/images/about/about-event-9.png)<br /><span class="caption">Antiuniversity 2017 events</span>
 
