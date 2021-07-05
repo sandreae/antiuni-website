@@ -15,4 +15,4 @@ Have you read any of these books and would like to share your experience with ot
 
 Also check out these excellent reading lists by our comrades at [Art&Critique](https://artandcritique.uk/alt-art-edu/) and [School of the Damned](https://issuu.com/schoolofthedamned).
 
-<img class="full-width-img" src="/assets/images/antiuni-reader.png"/>
+<img class="full-width-img" src="/assets/images/antiuni-reader.jpg"/>
