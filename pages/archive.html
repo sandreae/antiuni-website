@@ -4,67 +4,71 @@ title: archive
 permalink: /archive/
 ---
 
-<div id="archive-wrapper">
-<div class="archive-date">2020</div>
-{% for event in site.data.events-2020 %}
-    <div class="archive-item">
-        <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
-            <div class="archive-item-text">{{event.title}}</div>
-        </a>
-        <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
-        <div class="archive-item-text">{{event.title}}</div>
-    </div>
-{% endfor %}
-<div class="archive-date">2019</div>
-{% for event in site.data.events-2019 %}
-    <div class="archive-item">
-        <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
-            <div class="archive-item-text">{{event.title}}</div>
-        </a>
-        <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
-        <div class="archive-item-text">{{event.title}}</div>
-    </div>
-{% endfor %}
-<div class="archive-date">2018</div>
-{% for event in site.data.events-2018 %}
-    <div class="archive-item">
-        <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
-            <div class="archive-item-text">{{event.title}}</div>
-        </a>
-        <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
-        <div class="archive-item-text">{{event.title}}</div>
-    </div>
-{% endfor %}
-<div class="archive-date">2017</div>
-{% for event in site.data.events-2017 %}
-    <div class="archive-item">
-        <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
-            <div class="archive-item-text">{{event.title}}</div>
-        </a>
-        <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
-        <div class="archive-item-text">{{event.title}}</div>
-    </div>
-{% endfor %}
-<div class="archive-date">2016</div>
-{% for event in site.data.events-2016 %}
-    <div class="archive-item">
-        <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
-            <div class="archive-item-text">{{event.title}}</div>
-        </a>
-        <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
-        <div class="archive-item-text">{{event.title}}</div>
-    </div>
-{% endfor %}
-<div class="archive-date">2015</div>
-{% for event in site.data.events-2015 %}
-    <!-- <h2>{{ event.title | strip_html }}</h2>
-    <div class="archive-item">{{event.time.from | date: "%b %d @ %H:%M"}}</div> -->
-    <div class="archive-item">
-        <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
-            <div class="archive-item-text">{{event.title}}</div>
-        </a>
-        <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
-        <div class="archive-item-text">{{event.title}}</div>
-    </div>
-{% endfor %}
+<!-- Html Elements for Search -->
+
+<div class="archive-heading">
+    <h3>Want a searchable text list of events? <a href="/archive-list">click here!</a></h3>    
 </div>
+<div id="archive-wrapper">
+    <div class="archive-date">2020</div>
+        {% for event in site.data.events-2020 %}
+            <div class="archive-item">
+                <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
+                    <div class="archive-item-text">{{event.title}}</div>
+                </a>
+                <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
+                <div class="archive-item-text">{{event.title}}</div>
+            </div>
+        {% endfor %}
+    <div class="archive-date">2019</div>
+        {% for event in site.data.events-2019 %}
+            <div class="archive-item">
+                <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
+                    <div class="archive-item-text">{{event.title}}</div>
+                </a>
+                <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
+                <div class="archive-item-text">{{event.title}}</div>
+            </div>
+        {% endfor %}
+    <div class="archive-date">2018</div>
+        {% for event in site.data.events-2018 %}
+            <div class="archive-item">
+                <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
+                    <div class="archive-item-text">{{event.title}}</div>
+                </a>
+                <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
+                <div class="archive-item-text">{{event.title}}</div>
+            </div>
+        {% endfor %}
+    <div class="archive-date">2017</div>
+        {% for event in site.data.events-2017 %}
+            <div class="archive-item">
+                <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
+                    <div class="archive-item-text">{{event.title}}</div>
+                </a>
+                <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
+                <div class="archive-item-text">{{event.title}}</div>
+            </div>
+        {% endfor %}
+    <div class="archive-date">2016</div>
+        {% for event in site.data.events-2016 %}
+            <div class="archive-item">
+                <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
+                    <div class="archive-item-text">{{event.title}}</div>
+                </a>
+                <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
+                <div class="archive-item-text">{{event.title}}</div>
+            </div>
+        {% endfor %}
+    <div class="archive-date">2015</div>
+    {% for event in site.data.events-2015 %}
+        <div class="archive-item">
+            <a class="archive-item-link" href="/{{ event.title | datapage_url: 'events' }}">
+                <div class="archive-item-text">{{event.title}}</div>
+            </a>
+            <img src="{{ event.imageUrl }}" style="display: none" onload="this.style.display=''">
+            <div class="archive-item-text">{{event.title}}</div>
+        </div>
+    {% endfor %}
+</div>
+
