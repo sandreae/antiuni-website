@@ -10,16 +10,16 @@
         max-height: 160px;
         min-height: 160px;
         overflow: hidden;
-        img {
-            width: 100%;
-            min-height: 100%;
-            max-height: 100%;
-        };
     }
 }
 
 .archive-item {
     position: relative;
+    img {
+        width: 100%;
+        min-height: 100%;
+        max-height: 100%;
+    };
     &:hover {
         background-color: yellow;
     }
@@ -42,14 +42,6 @@
     font-size: 3em;
     background-color: black;
     color: blanchedalmond;
-}
-
-.link-div {
-    height: 100%;
-}
-
-.archive-img-wrapper {
-    width: 100%;
 }
 
 #results-container {
