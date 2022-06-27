@@ -18,9 +18,7 @@
       "area": "London"
     },
     "imageUrl": "Er, N/A",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "www.naturalnovember.co.uk (under redesign)"
   },
   {
@@ -41,12 +39,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "Need to do this- will do it soon.",
-    "tags": [
-      "Talk",
-      "Walk",
-      "Screening"
-    ],
+    "imageUrl": "/assets/images/2017/orchid and the metal image antiuniversity.jpg",
+    "tags": ["Talk", "Walk", "Screening"],
     "websiteUrl": "n/a"
   },
   {
@@ -68,12 +62,7 @@
       "area": "Harringay, North London"
     },
     "imageUrl": "/assets/images/2017/non-violent-traiing-Catholic-antiuniversity_1_1250.jpg",
-    "tags": [
-      "Intervention",
-      "Workshop",
-      "Experiment",
-      "workshop"
-    ],
+    "tags": ["Intervention", "Workshop", "Experiment", "workshop"],
     "websiteUrl": "www.londoncatholicworker.org"
   },
   {
@@ -95,9 +84,7 @@
       "area": "London"
     },
     "imageUrl": "/assets/images/2017/guerilla printmaking antiuniversity.jpg",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "www.pablolugo.com"
   },
   {
@@ -119,9 +106,7 @@
       "area": "London"
     },
     "imageUrl": "/assets/images/2017/signlanguage now - antiuni sign language now.png",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -143,9 +128,7 @@
       "area": "Hackney, London"
     },
     "imageUrl": "/assets/images/2017/sickle cell antiuniversity.jpg",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "www.solacesg.org.uk"
   },
   {
@@ -167,9 +150,7 @@
       "area": ""
     },
     "imageUrl": "/assets/images/2017/ShutDown DSEI - Antiuni Shut down DSEI.jpg",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "http://stopthearmsfair.org.uk/"
   },
   {
@@ -191,9 +172,7 @@
       "area": "London"
     },
     "imageUrl": "/assets/images/2017/what the heath antiuniversity 17.jpg",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -215,9 +194,7 @@
       "area": "London"
     },
     "imageUrl": "/assets/images/2017/body revolution Antiuniversity.jpg",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "www.embodimenta.com"
   },
   {
@@ -239,11 +216,7 @@
       "area": "East London"
     },
     "imageUrl": "/assets/images/2017/emma winch - Alt MFA Antiuniversity .jpg",
-    "tags": [
-      "Walk",
-      "Workshop",
-      "Experiment"
-    ],
+    "tags": ["Walk", "Workshop", "Experiment"],
     "websiteUrl": "http://altmfajamboree.weebly.com"
   },
   {
@@ -265,9 +238,7 @@
       "area": "Exeter, South-West"
     },
     "imageUrl": "/assets/images/2017/emma winch - road school antiuniversity.png",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "theroadschool.org.uk"
   },
   {
@@ -289,9 +260,7 @@
       "area": "London"
     },
     "imageUrl": "www.bit.ly/OurAULogos",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "www.AfricanHistoryPlus.eventbrite.com"
   },
   {
@@ -312,10 +281,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "https://www.eventbrite.co.uk/e/xenia-workshop-for-women-saturday-9th-june-tickets-32634783516",
-    "tags": [
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/2017/emma winch - xenia Antiuniversity .jpg",
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -336,10 +303,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2017/emma winch - xenia Antiuniversity .jpg",
-    "tags": [
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/2017/emma winch - Black British Music Antiuniversity .jpg",
+    "tags": ["Talk"],
     "websiteUrl": "www.BBM.eventbrite.com"
   },
   {
@@ -361,9 +326,7 @@
       "area": "London"
     },
     "imageUrl": "/assets/images/2017/Hackney Tours What Price Art Hackney Wick for Anituniversity copy.jpg",
-    "tags": [
-      "Walk"
-    ],
+    "tags": ["Walk"],
     "websiteUrl": "www.hackneytours.com"
   },
   {
@@ -385,9 +348,7 @@
       "area": "London"
     },
     "imageUrl": "/assets/images/2017/emma winch - Musvism Antiuniversity.jpg",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "www.ligali.org"
   },
   {
@@ -409,9 +370,7 @@
       "area": "Hackney "
     },
     "imageUrl": "/assets/images/2017/Healing Sounds Antiuniversity Now - IMG_9891.JPG ",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -433,9 +392,7 @@
       "area": "Essex"
     },
     "imageUrl": "/assets/images/2017/emma winch - Get_Lost_Walk_June_10th_Antiuniversity_TOMA_The_Other_MA_Anna_B_Sexton.jpg",
-    "tags": [
-      "Walk"
-    ],
+    "tags": ["Walk"],
     "websiteUrl": "http://www.annabsexton.com"
   },
   {
@@ -456,10 +413,8 @@
       "description": null,
       "area": "Greater London"
     },
-    "imageUrl": "later",
-    "tags": [
-      "Performance"
-    ],
+    "imageUrl": "/assets/images/2017/Old Women Talking Antiuniversity Now.jpg",
+    "tags": ["Performance"],
     "websiteUrl": "https://www.upyourstreet.wordpress.com"
   },
   {
@@ -481,9 +436,7 @@
       "area": "East London"
     },
     "imageUrl": "http://www.plotlondon.net/wp-content/uploads/2017/03/HumReg.png",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "www.plotlondon.net"
   },
   {
@@ -505,10 +458,7 @@
       "area": "London "
     },
     "imageUrl": "/assets/images/2017/Antiuniversity Now - Uncomfortable art tour Antiuniversity.jpg",
-    "tags": [
-      "Talk",
-      "Gallery tour"
-    ],
+    "tags": ["Talk", "Gallery tour"],
     "websiteUrl": ""
   },
   {
@@ -552,10 +502,7 @@
       "area": "London"
     },
     "imageUrl": "http://www.evamegias.com/#/workshop-leader/ (please use first image on the page)",
-    "tags": [
-      "Workshop",
-      "Experiment"
-    ],
+    "tags": ["Workshop", "Experiment"],
     "websiteUrl": "www.evamegias.com"
   },
   {
@@ -577,13 +524,7 @@
       "area": "London"
     },
     "imageUrl": "https://www.facebook.com/pg/degeneratespace/photos/?tab=album&album_id=1478459835506542",
-    "tags": [
-      "Talk",
-      "Walk",
-      "Intervention",
-      "Experiment",
-      "Performance"
-    ],
+    "tags": ["Talk", "Walk", "Intervention", "Experiment", "Performance"],
     "websiteUrl": "www.degeneratespace.com"
   },
   {
@@ -605,9 +546,7 @@
       "area": "London"
     },
     "imageUrl": "http://djemarsh.wixsite.com/physics/about",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "djemarsh.wix.com/physics"
   },
   {
@@ -629,9 +568,7 @@
       "area": "London"
     },
     "imageUrl": "as per last year.",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "e5process"
   },
   {
@@ -653,9 +590,7 @@
       "area": ""
     },
     "imageUrl": "/assets/images/2017/film radical pedagogic antiuniversity.jpg",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "http://www.insidefilm.org"
   },
   {
@@ -677,9 +612,7 @@
       "area": "London"
     },
     "imageUrl": "emailed to request ss",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -701,9 +634,7 @@
       "area": "South East/ London "
     },
     "imageUrl": "on file",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -725,9 +656,7 @@
       "area": "London"
     },
     "imageUrl": "emailed to request ss",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "https://en.wikipedia.org/wiki/Kerry_William_Purcell"
   },
   {
@@ -749,9 +678,7 @@
       "area": ""
     },
     "imageUrl": "from 2016",
-    "tags": [
-      "Swimming lesson"
-    ],
+    "tags": ["Swimming lesson"],
     "websiteUrl": ""
   },
   {
@@ -773,9 +700,7 @@
       "area": "London's West End"
     },
     "imageUrl": "Will be provided",
-    "tags": [
-      "Walk"
-    ],
+    "tags": ["Walk"],
     "websiteUrl": "Will be provided"
   },
   {
@@ -797,9 +722,7 @@
       "area": "Thanet"
     },
     "imageUrl": "https://www.dropbox.com/home?preview=Walpole.jpg",
-    "tags": [
-      "Experiment"
-    ],
+    "tags": ["Experiment"],
     "websiteUrl": "www.gohappen.co.uk"
   },
   {
@@ -821,9 +744,7 @@
       "area": "London"
     },
     "imageUrl": "https://bustedutopia.files.wordpress.com/2014/10/myjobcrushingmysoul.jpeg?w=240",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": ""
   },
   {
@@ -845,9 +766,7 @@
       "area": "London"
     },
     "imageUrl": "http://cliffhammett.com/resources/img/au2017/hostyourown3.png",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "http://www.commonhouse.org.uk/whos-involved/autonomous-tech-fetish/"
   },
   {
@@ -869,9 +788,7 @@
       "area": "Internet"
     },
     "imageUrl": "http://img.1.vacanceo.net/classic/196980.jpg",
-    "tags": [
-      "Online Radio Broadcast  the duration of the festival"
-    ],
+    "tags": ["Online Radio Broadcast  the duration of the festival"],
     "websiteUrl": "http://camillealena.com/lasciviousstories/"
   },
   {
@@ -893,10 +810,7 @@
       "area": "London"
     },
     "imageUrl": "http://tinypic.com/r/jzir1g/9 ,  http://tinypic.com/r/jg5iio/9",
-    "tags": [
-      "Talk",
-      "Workshop"
-    ],
+    "tags": ["Talk", "Workshop"],
     "websiteUrl": "NA"
   },
   {
@@ -918,9 +832,7 @@
       "area": "North London"
     },
     "imageUrl": "http://furtherfield.org/sites/furtherfield.org/files/imagecache/content_width_598px/manpowertop-main-image.png",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "www.furtherfield.org"
   },
   {
@@ -942,10 +854,7 @@
       "area": ""
     },
     "imageUrl": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt#/media/File:Zentralbibliothek_Z%C3%BCrich_-_Ideen_zu_einer_Geographie_der_Pflanzen_nebst_einem_Naturgem%C3%A4lde_der_Tropenl%C3%A4nder_-_000012142.jpg",
-    "tags": [
-      "Talk",
-      "Workshop"
-    ],
+    "tags": ["Talk", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -967,10 +876,7 @@
       "area": "East London"
     },
     "imageUrl": "TBC",
-    "tags": [
-      "Workshop",
-      "Experiment"
-    ],
+    "tags": ["Workshop", "Experiment"],
     "websiteUrl": "TBC"
   },
   {
@@ -992,9 +898,7 @@
       "area": "Archway North London"
     },
     "imageUrl": "http://www.estherplanas.com/index.php?/project/escuela-de-calor/",
-    "tags": [
-      "Experiment"
-    ],
+    "tags": ["Experiment"],
     "websiteUrl": "http://www.estherplanas.com/"
   },
   {
@@ -1016,9 +920,7 @@
       "area": "London"
     },
     "imageUrl": "https://mail.google.com/mail/u/1/#inbox/15b5388d4456f02c",
-    "tags": [
-      "film screening"
-    ],
+    "tags": ["film screening"],
     "websiteUrl": "thewhitepube.com"
   },
   {
@@ -1040,10 +942,7 @@
       "area": "South East "
     },
     "imageUrl": "in file",
-    "tags": [
-      "Workshop",
-      "Experiment"
-    ],
+    "tags": ["Workshop", "Experiment"],
     "websiteUrl": "http://www.openschooleast.org/"
   },
   {
@@ -1065,9 +964,7 @@
       "area": "East London"
     },
     "imageUrl": "https://www.dropbox.com/sh/czx5g9tpsi0gn3v/AAAZ47LuRI0XGY0T7jQXJ1yXa?dl=0",
-    "tags": [
-      "Intervention"
-    ],
+    "tags": ["Intervention"],
     "websiteUrl": "http://albertoduman.me.uk/"
   },
   {
@@ -1089,9 +986,7 @@
       "area": ""
     },
     "imageUrl": "https://www.eventbrite.co.uk/e/puppetry-ventriloquism-and-inner-politics-tickets-33000711015",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "r-a-r-a.com"
   },
   {
@@ -1113,9 +1008,7 @@
       "area": "SE London"
     },
     "imageUrl": "To be provided",
-    "tags": [
-      "Walk"
-    ],
+    "tags": ["Walk"],
     "websiteUrl": "to be provided"
   },
   {
@@ -1137,9 +1030,7 @@
       "area": ""
     },
     "imageUrl": "http://paramo.cc.ic.ac.uk/india/",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": ""
   },
   {
@@ -1161,9 +1052,7 @@
       "area": ""
     },
     "imageUrl": "https://afed.org.uk/ (AF logo available here)",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "https://afed.org.uk/"
   },
   {
@@ -1185,9 +1074,7 @@
       "area": "New Cross?"
     },
     "imageUrl": "None yet available. ",
-    "tags": [
-      "Experiment"
-    ],
+    "tags": ["Experiment"],
     "websiteUrl": "https://www.joaap.org/"
   },
   {
@@ -1209,13 +1096,7 @@
       "area": "West London"
     },
     "imageUrl": "https://www.facebook.com/TheExistentialistPlumbersCollective/photos/a.743390642532459.1073741826.743390402532483/743390555865801/?type=3&theater",
-    "tags": [
-      "Talk",
-      "Intervention",
-      "Workshop",
-      "Experiment",
-      "Performance"
-    ],
+    "tags": ["Talk", "Intervention", "Workshop", "Experiment", "Performance"],
     "websiteUrl": "https://existentialistplumberscollective.wordpress.com/"
   },
   {
@@ -1237,11 +1118,7 @@
       "area": "Hackney, London"
     },
     "imageUrl": "https://drive.google.com/open?id=0B4nb59rBlKcaa2stdm1lSFVzLXc",
-    "tags": [
-      "Intervention",
-      "Workshop",
-      "Experiment"
-    ],
+    "tags": ["Intervention", "Workshop", "Experiment"],
     "websiteUrl": "http://renataminoldo.tumblr.com/"
   },
   {
@@ -1263,9 +1140,7 @@
       "area": "Catford"
     },
     "imageUrl": "Will be provided",
-    "tags": [
-      "Walk"
-    ],
+    "tags": ["Walk"],
     "websiteUrl": ""
   },
   {
@@ -1287,9 +1162,7 @@
       "area": ""
     },
     "imageUrl": "https://docs.google.com/document/d/1qXGUxSb2xOuqBVgk_6Jf8UWOIgV1tNZkFDJOmn_nx-Y/edit?usp=sharing",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1311,9 +1184,7 @@
       "area": "Finsbury Park, London"
     },
     "imageUrl": "TBC",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1335,9 +1206,7 @@
       "area": "London"
     },
     "imageUrl": "https://drive.google.com/open?id=0B9MN_HibsjRlRnFWN0RSY1BHTFU",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": ""
   },
   {
@@ -1359,9 +1228,7 @@
       "area": "London"
     },
     "imageUrl": "tbc",
-    "tags": [
-      "Talk "
-    ],
+    "tags": ["Talk "],
     "websiteUrl": "www.positivemoney.org"
   },
   {
@@ -1383,10 +1250,7 @@
       "area": "London"
     },
     "imageUrl": "https://www.facebook.com/exhibitionistpod/photos/a.570602069779545.1073741825.569738326532586/570602079779544/?type=1&theater",
-    "tags": [
-      "Talk",
-      "Gallery tour"
-    ],
+    "tags": ["Talk", "Gallery tour"],
     "websiteUrl": ""
   },
   {
@@ -1408,9 +1272,7 @@
       "area": "London"
     },
     "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29975422%2F208517025871%2F1%2Foriginal.jpg?w=800&rect=0%2C44%2C908%2C454&s=e0863d22da7e0774c5341b8661f91652",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1432,10 +1294,7 @@
       "area": "Cornwall"
     },
     "imageUrl": "https://www.youtube.com/watch?v=mifVlW46mSQ",
-    "tags": [
-      "Talk",
-      "Workshop"
-    ],
+    "tags": ["Talk", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1457,9 +1316,7 @@
       "area": "London or Brighton"
     },
     "imageUrl": "Please use Art/Law Network Logo",
-    "tags": [
-      "Intervention"
-    ],
+    "tags": ["Intervention"],
     "websiteUrl": "www.artlawnetwork.org"
   },
   {
@@ -1481,9 +1338,7 @@
       "area": "London"
     },
     "imageUrl": "http://rosalieschweiker.bigcartel.com/product/dd",
-    "tags": [
-      "Experiment"
-    ],
+    "tags": ["Experiment"],
     "websiteUrl": "www.rosalieschweiker.info"
   },
   {
@@ -1505,10 +1360,7 @@
       "area": "Finsbury Park, London"
     },
     "imageUrl": "TBC",
-    "tags": [
-      "Talk",
-      "Workshop"
-    ],
+    "tags": ["Talk", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1530,9 +1382,7 @@
       "area": "Dublin"
     },
     "imageUrl": "https://wicklowsudburyschooldotcom.files.wordpress.com/2016/05/img_1686.jpg",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": ""
   },
   {
@@ -1554,9 +1404,7 @@
       "area": "London"
     },
     "imageUrl": "Will get this to you asap!",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "n/a"
   },
   {
@@ -1578,9 +1426,7 @@
       "area": "No Host confirmed yet"
     },
     "imageUrl": "https://drive.google.com/drive/folders/0BxooF1DbfUMWbkc2aHZzdGVwdkU?usp=sharing",
-    "tags": [
-      "Performance"
-    ],
+    "tags": ["Performance"],
     "websiteUrl": "www.monikadorniak.com"
   },
   {
@@ -1602,9 +1448,7 @@
       "area": "London"
     },
     "imageUrl": "https://app.box.com/s/ahc7d5ml0ydf8mkxgolndb8osa8husoq",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "http://doomedgallery.tumblr.com/"
   },
   {
@@ -1626,10 +1470,7 @@
       "area": "London"
     },
     "imageUrl": "None Available",
-    "tags": [
-      "Talk",
-      "Open discussion"
-    ],
+    "tags": ["Talk", "Open discussion"],
     "websiteUrl": ""
   },
   {
@@ -1651,9 +1492,7 @@
       "area": "London"
     },
     "imageUrl": "http://cliffhammett.com/resources/img/au2017/nightsniff1B.png  https://fleeimmediately.com/02-danceandcode/cliff/static/spalwatch/audio/casc1.mp3",
-    "tags": [
-      "Walk"
-    ],
+    "tags": ["Walk"],
     "websiteUrl": "http://cliffhammett.com/"
   },
   {
@@ -1675,9 +1514,7 @@
       "area": "London"
     },
     "imageUrl": "https://vimeo.com/200799576",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "https://newhive.com/katharinajoy/it-me"
   },
   {
@@ -1699,10 +1536,7 @@
       "area": "South East"
     },
     "imageUrl": "https://www.dropbox.com/s/h3yjx6kyef7n2mt/Universal%20basic%20income%20-%20duck%20or%20rabbit.jpg?dl=0",
-    "tags": [
-      "Workshop",
-      "Experiment"
-    ],
+    "tags": ["Workshop", "Experiment"],
     "websiteUrl": "http://cargocollective.com/simonaciocoiu ; deliaspatareanu.com  "
   },
   {
@@ -1724,9 +1558,7 @@
       "area": "Fitzrovia"
     },
     "imageUrl": "to be provided",
-    "tags": [
-      "Walk"
-    ],
+    "tags": ["Walk"],
     "websiteUrl": ""
   },
   {
@@ -1748,9 +1580,7 @@
       "area": ""
     },
     "imageUrl": "https://drive.google.com/a/bristol.ac.uk/file/d/0B06zD0rYT7FeVm9KT0JJRmliU0k/view?usp=sharing",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1772,9 +1602,7 @@
       "area": "Dalston, Hackney, East London, United Kingdom"
     },
     "imageUrl": "https://www.eventbrite.co.uk/e/imperfect-vr-workshop-tickets-33378904201",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "www.doomedgallery.com"
   },
   {
@@ -1796,9 +1624,7 @@
       "area": "London"
     },
     "imageUrl": "https://www.youtube.com/watch?v=n6dxcuSdLII&feature=share",
-    "tags": [
-      "Performance Party"
-    ],
+    "tags": ["Performance Party"],
     "websiteUrl": "theromeprocess.net (under construction)"
   },
   {
@@ -1820,9 +1646,7 @@
       "area": "London"
     },
     "imageUrl": "https://www.facebook.com/photo.php?fbid=10156046791867576&set=g.141224279284738&type=1&theater",
-    "tags": [
-      "Mental Health speak out with picnic afterwards"
-    ],
+    "tags": ["Mental Health speak out with picnic afterwards"],
     "websiteUrl": "pending"
   },
   {
@@ -1844,9 +1668,7 @@
       "area": "London"
     },
     "imageUrl": "https://drive.google.com/file/d/0B1KptExAAbWmYmZmcjFTZExHeGM/view",
-    "tags": [
-      "film screening"
-    ],
+    "tags": ["film screening"],
     "websiteUrl": "www.cinenova.org"
   },
   {
@@ -1868,9 +1690,7 @@
       "area": "London"
     },
     "imageUrl": "https://www.eventbrite.com/e/winning-the-battle-of-ideas-inside-the-political-brain-tickets-33112900577?utm_source=eb_email&utm_medium=email&utm_campaign=new_event_email&utm_term=viewmyevent_button",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1892,10 +1712,7 @@
       "area": "London"
     },
     "imageUrl": "https://artandcritique.uk/studio-crit/ Flyer: https://artandcritique.uk/wp-content/uploads/2017/03/STUDIOCRIT5-web.jpg",
-    "tags": [
-      "Workshop",
-      "Studio Crit"
-    ],
+    "tags": ["Workshop", "Studio Crit"],
     "websiteUrl": "https://artandcritique.uk "
   },
   {
@@ -1917,9 +1734,7 @@
       "area": "London"
     },
     "imageUrl": "My company's Instagram account: @sistersof3den",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "https://sistersof3den.wixsite.com/sistersof3den"
   },
   {
@@ -1941,10 +1756,7 @@
       "area": "London"
     },
     "imageUrl": "same as last year + this video https://vimeo.com/197324168",
-    "tags": [
-      "Walk",
-      "Intervention"
-    ],
+    "tags": ["Walk", "Intervention"],
     "websiteUrl": "https://poemwalks.wordpress.com"
   },
   {
@@ -1966,9 +1778,7 @@
       "area": "London "
     },
     "imageUrl": "https://thesaturdaymuseum.org/contents/#jp-carousel-543",
-    "tags": [
-      "Experiment"
-    ],
+    "tags": ["Experiment"],
     "websiteUrl": "www.thesaturdaymuseum.org "
   },
   {
@@ -1990,9 +1800,7 @@
       "area": "London"
     },
     "imageUrl": "https://drive.google.com/file/d/0B3rFtOpRcMZhdU9RanM2d01scm8/view?usp=sharing",
-    "tags": [
-      "Walk"
-    ],
+    "tags": ["Walk"],
     "websiteUrl": "www.airstudio.org"
   },
   {
@@ -2014,10 +1822,7 @@
       "area": "London"
     },
     "imageUrl": "TBC",
-    "tags": [
-      "Talk",
-      "Walk"
-    ],
+    "tags": ["Talk", "Walk"],
     "websiteUrl": "www.dannouveau.co.uk"
   },
   {
@@ -2039,11 +1844,7 @@
       "area": "Bristol / South West"
     },
     "imageUrl": "http://cargocollective.com/she-killed-time",
-    "tags": [
-      "Talk",
-      "Walk",
-      "Experiment"
-    ],
+    "tags": ["Talk", "Walk", "Experiment"],
     "websiteUrl": ""
   },
   {
@@ -2065,10 +1866,7 @@
       "area": "Poplar, London"
     },
     "imageUrl": "https://www.mixcloud.com/VoicesOfGod/",
-    "tags": [
-      "Talk",
-      "Performance"
-    ],
+    "tags": ["Talk", "Performance"],
     "websiteUrl": "https://www.mixcloud.com/VoicesOfGod/"
   },
   {
@@ -2090,11 +1888,7 @@
       "area": "London"
     },
     "imageUrl": "https://www.flickr.com/photos/137111812@N02/albums/72157677732359703",
-    "tags": [
-      "Intervention",
-      "Experiment",
-      "Performance"
-    ],
+    "tags": ["Intervention", "Experiment", "Performance"],
     "websiteUrl": ""
   },
   {
@@ -2116,10 +1910,7 @@
       "area": "Outer North London"
     },
     "imageUrl": "https://inspirallondon.com/visual-archive/",
-    "tags": [
-      "Walk",
-      "Walking Art Workshop"
-    ],
+    "tags": ["Walk", "Walking Art Workshop"],
     "websiteUrl": "https://inspirallondon.com/"
   },
   {
@@ -2141,9 +1932,7 @@
       "area": "South East London"
     },
     "imageUrl": "https://www.dropbox.com/sh/qb0enmzhunwrqt1/AAABR1ugARm_RK1HPPlZVnP1a?dl=0",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "www.chrisalton.com and  www.liamgb.co.uk"
   },
   {
@@ -2165,9 +1954,7 @@
       "area": "London"
     },
     "imageUrl": "Www.ifproject.co.uk/Borders (the flyer) ",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "www.ifproject.co.uk"
   },
   {
@@ -2189,9 +1976,7 @@
       "area": ""
     },
     "imageUrl": "there's loads of cool photos to choose from on our Facebook page! https://www.facebook.com/NCAFC/",
-    "tags": [
-      "Workshop"
-    ],
+    "tags": ["Workshop"],
     "websiteUrl": "http://anticuts.com/"
   },
   {
@@ -2240,9 +2025,7 @@
       "area": "London"
     },
     "imageUrl": "https://twitter.com/rubenssalgado/status/848626623872159746",
-    "tags": [
-      "Collective Panel Discussion"
-    ],
+    "tags": ["Collective Panel Discussion"],
     "websiteUrl": ""
   },
   {
@@ -2264,10 +2047,7 @@
       "area": "London"
     },
     "imageUrl": "https://drive.google.com/open?id=0ByTWpaTrA_fSUldzVGV0ZDJmX0E",
-    "tags": [
-      "Talk",
-      "Workshop"
-    ],
+    "tags": ["Talk", "Workshop"],
     "websiteUrl": "http://postartists.com/"
   },
   {
@@ -2289,9 +2069,7 @@
       "area": "London"
     },
     "imageUrl": "Images to be shared later",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "no website"
   },
   {
@@ -2313,9 +2091,7 @@
       "area": "London "
     },
     "imageUrl": "http://dollysen.com/?page_id=269",
-    "tags": [
-      "Talk"
-    ],
+    "tags": ["Talk"],
     "websiteUrl": "http://www.dollysen.com "
   },
   {
@@ -2337,9 +2113,7 @@
       "area": ""
     },
     "imageUrl": "https://anticap.files.wordpress.com/2013/10/jobs_are.jpg?w=614",
-    "tags": [
-      "Experiment"
-    ],
+    "tags": ["Experiment"],
     "websiteUrl": "www.evening-class.org"
   },
   {
@@ -2361,9 +2135,7 @@
       "area": ""
     },
     "imageUrl": "http://imaginativeknowledge.org/walkstalks.html",
-    "tags": [
-      "Walk"
-    ],
+    "tags": ["Walk"],
     "websiteUrl": "www.imaginativeknowledge.org"
   }
 ]
