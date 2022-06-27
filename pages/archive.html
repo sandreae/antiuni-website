@@ -82,55 +82,18 @@ permalink: /archive/
     <div class="archive-item-text">{{event.title}}</div>
   </div>
   {% endfor %}
-  <div class="archive-date">2017</div>
-  {% for event in site.data.events-2017 %}
+  <div class="archive-date">2015-2017</div>
+  {% for event in site.data.2015-2017-events-cargo %}
   <div class="archive-item">
-    <a
-      class="archive-item-link"
-      href="/{{ event.title | datapage_url: 'events' }}"
-    >
-      <div class="archive-item-text">{{event.title}}</div>
+    <a class="archive-item-link" href="{{ event.cargoUrl }}">
+      <div class="archive-item-text">{{event.cargoTitle}}</div>
     </a>
     <img
-      src="{{ event.imageUrl }}"
+      src="{{ event.cargoImageUrl }}"
       style="display: none"
       onload="this.style.display=''"
     />
-    <div class="archive-item-text">{{event.title}}</div>
-  </div>
-  {% endfor %}
-  <div class="archive-date">2016</div>
-  {% for event in site.data.events-2016 %}
-  <div class="archive-item">
-    <a
-      class="archive-item-link"
-      href="/{{ event.title | datapage_url: 'events' }}"
-    >
-      <div class="archive-item-text">{{event.title}}</div>
-    </a>
-    <img
-      src="{{ event.imageUrl }}"
-      style="display: none"
-      onload="this.style.display=''"
-    />
-    <div class="archive-item-text">{{event.title}}</div>
-  </div>
-  {% endfor %}
-  <div class="archive-date">2015</div>
-  {% for event in site.data.events-2015 %}
-  <div class="archive-item">
-    <a
-      class="archive-item-link"
-      href="/{{ event.title | datapage_url: 'events' }}"
-    >
-      <div class="archive-item-text">{{event.title}}</div>
-    </a>
-    <img
-      src="{{ event.imageUrl }}"
-      style="display: none"
-      onload="this.style.display=''"
-    />
-    <div class="archive-item-text">{{event.title}}</div>
+    <div class="archive-item-text">{{event.cargoTitle}}</div>
   </div>
   {% endfor %}
 </div>
