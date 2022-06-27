@@ -3,17 +3,16 @@
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    word-break:break-all;
     text-align: justify;
     div {
         flex: 0 0 160px;
         max-height: 160px;
         min-height: 160px;
-        overflow: hidden;
     }
 }
 
 .archive-item {
+    background-color: green;
     position: relative;
     img {
         width: 100%;
@@ -32,10 +31,15 @@
     &:hover {
         opacity: 1;
     }
+    height: 100%;
+    width: 100%;
 }
 
 .archive-item-text {
-    font-size: 2em;
+    padding-top: auto;
+    padding-bottom: auto;
+    text-align: center;
+    padding: auto;
 }
 
 .archive-date {
