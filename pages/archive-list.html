@@ -6,36 +6,53 @@ permalink: /archive-list/
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="search...">
-    <ul id="results-container"></ul>
+  <input type="text" id="search-input" placeholder="search..." />
+  <ul id="results-container"></ul>
 </div>
 
 <ul>
-    <li>2020</li>
-{% for event in site.data.events-2020 %}
-   <li> <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a></li>
-{% endfor %}
-<li>2019</li>
-{% for event in site.data.events-2019 %}
-   <li> <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a></li>
-{% endfor %}
-<li>2018</li>
-{% for event in site.data.events-2018 %}
-   <li> <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a></li>
-{% endfor %}
-<li>2017</li>
-{% for event in site.data.events-2017 %}
-   <li> <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a></li>
-{% endfor %}
-<li>2016</li>
-{% for event in site.data.events-2016 %}
-   <li> <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a></li>
-{% endfor %}
-<li>2015</li>
-{% for event in site.data.events-2015 %}
-   <li> <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a></li>
-{% endfor %}
-
+  <li>2021</li>
+  {% for event in site.data.events-2021 %}
+  <li>
+    <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a>
+  </li>
+  {% endfor %}
+  <li>2020</li>
+  {% for event in site.data.events-2020 %}
+  <li>
+    <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a>
+  </li>
+  {% endfor %}
+  <li>2019</li>
+  {% for event in site.data.events-2019 %}
+  <li>
+    <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a>
+  </li>
+  {% endfor %}
+  <li>2018</li>
+  {% for event in site.data.events-2018 %}
+  <li>
+    <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a>
+  </li>
+  {% endfor %}
+  <li>2017</li>
+  {% for event in site.data.events-2017 %}
+  <li>
+    <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a>
+  </li>
+  {% endfor %}
+  <li>2016</li>
+  {% for event in site.data.events-2016 %}
+  <li>
+    <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a>
+  </li>
+  {% endfor %}
+  <li>2015</li>
+  {% for event in site.data.events-2015 %}
+  <li>
+    <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a>
+  </li>
+  {% endfor %}
 </ul>
 
 <!-- Script pointing to search-script.js -->
@@ -43,10 +60,10 @@ permalink: /archive-list/
 
 <!-- Configuration -->
 <script>
-SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '/search.json',
-    limit: 100
-})
+  SimpleJekyllSearch({
+    searchInput: document.getElementById("search-input"),
+    resultsContainer: document.getElementById("results-container"),
+    json: "/search.json",
+    limit: 100,
+  });
 </script>
