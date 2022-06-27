@@ -35,8 +35,20 @@ permalink: /archive-list/
     <a href="/{{ event.title | datapage_url: 'events' }}">{{event.title}}</a>
   </li>
   {% endfor %}
-  <li>2015 - 2017</li>
-  {% for event in site.data.2015-2017-events-cargo %}
+  <li>2017</li>
+  {% for event in site.data.cargo-events-2017 %}
+  <li>
+    <a href="{{ event.cargoUrl }}">{{event.cargoTitle}}</a>
+  </li>
+  {% endfor %}
+  <li>2016</li>
+  {% for event in site.data.cargo-events-2016 %}
+  <li>
+    <a href="{{ event.cargoUrl }}">{{event.cargoTitle}}</a>
+  </li>
+  {% endfor %}
+  <li>2016</li>
+  {% for event in site.data.cargo-events-2015 %}
   <li>
     <a href="{{ event.cargoUrl }}">{{event.cargoTitle}}</a>
   </li>

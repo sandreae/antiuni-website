@@ -82,8 +82,36 @@ permalink: /archive/
     <div class="archive-item-text">{{event.title}}</div>
   </div>
   {% endfor %}
-  <div class="archive-date">2015-2017</div>
-  {% for event in site.data.2015-2017-events-cargo %}
+  <div class="archive-date">2017</div>
+  {% for event in site.data.cargo-events-2017 %}
+  <div class="archive-item">
+    <a class="archive-item-link" href="{{ event.cargoUrl }}">
+      <div class="archive-item-text">{{event.cargoTitle}}</div>
+    </a>
+    <img
+      src="{{ event.cargoImageUrl }}"
+      style="display: none"
+      onload="this.style.display=''"
+    />
+    <div class="archive-item-text">{{event.cargoTitle}}</div>
+  </div>
+  {% endfor %}
+  <div class="archive-date">2016</div>
+  {% for event in site.data.cargo-events-2016 %}
+  <div class="archive-item">
+    <a class="archive-item-link" href="{{ event.cargoUrl }}">
+      <div class="archive-item-text">{{event.cargoTitle}}</div>
+    </a>
+    <img
+      src="{{ event.cargoImageUrl }}"
+      style="display: none"
+      onload="this.style.display=''"
+    />
+    <div class="archive-item-text">{{event.cargoTitle}}</div>
+  </div>
+  {% endfor %}
+  <div class="archive-date">2015</div>
+  {% for event in site.data.cargo-events-2015 %}
   <div class="archive-item">
     <a class="archive-item-link" href="{{ event.cargoUrl }}">
       <div class="archive-item-text">{{event.cargoTitle}}</div>

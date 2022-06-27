@@ -1,6 +1,6 @@
 ---
 ---
-{% assign all_events = site.data.events-2021 | site.data.events-2020 | concat: site.data.events-2019 | concat: site.data.events-2018 | concat: site.data.events-2017 | concat: site.data.events-2016 | concat: site.data.events-2015  %}
+{% assign all_events = concat: site.data.events-2021 | concat: site.data.events-2020 | concat: site.data.events-2019 | concat: site.data.events-2018 | concat: site.data.events-2017 | concat: site.data.events-2016 | concat: site.data.events-2015  %}
 [
   {% for event in all_events %}
     {
