@@ -39,5 +39,3 @@ page_gen:
     template: "event"
     name: "title"
     dir: "events"
-hoffnung3000:
-  url: "https://festival.antiuniversity.org"
