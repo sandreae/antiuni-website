@@ -17,10 +17,8 @@
       "description": null,
       "area": "ONLINE"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20death%20in%20florence.jpg",
-    "tags": [
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20death%20in%20florence.jpg",
+    "tags": ["Art"],
     "websiteUrl": "https://modernace.ch/"
   },
   {
@@ -41,10 +39,8 @@
       "description": null,
       "area": "ONLINE"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20n.paradoxa.gif",
-    "tags": [
-      "Feminism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20n.paradoxa.gif",
+    "tags": ["Feminism"],
     "websiteUrl": "https://nparadoxa.com"
   },
   {
@@ -65,12 +61,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20un%20learning%20museums.jpg",
-    "tags": [
-      "Art",
-      "History",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20un%20learning%20museums.jpg",
+    "tags": ["Art", "History", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -91,10 +83,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2018/Helen%20Clifford%20-%20Antiuniversity%20madeinroath%20TRANSMIT.jpg",
-    "tags": [
-      "Sound"
-    ],
+    "imageUrl": "/assets/images/events/Helen%20Clifford%20-%20Antiuniversity%20madeinroath%20TRANSMIT.jpg",
+    "tags": ["Sound"],
     "websiteUrl": "www.madeinroath.com"
   },
   {
@@ -115,12 +105,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Basket%20Weaving%20for%20Beginners.jpg",
-    "tags": [
-      "History",
-      "Mental Health",
-      "Craft"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Basket%20Weaving%20for%20Beginners.jpg",
+    "tags": ["History", "Mental Health", "Craft"],
     "websiteUrl": "https://arcadecardiff.co.uk/"
   },
   {
@@ -141,12 +127,8 @@
       "description": null,
       "area": "Scotland"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20right%20to%20he%20city.jpg",
-    "tags": [
-      "Politics",
-      "History",
-      "Gentrification"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20right%20to%20he%20city.jpg",
+    "tags": ["Politics", "History", "Gentrification"],
     "websiteUrl": "https://edinburghfuturesinstitute.wordpress.com/"
   },
   {
@@ -167,10 +149,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Frunch.jpg",
-    "tags": [
-      "Food"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Frunch.jpg",
+    "tags": ["Food"],
     "websiteUrl": "www.g39.org"
   },
   {
@@ -191,11 +171,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20where%20is%20the%20voice.jpg",
-    "tags": [
-      "Technology",
-      "Feminism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20where%20is%20the%20voice.jpg",
+    "tags": ["Technology", "Feminism"],
     "websiteUrl": ""
   },
   {
@@ -216,10 +193,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20-%20Cannabis%20.jpg",
-    "tags": [
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20-%20Cannabis%20.jpg",
+    "tags": ["Politics"],
     "websiteUrl": "http://www.magicgreenery.com"
   },
   {
@@ -240,11 +215,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20gab%20through%20garb.jpg",
-    "tags": [
-      "Direct Action",
-      "Craft"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20gab%20through%20garb.jpg",
+    "tags": ["Direct Action", "Craft"],
     "websiteUrl": "r-a-r-a.com"
   },
   {
@@ -265,11 +237,8 @@
       "description": null,
       "area": "East"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-Lou%20Barnell-%20Experiments%20in%20Sonic%20Corporeality-Photo%20Credit-Hannah%20Lovell.jpg",
-    "tags": [
-      "Sound",
-      "Dance"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-Lou%20Barnell-%20Experiments%20in%20Sonic%20Corporeality-Photo%20Credit-Hannah%20Lovell.jpg",
+    "tags": ["Sound", "Dance"],
     "websiteUrl": "www.loubarnell.co.uk"
   },
   {
@@ -290,12 +259,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-windrush.jpg",
-    "tags": [
-      "Race",
-      "History",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-windrush.jpg",
+    "tags": ["Race", "History", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -316,11 +281,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-radical-sobriety.jpg",
-    "tags": [
-      "Mental Health",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-radical-sobriety.jpg",
+    "tags": ["Mental Health", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -341,11 +303,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20mediawatching101.fw.jpg",
-    "tags": [
-      "Direct Action",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20mediawatching101.fw.jpg",
+    "tags": ["Direct Action", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -366,11 +325,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuni%202018%20closing%20party%20lo%20res.jpg",
-    "tags": [
-      "Sound",
-      "Dance"
-    ],
+    "imageUrl": "/assets/images/events/Antiuni%202018%20closing%20party%20lo%20res.jpg",
+    "tags": ["Sound", "Dance"],
     "websiteUrl": ""
   },
   {
@@ -391,10 +347,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-synaptic-new.jpeg",
-    "tags": [
-      "Sound"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-synaptic-new.jpeg",
+    "tags": ["Sound"],
     "websiteUrl": "https://soundcloud.com/synapticisland"
   },
   {
@@ -415,10 +369,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20WARM.jpg",
-    "tags": [
-      "Bodies"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20WARM.jpg",
+    "tags": ["Bodies"],
     "websiteUrl": ""
   },
   {
@@ -439,12 +391,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/antiuniversity%20imagining%20radical%20communities.jpg",
-    "tags": [
-      "Politics",
-      "Mental Health",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/antiuniversity%20imagining%20radical%20communities.jpg",
+    "tags": ["Politics", "Mental Health", "Anti-capitalism"],
     "websiteUrl": ""
   },
   {
@@ -465,11 +413,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity_SynapticIsland-ListeningSession_soundtrack.jpg",
-    "tags": [
-      "Sound",
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity_SynapticIsland-ListeningSession_soundtrack.jpg",
+    "tags": ["Sound", "Art"],
     "websiteUrl": "https://soundcloud.com/synapticisland"
   },
   {
@@ -490,10 +435,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20DIY%20radio.jpg",
-    "tags": [
-      "Sound"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20DIY%20radio.jpg",
+    "tags": ["Sound"],
     "websiteUrl": "199radio.com"
   },
   {
@@ -514,11 +457,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Alternative%20Societies.jpg",
-    "tags": [
-      "Education",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Alternative%20Societies.jpg",
+    "tags": ["Education", "Anti-capitalism"],
     "websiteUrl": "http://freeuniversitybrighton.org/events/alternative-societies-2/"
   },
   {
@@ -539,12 +479,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20reproductive%20justice.jpg",
-    "tags": [
-      "Feminism",
-      "Direct Action",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20reproductive%20justice.jpg",
+    "tags": ["Feminism", "Direct Action", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -566,9 +502,7 @@
       "area": "London"
     },
     "imageUrl": "https://drive.google.com/file/d/1Qj5e6YrG7KatpwXWdwXaA6reJpWys-sr/view?usp=sharingraw=1",
-    "tags": [
-      "Mental Health"
-    ],
+    "tags": ["Mental Health"],
     "websiteUrl": ""
   },
   {
@@ -589,11 +523,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Mark%20Fisher-Capitalist-Realism.jpg?dl=assadraw=1",
-    "tags": [
-      "Anti-capitalism",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Mark%20Fisher-Capitalist-Realism.jpg?dl=assadraw=1",
+    "tags": ["Anti-capitalism", "Politics"],
     "websiteUrl": "https://artandcritique.uk/book-club/"
   },
   {
@@ -614,12 +545,8 @@
       "description": null,
       "area": "North West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Multivoices.jpg",
-    "tags": [
-      "Art",
-      "Sound",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Multivoices.jpg",
+    "tags": ["Art", "Sound", "Politics"],
     "websiteUrl": "https://artistlivework.net"
   },
   {
@@ -640,11 +567,8 @@
       "description": null,
       "area": "North West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity_NOW%20Liverpool-Sexton.jpg",
-    "tags": [
-      "History",
-      "Food"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity_NOW%20Liverpool-Sexton.jpg",
+    "tags": ["History", "Food"],
     "websiteUrl": "http://bit.ly/AntiuniLiverpool15thJune"
   },
   {
@@ -665,10 +589,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/rethinking%20evaluation%20antiuniversity.jpg",
-    "tags": [
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/rethinking%20evaluation%20antiuniversity.jpg",
+    "tags": ["Art"],
     "websiteUrl": "https://www.2ndencounter.com/walking-through-artist-s-book "
   },
   {
@@ -689,10 +611,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Catalogue.jpg",
-    "tags": [
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Catalogue.jpg",
+    "tags": ["Art"],
     "websiteUrl": "http://wellprojects.xyz/"
   },
   {
@@ -713,12 +633,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Xenia%202018%20newsletter.jpg",
-    "tags": [
-      "Feminism",
-      "Politics",
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Xenia%202018%20newsletter.jpg",
+    "tags": ["Feminism", "Politics", "Education"],
     "websiteUrl": "www.xenia.org.uk"
   },
   {
@@ -739,11 +655,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-family-democracy.jpg",
-    "tags": [
-      "Politics",
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-family-democracy.jpg",
+    "tags": ["Politics", "Education"],
     "websiteUrl": ""
   },
   {
@@ -764,10 +677,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20building%20tools.jpg",
-    "tags": [
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20building%20tools.jpg",
+    "tags": ["Education"],
     "websiteUrl": ""
   },
   {
@@ -788,12 +699,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-souls-and-city.jpg",
-    "tags": [
-      "Gentrification",
-      "Art",
-      "Feminism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-souls-and-city.jpg",
+    "tags": ["Gentrification", "Art", "Feminism"],
     "websiteUrl": "https://degeneratespace.wixsite.com/degeneratespace/solus"
   },
   {
@@ -814,10 +721,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20what%20is%20poetry.jpg",
-    "tags": [
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20what%20is%20poetry.jpg",
+    "tags": ["Art"],
     "websiteUrl": "https://www.alarmsandexcursions.com/"
   },
   {
@@ -838,10 +743,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2018/Helen%20Clifford%20-%20Antiuniversity%20madeinroath%20TRANSMIT.jpg",
-    "tags": [
-      "Sound"
-    ],
+    "imageUrl": "/assets/images/events/Helen%20Clifford%20-%20Antiuniversity%20madeinroath%20TRANSMIT.jpg",
+    "tags": ["Sound"],
     "websiteUrl": "www.madeinroath.com"
   },
   {
@@ -862,11 +765,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20soft%20sickness.jpg",
-    "tags": [
-      "Ecology",
-      "Technology"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20soft%20sickness.jpg",
+    "tags": ["Ecology", "Technology"],
     "websiteUrl": "https://www.furtherfield.org/whats-on/"
   },
   {
@@ -887,12 +787,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/vlada%20predelina%20-%20estate%20sign%20antiuniversity%20workshop%20-%20vlada%20predelina.jpg",
-    "tags": [
-      "Direct Action",
-      "Gentrification",
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/vlada%20predelina%20-%20estate%20sign%20antiuniversity%20workshop%20-%20vlada%20predelina.jpg",
+    "tags": ["Direct Action", "Gentrification", "Art"],
     "websiteUrl": "www.predelina.com"
   },
   {
@@ -913,11 +809,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20handmade%20film%20BEEF.jpg",
-    "tags": [
-      "Art",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20handmade%20film%20BEEF.jpg",
+    "tags": ["Art", "Anti-capitalism"],
     "websiteUrl": "http://www.beefbristol.org"
   },
   {
@@ -938,10 +831,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/eva%20megias%20-%20eva_megias_chess.jpg",
-    "tags": [
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/eva%20megias%20-%20eva_megias_chess.jpg",
+    "tags": ["Education"],
     "websiteUrl": "http://www.evamegias.com/"
   },
   {
@@ -962,11 +853,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Radical%20anthropology%20.jpeg",
-    "tags": [
-      "Politics",
-      "History"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Radical%20anthropology%20.jpeg",
+    "tags": ["Politics", "History"],
     "websiteUrl": "radicalanthropology.org"
   },
   {
@@ -987,12 +875,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20What%20is%20the%20point.jpeg",
-    "tags": [
-      "Art",
-      "Craft",
-      "Bodies"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20What%20is%20the%20point.jpeg",
+    "tags": ["Art", "Craft", "Bodies"],
     "websiteUrl": "http://doomedgallery.tumblr.com/"
   },
   {
@@ -1013,11 +897,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Economics%20global.jpg",
-    "tags": [
-      "Politics",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Economics%20global.jpg",
+    "tags": ["Politics", "Anti-capitalism"],
     "websiteUrl": ""
   },
   {
@@ -1038,10 +919,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/antiUniversity%20artificial%20intelligence.jpg",
-    "tags": [
-      "Technology"
-    ],
+    "imageUrl": "/assets/images/events/antiUniversity%20artificial%20intelligence.jpg",
+    "tags": ["Technology"],
     "websiteUrl": "http://chriswood.art"
   },
   {
@@ -1062,10 +941,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-listening-found-sound-1.jpg",
-    "tags": [
-      "Sound"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-listening-found-sound-1.jpg",
+    "tags": ["Sound"],
     "websiteUrl": "www.blancsceol.co.uk"
   },
   {
@@ -1086,10 +963,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20women%20acting%20collectively.jpg",
-    "tags": [
-      "Feminism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20women%20acting%20collectively.jpg",
+    "tags": ["Feminism"],
     "websiteUrl": "http://www.spacestudios.org.uk/news/feminist-duration-mar-2018/"
   },
   {
@@ -1110,10 +985,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/jenny%20pengilly%20-%20Anti-University_Visuals_to_Vocals_Workshop.jpg",
-    "tags": [
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/jenny%20pengilly%20-%20Anti-University_Visuals_to_Vocals_Workshop.jpg",
+    "tags": ["Art"],
     "websiteUrl": "www.jennypengilly.com"
   },
   {
@@ -1134,11 +1007,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/PAY_NO_RENT_LRU_MDR%20antiuniversity.jpg",
-    "tags": [
-      "Direct Action",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/PAY_NO_RENT_LRU_MDR%20antiuniversity.jpg",
+    "tags": ["Direct Action", "Anti-capitalism"],
     "websiteUrl": "londonrentersunion.org"
   },
   {
@@ -1159,11 +1029,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Susannah%20Haslam%20-%20Alternatives%20to%20the%20alternative%20art%20school.%20Antiuniversity.jpg",
-    "tags": [
-      "Education",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Susannah%20Haslam%20-%20Alternatives%20to%20the%20alternative%20art%20school.%20Antiuniversity.jpg",
+    "tags": ["Education", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -1184,11 +1051,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20guerilla%20printmaking.jpg",
-    "tags": [
-      "Craft",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20guerilla%20printmaking.jpg",
+    "tags": ["Craft", "Politics"],
     "websiteUrl": "www.pablolugo.com"
   },
   {
@@ -1209,11 +1073,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Radical%20anthropology%20.jpeg",
-    "tags": [
-      "Feminism",
-      "History"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Radical%20anthropology%20.jpeg",
+    "tags": ["Feminism", "History"],
     "websiteUrl": "radicalanthropology.org"
   },
   {
@@ -1234,11 +1095,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Rites%20Responsibilities.jpg",
-    "tags": [
-      "History",
-      "Direct Action"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Rites%20Responsibilities.jpg",
+    "tags": ["History", "Direct Action"],
     "websiteUrl": ""
   },
   {
@@ -1259,12 +1117,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20radical%20ecology.jpg",
-    "tags": [
-      "Ecology",
-      "Politics",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20radical%20ecology.jpg",
+    "tags": ["Ecology", "Politics", "Anti-capitalism"],
     "websiteUrl": "https://aflondon.wordpress.com/"
   },
   {
@@ -1285,11 +1139,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Jeroen%20Bouweriks%20-%20Girls%20%26%20Beuys%20talks%20antiuniversity.jpg",
-    "tags": [
-      "Art",
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Jeroen%20Bouweriks%20-%20Girls%20%26%20Beuys%20talks%20antiuniversity.jpg",
+    "tags": ["Art", "Education"],
     "websiteUrl": "www.jeroenbouweriks.com"
   },
   {
@@ -1310,12 +1161,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20psychology%20%26%20capitalism.jpg",
-    "tags": [
-      "Mental Health",
-      "Anti-capitalism",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20psychology%20%26%20capitalism.jpg",
+    "tags": ["Mental Health", "Anti-capitalism", "Politics"],
     "websiteUrl": "https://www.ronroberts.co.uk/"
   },
   {
@@ -1336,11 +1183,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20placemaking%20-%20the%20power%20of%20culture.jpg",
-    "tags": [
-      "Gentrification",
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20placemaking%20-%20the%20power%20of%20culture.jpg",
+    "tags": ["Gentrification", "Art"],
     "websiteUrl": "http://sticksgallery.co.uk"
   },
   {
@@ -1361,11 +1205,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20talking%20pubes.jpg",
-    "tags": [
-      "Bodies",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20talking%20pubes.jpg",
+    "tags": ["Bodies", "Politics"],
     "websiteUrl": "sexpluszine.com"
   },
   {
@@ -1386,10 +1227,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-Date-night-iftar-Patchwork-Archivists.jpg",
-    "tags": [
-      "Food"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-Date-night-iftar-Patchwork-Archivists.jpg",
+    "tags": ["Food"],
     "websiteUrl": "https://www.patchwork-archivists.org/"
   },
   {
@@ -1410,12 +1249,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Fernanda%20munoz-newsome%20-%20antiuniversity-Wetakethenight.jpg",
-    "tags": [
-      "Feminism",
-      "Bodies",
-      "Direct Action"
-    ],
+    "imageUrl": "/assets/images/events/Fernanda%20munoz-newsome%20-%20antiuniversity-Wetakethenight.jpg",
+    "tags": ["Feminism", "Bodies", "Direct Action"],
     "websiteUrl": "http://cargocollective.com/fernandamunoznewsome"
   },
   {
@@ -1436,11 +1271,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-allotment-gardens.jpg",
-    "tags": [
-      "Ecology",
-      "History"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-allotment-gardens.jpg",
+    "tags": ["Ecology", "History"],
     "websiteUrl": "newsfromnowhereweb.wordpress.com"
   },
   {
@@ -1461,11 +1293,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-anarchist-fitzrovia.jpg",
-    "tags": [
-      "History",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-anarchist-fitzrovia.jpg",
+    "tags": ["History", "Anti-capitalism"],
     "websiteUrl": ""
   },
   {
@@ -1486,11 +1315,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20back%20to%20zero.jpg",
-    "tags": [
-      "Bodies",
-      "Mental Health"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20back%20to%20zero.jpg",
+    "tags": ["Bodies", "Mental Health"],
     "websiteUrl": ""
   },
   {
@@ -1511,12 +1337,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Wilhelm%20Reich%20Antiuniversity.jpg",
-    "tags": [
-      "Bodies",
-      "History",
-      "Mental Health"
-    ],
+    "imageUrl": "/assets/images/events/Wilhelm%20Reich%20Antiuniversity.jpg",
+    "tags": ["Bodies", "History", "Mental Health"],
     "websiteUrl": ""
   },
   {
@@ -1537,10 +1359,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-The-Knowledge-Store.jpg",
-    "tags": [
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-The-Knowledge-Store.jpg",
+    "tags": ["Education"],
     "websiteUrl": "petekingston.x10host.com"
   },
   {
@@ -1561,11 +1381,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Antuniversity-TS-IDIOT.jpg",
-    "tags": [
-      "Education",
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antuniversity-TS-IDIOT.jpg",
+    "tags": ["Education", "Art"],
     "websiteUrl": "www.tomstockley.weebly.com/journal/burning-my-degree"
   },
   {
@@ -1586,11 +1403,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20your%20time%20is%20political.jpg",
-    "tags": [
-      "Politics",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20your%20time%20is%20political.jpg",
+    "tags": ["Politics", "Anti-capitalism"],
     "websiteUrl": "https://www.4dayweek.co.uk/"
   },
   {
@@ -1611,11 +1425,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20DIY%20history%20jet%20moon.jpg",
-    "tags": [
-      "History",
-      "Feminism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20DIY%20history%20jet%20moon.jpg",
+    "tags": ["History", "Feminism"],
     "websiteUrl": ""
   },
   {
@@ -1636,10 +1447,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20P2P%20workshop.jpg",
-    "tags": [
-      "Technology"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20P2P%20workshop.jpg",
+    "tags": ["Technology"],
     "websiteUrl": "https://home-agoramahub.hashbase.io/"
   },
   {
@@ -1660,12 +1469,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Mustard.jpg",
-    "tags": [
-      "History",
-      "Direct Action",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Mustard.jpg",
+    "tags": ["History", "Direct Action", "Anti-capitalism"],
     "websiteUrl": "https://mustardthemovie.org"
   },
   {
@@ -1686,10 +1491,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Jonathan%20Hoskins%20-%20Woodwork%20as%20we%20want%20it%20Antiuniversity%202018.jpg",
-    "tags": [
-      "Craft"
-    ],
+    "imageUrl": "/assets/images/events/Jonathan%20Hoskins%20-%20Woodwork%20as%20we%20want%20it%20Antiuniversity%202018.jpg",
+    "tags": ["Craft"],
     "websiteUrl": "www.jonathanhoskins.com"
   },
   {
@@ -1710,11 +1513,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2018/Helen%20Clifford%20-%20Antiuniversity%20madeinroath%20TRANSMIT.jpg",
-    "tags": [
-      "Sound",
-      "Technology"
-    ],
+    "imageUrl": "/assets/images/events/Helen%20Clifford%20-%20Antiuniversity%20madeinroath%20TRANSMIT.jpg",
+    "tags": ["Sound", "Technology"],
     "websiteUrl": "www.madeinroath.com"
   },
   {
@@ -1735,10 +1535,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20knit%20the%20wall.jpg",
-    "tags": [
-      "Craft"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20knit%20the%20wall.jpg",
+    "tags": ["Craft"],
     "websiteUrl": "http://ght-a-reincarnation.co.uk/knitthewalls/"
   },
   {
@@ -1759,11 +1557,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20look%20make%20listen.jpg",
-    "tags": [
-      "Craft",
-      "Sound"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20look%20make%20listen.jpg",
+    "tags": ["Craft", "Sound"],
     "websiteUrl": "http://www.beefbristol.org"
   },
   {
@@ -1784,10 +1579,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-listening-found-sound-2.jpg",
-    "tags": [
-      "Sound"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-listening-found-sound-2.jpg",
+    "tags": ["Sound"],
     "websiteUrl": "www.blancsceol.co.uk"
   },
   {
@@ -1808,11 +1601,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Be%20Your%20Own%20Radio.jpg",
-    "tags": [
-      "Sound",
-      "Technology"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Be%20Your%20Own%20Radio.jpg",
+    "tags": ["Sound", "Technology"],
     "websiteUrl": ""
   },
   {
@@ -1833,12 +1623,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%2056a%20infoshop.jpg",
-    "tags": [
-      "History",
-      "Politics",
-      "Food"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%2056a%20infoshop.jpg",
+    "tags": ["History", "Politics", "Food"],
     "websiteUrl": "56a.org.uk/ "
   },
   {
@@ -1859,12 +1645,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20-%20cafes%20and%20rebellion.jpg",
-    "tags": [
-      "History",
-      "Politics",
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20-%20cafes%20and%20rebellion.jpg",
+    "tags": ["History", "Politics", "Education"],
     "websiteUrl": ""
   },
   {
@@ -1885,10 +1667,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20experimental%20architecture.JPG",
-    "tags": [
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20experimental%20architecture.JPG",
+    "tags": ["Art"],
     "websiteUrl": "www.annakateblair.com"
   },
   {
@@ -1909,10 +1689,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20existentialist%20plumber.jpg",
-    "tags": [
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20existentialist%20plumber.jpg",
+    "tags": ["Education"],
     "websiteUrl": ""
   },
   {
@@ -1933,11 +1711,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/ANTIUNIVERSITY%20talking%20ghosts.jpeg",
-    "tags": [
-      "Gentrification",
-      "Direct Action"
-    ],
+    "imageUrl": "/assets/images/events/ANTIUNIVERSITY%20talking%20ghosts.jpeg",
+    "tags": ["Gentrification", "Direct Action"],
     "websiteUrl": "http://albertoduman.me.uk/"
   },
   {
@@ -1958,11 +1733,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-bodypolitics-1.jpg",
-    "tags": [
-      "Bodies",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-bodypolitics-1.jpg",
+    "tags": ["Bodies", "Politics"],
     "websiteUrl": "https://www.bodypolitic.space/"
   },
   {
@@ -1983,11 +1755,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20deconstruction.jpg",
-    "tags": [
-      "Bodies",
-      "Dance"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20deconstruction.jpg",
+    "tags": ["Bodies", "Dance"],
     "websiteUrl": "www.monikadorniak.com"
   },
   {
@@ -2008,11 +1777,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-whatever-happened.jpg",
-    "tags": [
-      "History",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-whatever-happened.jpg",
+    "tags": ["History", "Anti-capitalism"],
     "websiteUrl": "https://www.anarchistcommunism.org/"
   },
   {
@@ -2033,11 +1799,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Susana%20Carne%20-%20Direct%20Animation%20Stravaganzza_ANTIUNIVERSITY_2018.jpg",
-    "tags": [
-      "Art",
-      "Craft"
-    ],
+    "imageUrl": "/assets/images/events/Susana%20Carne%20-%20Direct%20Animation%20Stravaganzza_ANTIUNIVERSITY_2018.jpg",
+    "tags": ["Art", "Craft"],
     "websiteUrl": "www.susanacarne.com"
   },
   {
@@ -2058,10 +1821,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20snack-halte.jpg",
-    "tags": [
-      "Food"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20snack-halte.jpg",
+    "tags": ["Food"],
     "websiteUrl": "helenegarcia.com"
   },
   {
@@ -2082,10 +1843,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20cognitive%20symbol.jpg",
-    "tags": [
-      "Alchemy"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20cognitive%20symbol.jpg",
+    "tags": ["Alchemy"],
     "websiteUrl": ""
   },
   {
@@ -2106,12 +1865,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/no_gods__no_masters.jpg",
-    "tags": [
-      "Politics",
-      "Anti-capitalism",
-      "History"
-    ],
+    "imageUrl": "/assets/images/events/no_gods__no_masters.jpg",
+    "tags": ["Politics", "Anti-capitalism", "History"],
     "websiteUrl": ""
   },
   {
@@ -2132,10 +1887,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-edible-intervention-final.JPG",
-    "tags": [
-      "Food"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-edible-intervention-final.JPG",
+    "tags": ["Food"],
     "websiteUrl": "www.fabianczyk.com"
   },
   {
@@ -2156,7 +1909,7 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-talk-to-GP-mental-health.jpg",
+    "imageUrl": "/assets/images/events/Antiuniversity-talk-to-GP-mental-health.jpg",
     "tags": [],
     "websiteUrl": ""
   },
@@ -2178,11 +1931,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-CoopOrDie.jpg",
-    "tags": [
-      "Anti-capitalism",
-      "Direct Action"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-CoopOrDie.jpg",
+    "tags": ["Anti-capitalism", "Direct Action"],
     "websiteUrl": ""
   },
   {
@@ -2203,11 +1953,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-UVW.jpg",
-    "tags": [
-      "Direct Action",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-UVW.jpg",
+    "tags": ["Direct Action", "Anti-capitalism"],
     "websiteUrl": "https://www.uvwunion.org.uk/"
   },
   {
@@ -2228,12 +1975,8 @@
       "description": null,
       "area": ""
     },
-    "imageUrl": "/assets/images/2018/Architectural%20Workers%20-%20AW_How%20can%20unionisation%20resist%20gentrification.jpg",
-    "tags": [
-      "Gentrification",
-      "Anti-capitalism",
-      "Direct Action"
-    ],
+    "imageUrl": "/assets/images/events/Architectural%20Workers%20-%20AW_How%20can%20unionisation%20resist%20gentrification.jpg",
+    "tags": ["Gentrification", "Anti-capitalism", "Direct Action"],
     "websiteUrl": "http://www.architecturalworkers.wordpress.com"
   },
   {
@@ -2254,10 +1997,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20diva%20for%20senya.jpg",
-    "tags": [
-      "Mental Health"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20diva%20for%20senya.jpg",
+    "tags": ["Mental Health"],
     "websiteUrl": "https://www.upyourstreet.wordpress.com"
   },
   {
@@ -2278,11 +2019,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-smiley-eyes.jpg",
-    "tags": [
-      "Art",
-      "Mental Health"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-smiley-eyes.jpg",
+    "tags": ["Art", "Mental Health"],
     "websiteUrl": "rosiemillseckmire.com"
   },
   {
@@ -2303,11 +2041,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Other%20ways%20to%20care%20Antiuniversity.jpg",
-    "tags": [
-      "Mental Health",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Other%20ways%20to%20care%20Antiuniversity.jpg",
+    "tags": ["Mental Health", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -2328,12 +2063,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20tenants%20of%20the%20world.jpg",
-    "tags": [
-      "History",
-      "Direct Action",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20tenants%20of%20the%20world.jpg",
+    "tags": ["History", "Direct Action", "Anti-capitalism"],
     "websiteUrl": "https://www.facebook.com//rentstriker"
   },
   {
@@ -2354,10 +2085,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2018/antiuniversity%20tips%20stealing%20time.jpg",
-    "tags": [
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/antiuniversity%20tips%20stealing%20time.jpg",
+    "tags": ["Art"],
     "websiteUrl": "www.toma-art.com AND https://arcadecardiff.co.uk"
   },
   {
@@ -2378,11 +2107,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Unshackle%20Deptform.jpg",
-    "tags": [
-      "History",
-      "Race"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Unshackle%20Deptform.jpg",
+    "tags": ["History", "Race"],
     "websiteUrl": ""
   },
   {
@@ -2403,11 +2129,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Sickle%20Cell.jpg",
-    "tags": [
-      "Bodies",
-      "Direct Action"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Sickle%20Cell.jpg",
+    "tags": ["Bodies", "Direct Action"],
     "websiteUrl": "www.solacesg.org.uk"
   },
   {
@@ -2428,11 +2151,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20bread%20sculpures.jpg",
-    "tags": [
-      "Food",
-      "History"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20bread%20sculpures.jpg",
+    "tags": ["Food", "History"],
     "websiteUrl": ""
   },
   {
@@ -2453,10 +2173,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20thinking%20not%20thinking.jpg",
-    "tags": [
-      "Bodies"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20thinking%20not%20thinking.jpg",
+    "tags": ["Bodies"],
     "websiteUrl": "https:Enrolyourself.com"
   },
   {
@@ -2477,11 +2195,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20flat%20thinking.jpg",
-    "tags": [
-      "Ecology",
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20flat%20thinking.jpg",
+    "tags": ["Ecology", "Art"],
     "websiteUrl": "www.imaginativeknowledge.org"
   },
   {
@@ -2502,11 +2217,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Graphic%20designers%20union.jpg",
-    "tags": [
-      "Anti-capitalism",
-      "Direct Action"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Graphic%20designers%20union.jpg",
+    "tags": ["Anti-capitalism", "Direct Action"],
     "websiteUrl": "www.evening-class.org"
   },
   {
@@ -2527,11 +2239,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20archiving-from-below.jpg",
-    "tags": [
-      "Education",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20archiving-from-below.jpg",
+    "tags": ["Education", "Anti-capitalism"],
     "websiteUrl": "maydayrooms.org"
   },
   {
@@ -2552,11 +2261,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Spiridonova.jpg",
-    "tags": [
-      "Anti-capitalism",
-      "History"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Spiridonova.jpg",
+    "tags": ["Anti-capitalism", "History"],
     "websiteUrl": "http://www.classwarparty.org.uk/"
   },
   {
@@ -2577,12 +2283,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20anarchists%20class.jpg",
-    "tags": [
-      "History",
-      "Anti-capitalism",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20anarchists%20class.jpg",
+    "tags": ["History", "Anti-capitalism", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -2603,10 +2305,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/artur%20vidal%20-%20Antiuniversity-Sonic%20meditations.jpg",
-    "tags": [
-      "Sound"
-    ],
+    "imageUrl": "/assets/images/events/artur%20vidal%20-%20Antiuniversity-Sonic%20meditations.jpg",
+    "tags": ["Sound"],
     "websiteUrl": "http://www.thestudygroup.org/"
   },
   {
@@ -2627,10 +2327,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-CulturalDemocracyl.jpg",
-    "tags": [
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-CulturalDemocracyl.jpg",
+    "tags": ["Politics"],
     "websiteUrl": "www.culturaldemocracy.uk"
   },
   {
@@ -2651,11 +2349,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Sophie%20Yates%20Lu%20-%20Zoella%20%281%29.jpg",
-    "tags": [
-      "Feminism",
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Sophie%20Yates%20Lu%20-%20Zoella%20%281%29.jpg",
+    "tags": ["Feminism", "Education"],
     "websiteUrl": ""
   },
   {
@@ -2676,12 +2371,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-politics-place.jpg",
-    "tags": [
-      "Politics",
-      "Gentrification",
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-politics-place.jpg",
+    "tags": ["Politics", "Gentrification", "Art"],
     "websiteUrl": "https://vimeo.com/239265635 (password: rousseau)"
   },
   {
@@ -2724,10 +2415,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20east%20end%20jam.jpg",
-    "tags": [
-      "Food"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20east%20end%20jam.jpg",
+    "tags": ["Food"],
     "websiteUrl": "eastendjam.wordpress.com"
   },
   {
@@ -2748,10 +2437,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Tourism%20board.jpg",
-    "tags": [
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Tourism%20board.jpg",
+    "tags": ["Anti-capitalism"],
     "websiteUrl": "www.southnorwoodtouristboard.com"
   },
   {
@@ -2772,7 +2459,7 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Philosophy%20and%20Action%20Lyotards%20Lecture.jpg",
+    "imageUrl": "/assets/images/events/Antiuniversity%20Philosophy%20and%20Action%20Lyotards%20Lecture.jpg",
     "tags": [],
     "websiteUrl": ""
   },
@@ -2794,11 +2481,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20mother%20tongues.jpg",
-    "tags": [
-      "Feminism",
-      "History"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20mother%20tongues.jpg",
+    "tags": ["Feminism", "History"],
     "websiteUrl": ""
   },
   {
@@ -2819,12 +2503,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20glitch-art-photography-15.jpg",
-    "tags": [
-      "Technology",
-      "Politics",
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20glitch-art-photography-15.jpg",
+    "tags": ["Technology", "Politics", "Art"],
     "websiteUrl": ""
   },
   {
@@ -2845,11 +2525,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Reclaim%20Hides.jpg",
-    "tags": [
-      "Ecology",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Reclaim%20Hides.jpg",
+    "tags": ["Ecology", "Anti-capitalism"],
     "websiteUrl": ""
   },
   {
@@ -2870,11 +2547,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20max.jpg",
-    "tags": [
-      "Technology",
-      "Sound"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20max.jpg",
+    "tags": ["Technology", "Sound"],
     "websiteUrl": "https://matthewolden.co.uk"
   },
   {
@@ -2895,11 +2569,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20no%20more%20children.jpg",
-    "tags": [
-      "Feminism",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20no%20more%20children.jpg",
+    "tags": ["Feminism", "Politics"],
     "websiteUrl": "http://www.eirinikartsaki.com/"
   },
   {
@@ -2920,11 +2591,8 @@
       "description": null,
       "area": "Scotland"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Now%20-%20Antiuniversity%20Ragged%20University.jpg",
-    "tags": [
-      "Politics",
-      "Mental Health"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Now%20-%20Antiuniversity%20Ragged%20University.jpg",
+    "tags": ["Politics", "Mental Health"],
     "websiteUrl": "https://www.raggeduniversity.co.uk"
   },
   {
@@ -2945,12 +2613,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20migration%20capitalism.jpg",
-    "tags": [
-      "Anti-capitalism",
-      "Direct Action",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20migration%20capitalism.jpg",
+    "tags": ["Anti-capitalism", "Direct Action", "Politics"],
     "websiteUrl": "www.weareplanc.org"
   },
   {
@@ -2971,11 +2635,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20-%20Hackney%20tours.jpg",
-    "tags": [
-      "History",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20-%20Hackney%20tours.jpg",
+    "tags": ["History", "Politics"],
     "websiteUrl": "https://hackneytours.com/"
   },
   {
@@ -2996,11 +2657,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Art4Minds.jpg",
-    "tags": [
-      "Art",
-      "Mental Health"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Art4Minds.jpg",
+    "tags": ["Art", "Mental Health"],
     "websiteUrl": "http://www.sarastenbaek.com/"
   },
   {
@@ -3021,12 +2679,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/antiunivrsity%20anarchism%20beginners.jpg",
-    "tags": [
-      "Politics",
-      "History",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/antiunivrsity%20anarchism%20beginners.jpg",
+    "tags": ["Politics", "History", "Anti-capitalism"],
     "websiteUrl": ""
   },
   {
@@ -3047,13 +2701,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20who%20owns%20England.jpg",
-    "tags": [
-      "Politics",
-      "History",
-      "Gentrification",
-      "Anti-capitalism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20who%20owns%20England.jpg",
+    "tags": ["Politics", "History", "Gentrification", "Anti-capitalism"],
     "websiteUrl": "https://whoownsengland.org"
   },
   {
@@ -3074,11 +2723,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-Max-Gluckman.jpg",
-    "tags": [
-      "History",
-      "Race"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-Max-Gluckman.jpg",
+    "tags": ["History", "Race"],
     "websiteUrl": ""
   },
   {
@@ -3099,10 +2745,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-circus-skills.jpg",
-    "tags": [
-      "Bodies"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-circus-skills.jpg",
+    "tags": ["Bodies"],
     "websiteUrl": "www.newriverstudios.com"
   },
   {
@@ -3123,10 +2767,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Pete%20K%20-%20Antiuniversity-The-Knowledge-Store.jpeg",
-    "tags": [
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Pete%20K%20-%20Antiuniversity-The-Knowledge-Store.jpeg",
+    "tags": ["Education"],
     "websiteUrl": "petekingston.x10host.com"
   },
   {
@@ -3147,10 +2789,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/antiuniversity-blck-dog-final.jpg",
-    "tags": [
-      "Mental Health"
-    ],
+    "imageUrl": "/assets/images/events/antiuniversity-blck-dog-final.jpg",
+    "tags": ["Mental Health"],
     "websiteUrl": "https://blackdoggoestouniversity.tumblr.com/"
   },
   {
@@ -3171,11 +2811,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20put%20a%20pocket.jpg",
-    "tags": [
-      "Craft",
-      "Feminism"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20put%20a%20pocket.jpg",
+    "tags": ["Craft", "Feminism"],
     "websiteUrl": "www.poppynash.com, www.esmearmour2017.tumblr.com"
   },
   {
@@ -3196,11 +2833,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Helen%20Wilson%20-%20AntiUniversity-%20Fill%20a%20sketchbook...%20GCSE%20Style.jpg",
-    "tags": [
-      "Art",
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Helen%20Wilson%20-%20AntiUniversity-%20Fill%20a%20sketchbook...%20GCSE%20Style.jpg",
+    "tags": ["Art", "Education"],
     "websiteUrl": ""
   },
   {
@@ -3221,10 +2855,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20adhoc%20friendship.jpg",
-    "tags": [
-      "Mental Health"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20adhoc%20friendship.jpg",
+    "tags": ["Mental Health"],
     "websiteUrl": "https://www.hearing-voices.org/"
   },
   {
@@ -3245,12 +2877,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Britain%20and%20reggae.jpg",
-    "tags": [
-      "History",
-      "Sound",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Britain%20and%20reggae.jpg",
+    "tags": ["History", "Sound", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -3271,12 +2899,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2018/Helen%20Clifford%20-%20Antiuniversity%20madeinroath%20TRANSMIT.jpg",
-    "tags": [
-      "Sound",
-      "Art",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Helen%20Clifford%20-%20Antiuniversity%20madeinroath%20TRANSMIT.jpg",
+    "tags": ["Sound", "Art", "Politics"],
     "websiteUrl": "www.madeinroath.com"
   },
   {
@@ -3297,10 +2921,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20pure%20data.jpg",
-    "tags": [
-      "Technology"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20pure%20data.jpg",
+    "tags": ["Technology"],
     "websiteUrl": "beefbristol.org  and  matthewolden.co.uk"
   },
   {
@@ -3321,12 +2943,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/antiuniversity%20change%20money.jpg",
-    "tags": [
-      "History",
-      "Anti-capitalism",
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/antiuniversity%20change%20money.jpg",
+    "tags": ["History", "Anti-capitalism", "Education"],
     "websiteUrl": "https://www.facebook.com/events/2221317014552213/"
   },
   {
@@ -3347,11 +2965,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20WSWW%20Feminist_library.jpg",
-    "tags": [
-      "Feminism",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20WSWW%20Feminist_library.jpg",
+    "tags": ["Feminism", "Politics"],
     "websiteUrl": "www.feministlibrary.co.uk"
   },
   {
@@ -3372,11 +2987,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Cretive%20Coding.jpg",
-    "tags": [
-      "Technology",
-      "Art"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Cretive%20Coding.jpg",
+    "tags": ["Technology", "Art"],
     "websiteUrl": "www.doomedgallery.com"
   },
   {
@@ -3397,11 +3009,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity%20Now%20-%20ANTIUNIVERSITY%20Margate%20Ships.jpg",
-    "tags": [
-      "History",
-      "Ecology"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity%20Now%20-%20ANTIUNIVERSITY%20Margate%20Ships.jpg",
+    "tags": ["History", "Ecology"],
     "websiteUrl": "https://halfdayholidays.com/"
   },
   {
@@ -3422,12 +3031,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuni%20-%20The%20Forum%20Workshops.jpg",
-    "tags": [
-      "Education",
-      "Race",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuni%20-%20The%20Forum%20Workshops.jpg",
+    "tags": ["Education", "Race", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -3448,12 +3053,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-maintain-an-afro.jpg",
-    "tags": [
-      "Race",
-      "Bodies",
-      "History"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-maintain-an-afro.jpg",
+    "tags": ["Race", "Bodies", "History"],
     "websiteUrl": "www.diaryofablacktree.london"
   },
   {
@@ -3474,13 +3075,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-23-years-CJB.jpg",
-    "tags": [
-      "History",
-      "Politics",
-      "Direct Action",
-      "Gentrification"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-23-years-CJB.jpg",
+    "tags": ["History", "Politics", "Direct Action", "Gentrification"],
     "websiteUrl": "www.newriverstudios.com"
   },
   {
@@ -3501,13 +3097,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2018/Antiuniversity-MHUC.jpg",
-    "tags": [
-      "Mental Health",
-      "Feminism",
-      "Anti-capitalism",
-      "Politics"
-    ],
+    "imageUrl": "/assets/images/events/Antiuniversity-MHUC.jpg",
+    "tags": ["Mental Health", "Feminism", "Anti-capitalism", "Politics"],
     "websiteUrl": ""
   },
   {
@@ -3528,10 +3119,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2018/Pete%20K%20-%20Antiuniversity-The-Knowledge-Store.jpeg",
-    "tags": [
-      "Education"
-    ],
+    "imageUrl": "/assets/images/events/Pete%20K%20-%20Antiuniversity-The-Knowledge-Store.jpeg",
+    "tags": ["Education"],
     "websiteUrl": "petekingston.x10host.com"
   }
 ]

@@ -16,7 +16,7 @@
       "description": "A small museum exploring an obscure economic ideology that has come to dominate our lives.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/4d311ce349697e5b033360d470b34d2c-small.jpg",
+    "imageUrl": "/assets/images/events/4d311ce349697e5b033360d470b34d2c-small.jpg",
     "tags": ["Anticapitalism", "Class", "Exhibition", "History"],
     "websiteUrl": "https://www.spellingmistakescostlives.com/museumofneoliberalism"
   },
@@ -37,7 +37,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/9cc430fc218b1509d0196249780d99f5-small.jpg",
+    "imageUrl": "/assets/images/events/9cc430fc218b1509d0196249780d99f5-small.jpg",
     "tags": ["Play", "Experiment", "Exhibition", "Art", "Architecture"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   },
@@ -58,7 +58,7 @@
       "description": "<p>Online conversations take place on the Jitsi platform here: <strong><a href=\"https://8x8.vc/forged/books\">https://8X8.vc/forged/books</a></strong></p>\n<p>We recommend the Chromium browser on desktop: <a href=\"https://download-chromium.appspot.com/\">https://download-chromium.appspot.com/</a><br />\nOr Chromium-degoogled: <a href=\"https://ungoogled-software.github.io/ungoogled-chromium-binaries/\">https://ungoogled-software.github.io/ungoogled-chromium-binaries/</a><br />\nChrome should also work. Firefox *usually* works.<br />\nYou can also use one of Jitsi’s desktop apps here: <a href=\"https://github.com/jitsi/jitsi-meet-electron/tags\">https://github.com/jitsi/jitsi-meet-electron/releases/tags</a> &#8211; you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books</p>\n<p>For mobile devices try: <a href=\"https://jitsi.org/downloads/\">https://jitsi.org/downloads/</a> &#8211; you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books</p>\n<p>If you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: <a href=\"https://download.8x8.vc/\">https://download.8X8.vc/</a></p>",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/c0ec92d6222852f1b8f53022790c2ef5-small.jpg",
+    "imageUrl": "/assets/images/events/c0ec92d6222852f1b8f53022790c2ef5-small.jpg",
     "tags": ["Anarchism", "Philosophy", "Play"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -79,7 +79,7 @@
       "description": "A music and event space in Dalston, East London.\n\n[Visit The Jago's website](https://www.thejagodalston.com/)\n\nThere are two spaces in the venue, one downstairs (accessible) and one upstairs (no lift). It mainly runs as a music venue but is welcoming for daytime, calm events too. \n\nPublic Transport – The following bus services serve the premises: 67 76 149 242 243. \n\nBoth Dalston Junction Overground station and Haggerston Overground station are a 6 minute walk away from the premises. \n\nBlue bay parking can be found reasonably close to the venue – there is an online map [here](http://www.parkingforbluebadges.com/bluebadgemap/online-map).\n\nGuide Dogs welcome.\n\nThe Management will do their best to ensure that whenever customers with accessibility requirements are present at the premises, adequate arrangements are made to ensure their safe evacuation in the event of an emergency, and that they are made aware of these arrangements.\n",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/11a26386600a611ba728e89ce81ed1c6-small.jpg",
+    "imageUrl": "/assets/images/events/11a26386600a611ba728e89ce81ed1c6-small.jpg",
     "tags": ["Party"],
     "websiteUrl": ""
   },
@@ -100,7 +100,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/9d9cfd6f19f21ff25ea9eb036062f7d9-small.jpg",
+    "imageUrl": "/assets/images/events/9d9cfd6f19f21ff25ea9eb036062f7d9-small.jpg",
     "tags": ["Bodies", "Philosophy", "History", "Art"],
     "websiteUrl": "http://rosinagodwin1.wixsite.com/rosinagodwin"
   },
@@ -121,7 +121,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/a5bd8a5c4ae8b3f55ae88cbb1f7e9751-small.jpg",
+    "imageUrl": "/assets/images/events/a5bd8a5c4ae8b3f55ae88cbb1f7e9751-small.jpg",
     "tags": ["Anarchism", "Play", "Tour", "Party"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -142,7 +142,7 @@
       "description": "A small museum exploring an obscure economic ideology that has come to dominate our lives.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/427c6f31a4f050967f72a075b853575b-small.jpg",
+    "imageUrl": "/assets/images/events/427c6f31a4f050967f72a075b853575b-small.jpg",
     "tags": ["Anticapitalism", "Class", "Exhibition", "History"],
     "websiteUrl": "https://www.spellingmistakescostlives.com/museumofneoliberalism"
   },
@@ -163,7 +163,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/05e398d98ac590ba10a815b14e0628cd-small.jpg",
+    "imageUrl": "/assets/images/events/05e398d98ac590ba10a815b14e0628cd-small.jpg",
     "tags": ["Art", "Bodies", "Experiment", "Philosophy", "Talk", "Play"],
     "websiteUrl": "https://elainetam.net/spills"
   },
@@ -184,7 +184,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/45d84b7b6ff0d647e44b8ebfc24138a9-small.jpg",
+    "imageUrl": "/assets/images/events/45d84b7b6ff0d647e44b8ebfc24138a9-small.jpg",
     "tags": ["Care", "Class", "Mental-health", "Unions", "Work"],
     "websiteUrl": "https://healthworkersunited.wordpress.com/"
   },
@@ -205,7 +205,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/c506dedb1895f48b9e4d1ee57b1122ff-small.jpg",
+    "imageUrl": "/assets/images/events/c506dedb1895f48b9e4d1ee57b1122ff-small.jpg",
     "tags": ["Bodies", "Art", "Walk", "Care"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   },
@@ -226,7 +226,7 @@
       "description": "The Bertrand Russell Room has a (non-Covid) seating capacity of 35 and is perfect for auditions, rehearsals and meetings alike.\n\nIt is located on the ground floor and is accessible by wheelchair via a shallow ramp.\n\nIt has a full HD screen – compatible with HDMI-enabled computers and devices (for VGA devices a projector and screen can be used).\n\n\nPlease enquire for Covid-secure capacities, dependent on type of hire.\n",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/4a54912f93be7c6ca53db58345df4312-small.jpg",
+    "imageUrl": "/assets/images/events/4a54912f93be7c6ca53db58345df4312-small.jpg",
     "tags": ["Organising", "Direct-action"],
     "websiteUrl": "https://www.pauseorpayuk.org"
   },
@@ -247,7 +247,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/98ad2e85db35955c4002532134f67b70-small.jpg",
+    "imageUrl": "/assets/images/events/98ad2e85db35955c4002532134f67b70-small.jpg",
     "tags": [
       "Art",
       "Exhibition",
@@ -277,7 +277,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/05ebc63d9c4013c8ee198db17923c2bf-small.jpg",
+    "imageUrl": "/assets/images/events/05ebc63d9c4013c8ee198db17923c2bf-small.jpg",
     "tags": [
       "Sound",
       "Play",
@@ -307,7 +307,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/501fc7b9161c2c8675e274a2b528f1d6-small.jpg",
+    "imageUrl": "/assets/images/events/501fc7b9161c2c8675e274a2b528f1d6-small.jpg",
     "tags": ["Art", "Architecture", "Play", "Experiment", "Exhibition"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   },
@@ -328,7 +328,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/96e7441fe5f0fe7984d40531f338b36e-small.jpg",
+    "imageUrl": "/assets/images/events/96e7441fe5f0fe7984d40531f338b36e-small.jpg",
     "tags": [
       "Feminism",
       "Art",
@@ -361,7 +361,7 @@
       "description": "Small meeting room, good for intimate group sessions.\n\n[360 view](https://conwayhall.org.uk/venue-hire/other-rooms/artists-room-360-degree-tour/)\n\n[floor planner](https://conwayhall.org.uk/venue-hire/other-rooms/artists-room-planner/)\n\n[About CONWAY HALL](https://conwayhall.org.uk/about)",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/ea81a35919b94666d83156ab394c85b6-small.jpg",
+    "imageUrl": "/assets/images/events/ea81a35919b94666d83156ab394c85b6-small.jpg",
     "tags": [
       "Anarchism",
       "Anticapitalism",
@@ -391,7 +391,7 @@
       "description": "Small meeting room, good for intimate group sessions.\n\n[360 view](https://conwayhall.org.uk/venue-hire/other-rooms/artists-room-360-degree-tour/)\n\n[floor planner](https://conwayhall.org.uk/venue-hire/other-rooms/artists-room-planner/)\n\n[About CONWAY HALL](https://conwayhall.org.uk/about)",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/f2288a45ccb6ec9572786982e13a1d67-small.jpg",
+    "imageUrl": "/assets/images/events/f2288a45ccb6ec9572786982e13a1d67-small.jpg",
     "tags": ["Art", "Mental-health"],
     "websiteUrl": "https://www.instagram.com/mio.ebisu/"
   },
@@ -412,7 +412,7 @@
       "description": "Cooperation Town is a new network of community-led food co-ops, providing free and affordable food.\n​​\nCooperation Town co-ops are owned and run by their members, who democratically decide how to organise the project.\n\nAnyone can start a co-op on your street, block or estate. Join the movement!\n\n**Cooperation Kentish Town was the first coop in the network, it is based in a North London community centre and has multiple free spaces for Antiuni events!**\n[About Kentish Town Cooperation Town](https://cooperation.town/cooperation-kentish-town/)",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/ac853eb9c5d413463f609ce909b9ff6b-small.jpg",
+    "imageUrl": "/assets/images/events/ac853eb9c5d413463f609ce909b9ff6b-small.jpg",
     "tags": ["Talk"],
     "websiteUrl": "https://soundcloud.com/12rulesforwhat"
   },
@@ -433,7 +433,7 @@
       "description": "A small museum exploring an obscure economic ideology that has come to dominate our lives.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/59f74c79823285ea70aeeab9af793dab-small.jpg",
+    "imageUrl": "/assets/images/events/59f74c79823285ea70aeeab9af793dab-small.jpg",
     "tags": ["Anticapitalism", "Class", "Exhibition", "History"],
     "websiteUrl": "https://www.spellingmistakescostlives.com/museumofneoliberalism"
   },
@@ -454,7 +454,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/070a657de5a46b42a3eae65e1324b4bf-small.jpg",
+    "imageUrl": "/assets/images/events/070a657de5a46b42a3eae65e1324b4bf-small.jpg",
     "tags": ["Architecture", "Art", "Play", "Experiment", "Exhibition"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   },
@@ -475,7 +475,7 @@
       "description": "Stepney City Farm is a three acre working farm; a rural oasis, in the heart of Tower Hamlets. We give children and adults a chance to meet farm animals, learn how to grow food and try out arts and crafts. Every Saturday, the Farm hosts a popular Farmer’s Market.\n\nOur nearest stations are Stepney Green Underground on the District Line, and Limehouse DLR, (both around 10 minutes walk.)\n\nBus 339 stops outside the Farm (St. Dunstan’s stop), and bus 309 stops behind the Farm (Stepney Green School stop).",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/f9021daa46527729f223c1581ebd9d23-small.jpg",
+    "imageUrl": "/assets/images/events/f9021daa46527729f223c1581ebd9d23-small.jpg",
     "tags": [
       "Care",
       "Ecology",
@@ -507,7 +507,7 @@
       "description": "<p>Online conversations take place on the Jitsi platform here: <strong><a href=\"https://8x8.vc/forged/books\">https://8X8.vc/forged/books</a></strong></p>\n<p>We recommend the Chromium browser on desktop: <a href=\"https://download-chromium.appspot.com/\">https://download-chromium.appspot.com/</a><br />\nOr Chromium-degoogled: <a href=\"https://ungoogled-software.github.io/ungoogled-chromium-binaries/\">https://ungoogled-software.github.io/ungoogled-chromium-binaries/</a><br />\nChrome should also work. Firefox *usually* works.<br />\nYou can also use one of Jitsi’s desktop apps here: <a href=\"https://github.com/jitsi/jitsi-meet-electron/tags\">https://github.com/jitsi/jitsi-meet-electron/releases/tags</a> &#8211; you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books</p>\n<p>For mobile devices try: <a href=\"https://jitsi.org/downloads/\">https://jitsi.org/downloads/</a> &#8211; you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books</p>\n<p>If you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: <a href=\"https://download.8x8.vc/\">https://download.8X8.vc/</a></p>",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/eb795a612bdae8969a1cf90994e1abdc-small.jpg",
+    "imageUrl": "/assets/images/events/eb795a612bdae8969a1cf90994e1abdc-small.jpg",
     "tags": ["Philosophy", "Play", "Anarchism"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -528,7 +528,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/4f8ac8c61cdeeec0667643050076d1ec-small.jpg",
+    "imageUrl": "/assets/images/events/4f8ac8c61cdeeec0667643050076d1ec-small.jpg",
     "tags": [
       "Bodies",
       "Class",
@@ -557,7 +557,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/1c2e561323b7e89e6aeeb9b8e78e35bb-small.jpg",
+    "imageUrl": "/assets/images/events/1c2e561323b7e89e6aeeb9b8e78e35bb-small.jpg",
     "tags": ["Anarchism", "Anticapitalism", "Work", "Organising", "Class"],
     "websiteUrl": "https://https://rebelcitylondon.wordpress.com/"
   },
@@ -609,7 +609,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/7af2771f3ba4cf823013c3b6bdfa0349-small.jpg",
+    "imageUrl": "/assets/images/events/7af2771f3ba4cf823013c3b6bdfa0349-small.jpg",
     "tags": ["Anarchism", "Organising", "Anticapitalism"],
     "websiteUrl": "https://anarchistcommunism.org"
   },
@@ -630,7 +630,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/1d0a7223129284731cf7698700f23393-small.jpg",
+    "imageUrl": "/assets/images/events/1d0a7223129284731cf7698700f23393-small.jpg",
     "tags": [
       "Feminism",
       "Gender",
@@ -662,7 +662,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/495b3b27d0d3b86b2505ea56e024ef58-small.jpg",
+    "imageUrl": "/assets/images/events/495b3b27d0d3b86b2505ea56e024ef58-small.jpg",
     "tags": ["Anticapitalism", "Architecture", "Class", "Tour"],
     "websiteUrl": "http://assetarrest.com/"
   },
@@ -683,7 +683,7 @@
       "description": "Online conversations take place on the Jitsi platform here: \n\nhttps://8X8.vc/forged/books\n\nWe recommend the Chromium browser on desktop: \n\nhttps://download-chromium.appspot.com/\n\nOr Chromium-degoogled: https://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\nChrome should also work. Firefox *usually* works.\n\nYou can also use one of Jitsi’s desktop apps here: https://github.com/jitsi/jitsi-meet-electron/releases/tags – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nFor mobile devices try: https://jitsi.org/downloads/ – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nIf you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: https://download.8X8.vc/",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/276ef324f27bc6c897f41d82590727ad-small.jpg",
+    "imageUrl": "/assets/images/events/276ef324f27bc6c897f41d82590727ad-small.jpg",
     "tags": ["Anarchism", "Art", "Play"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -704,7 +704,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/2bffb3c8be0bf0edd2b8b7a9af5f272d-small.jpg",
+    "imageUrl": "/assets/images/events/2bffb3c8be0bf0edd2b8b7a9af5f272d-small.jpg",
     "tags": [
       "Alchemy",
       "Anticapitalism",
@@ -737,7 +737,7 @@
       "description": "Online conversations take place on the Jitsi platform here: \n\nhttps://8X8.vc/forged/books\n\nWe recommend the Chromium browser on desktop: \n\nhttps://download-chromium.appspot.com/\n\nOr Chromium-degoogled: https://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\nChrome should also work. Firefox *usually* works.\n\nYou can also use one of Jitsi’s desktop apps here: https://github.com/jitsi/jitsi-meet-electron/releases/tags – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nFor mobile devices try: https://jitsi.org/downloads/ – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nIf you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: https://download.8X8.vc/",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/29dcb96abc6d8e8a1e55752d9c3a56e7-small.jpg",
+    "imageUrl": "/assets/images/events/29dcb96abc6d8e8a1e55752d9c3a56e7-small.jpg",
     "tags": ["Anarchism", "Philosophy", "Direct-action", "Art"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -758,7 +758,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/d164dd618e097cb8752555c984f5f912-small.jpg",
+    "imageUrl": "/assets/images/events/d164dd618e097cb8752555c984f5f912-small.jpg",
     "tags": ["Care", "Experiment", "Ecology", "Organising", "Mental-health"],
     "websiteUrl": "https://meet.jit.si/"
   },
@@ -779,7 +779,7 @@
       "description": "Online conversations take place on the Jitsi platform here: \n\nhttps://8X8.vc/forged/books\n\nWe recommend the Chromium browser on desktop: \n\nhttps://download-chromium.appspot.com/\n\nOr Chromium-degoogled: https://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\nChrome should also work. Firefox *usually* works.\n\nYou can also use one of Jitsi’s desktop apps here: https://github.com/jitsi/jitsi-meet-electron/releases/tags – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nFor mobile devices try: https://jitsi.org/downloads/ – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nIf you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: https://download.8X8.vc/",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/6b366bfcb007336cd5ea96b8d1c53838-small.jpg",
+    "imageUrl": "/assets/images/events/6b366bfcb007336cd5ea96b8d1c53838-small.jpg",
     "tags": ["Anarchism", "Philosophy", "Play", "Art"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -800,7 +800,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/8b275bb0b273ddb1c878e434711ddcf6-small.jpg",
+    "imageUrl": "/assets/images/events/8b275bb0b273ddb1c878e434711ddcf6-small.jpg",
     "tags": ["Screening", "History", "Sound", "Talk"],
     "websiteUrl": "https://BBM.eventbrite.com"
   },
@@ -821,7 +821,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/a4c2aa75e42253ef012a9a0a87a201aa-small.jpg",
+    "imageUrl": "/assets/images/events/a4c2aa75e42253ef012a9a0a87a201aa-small.jpg",
     "tags": ["Anarchism", "Anticapitalism", "History", "Walk", "Talk"],
     "websiteUrl": "https://facebook.com/whosehides"
   },
@@ -842,7 +842,7 @@
       "description": "Cooperation Town is a new network of community-led food co-ops, providing free and affordable food.\n​​\nCooperation Town co-ops are owned and run by their members, who democratically decide how to organise the project.\n\nAnyone can start a co-op on your street, block or estate. Join the movement!\n\n**Cooperation Kentish Town was the first coop in the network, it is based in a North London community centre and has multiple free spaces for Antiuni events!**\n[About Kentish Town Cooperation Town](https://cooperation.town/cooperation-kentish-town/)",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/a529f2f83999f098d2b6c08389afe4a0-small.jpg",
+    "imageUrl": "/assets/images/events/a529f2f83999f098d2b6c08389afe4a0-small.jpg",
     "tags": [
       "Anticapitalism",
       "Anarchism",
@@ -871,7 +871,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/65fd4191515648a36e90479aed9fe25f-small.jpg",
+    "imageUrl": "/assets/images/events/65fd4191515648a36e90479aed9fe25f-small.jpg",
     "tags": [
       "Anarchism",
       "Anticapitalism",
@@ -901,7 +901,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/ecbc8700ca5caca4ef8d443f5a644398-small.jpg",
+    "imageUrl": "/assets/images/events/ecbc8700ca5caca4ef8d443f5a644398-small.jpg",
     "tags": ["Anticapitalism", "Architecture", "Class", "Tour"],
     "websiteUrl": "http://assetarrest.com/"
   },
@@ -922,7 +922,7 @@
       "description": "A small museum exploring an obscure economic ideology that has come to dominate our lives.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/a233538c7bbb213018d221b7dcbee859-small.jpg",
+    "imageUrl": "/assets/images/events/a233538c7bbb213018d221b7dcbee859-small.jpg",
     "tags": ["Anticapitalism", "Class", "Exhibition", "History"],
     "websiteUrl": "https://www.spellingmistakescostlives.com/museumofneoliberalism"
   },
@@ -943,7 +943,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/c08b974b361763e08d7a3b8d4485856d-small.jpg",
+    "imageUrl": "/assets/images/events/c08b974b361763e08d7a3b8d4485856d-small.jpg",
     "tags": ["Talk"],
     "websiteUrl": ""
   },
@@ -964,7 +964,7 @@
       "description": "The Bertrand Russell Room has a (non-Covid) seating capacity of 35 and is perfect for auditions, rehearsals and meetings alike.\n\nIt is located on the ground floor and is accessible by wheelchair via a shallow ramp.\n\nIt has a full HD screen – compatible with HDMI-enabled computers and devices (for VGA devices a projector and screen can be used).\n\n\nPlease enquire for Covid-secure capacities, dependent on type of hire.\n",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/220f11863e8b466ecd4b4e441f075116-small.jpg",
+    "imageUrl": "/assets/images/events/220f11863e8b466ecd4b4e441f075116-small.jpg",
     "tags": ["Food", "Organising", "Direct-action"],
     "websiteUrl": "https://www.instagram.com/liberatetheuniversity/"
   },
@@ -985,7 +985,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/1b3722f6dbcc2fe938887ef9b9c3c684-small.jpg",
+    "imageUrl": "/assets/images/events/1b3722f6dbcc2fe938887ef9b9c3c684-small.jpg",
     "tags": ["Ecology", "Food", "Rights"],
     "websiteUrl": "https://www.peoplelandpolicy.org"
   },
@@ -1006,7 +1006,7 @@
       "description": "The Bertrand Russell Room has a (non-Covid) seating capacity of 35 and is perfect for auditions, rehearsals and meetings alike.\n\nIt is located on the ground floor and is accessible by wheelchair via a shallow ramp.\n\nIt has a full HD screen – compatible with HDMI-enabled computers and devices (for VGA devices a projector and screen can be used).\n\n\nPlease enquire for Covid-secure capacities, dependent on type of hire.\n",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/2414be9d65c74cb8d2ecce3b9e2da170-small.jpg",
+    "imageUrl": "/assets/images/events/2414be9d65c74cb8d2ecce3b9e2da170-small.jpg",
     "tags": ["Direct-action", "Organising", "Work"],
     "websiteUrl": ""
   },
@@ -1027,7 +1027,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/83d5fab79f31450e430fc7cfc9053af2-small.jpg",
+    "imageUrl": "/assets/images/events/83d5fab79f31450e430fc7cfc9053af2-small.jpg",
     "tags": ["Anticapitalism", "Architecture", "Class", "Tour"],
     "websiteUrl": "https://www.assetarrest.com/"
   },
@@ -1048,7 +1048,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/989473bfb5d9080184ecf54aad647fa1-small.jpg",
+    "imageUrl": "/assets/images/events/989473bfb5d9080184ecf54aad647fa1-small.jpg",
     "tags": ["Ecology", "Food", "History", "Art", "Bodies"],
     "websiteUrl": "https://lowcarbondesigninstitute.org/"
   },
@@ -1069,7 +1069,7 @@
       "description": "A small museum exploring an obscure economic ideology that has come to dominate our lives.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/507284c1774eb8b59bbc1adc8c1b2cd2-small.jpg",
+    "imageUrl": "/assets/images/events/507284c1774eb8b59bbc1adc8c1b2cd2-small.jpg",
     "tags": ["Anticapitalism", "Class", "Exhibition", "History"],
     "websiteUrl": "https://www.spellingmistakescostlives.com/museumofneoliberalism"
   },
@@ -1090,7 +1090,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/b51ee50fc61f7bd7784cb172f139c985-small.jpg",
+    "imageUrl": "/assets/images/events/b51ee50fc61f7bd7784cb172f139c985-small.jpg",
     "tags": ["Art", "Experiment", "Play"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   },
@@ -1111,7 +1111,7 @@
       "description": "We will be occupying land near the Excel Centre, near Custom House, Newham.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/2cc58b70e9e31d93988e3fbaea81bd7c-small.jpg",
+    "imageUrl": "/assets/images/events/2cc58b70e9e31d93988e3fbaea81bd7c-small.jpg",
     "tags": [
       "Borders",
       "Death",
@@ -1143,7 +1143,7 @@
       "description": "Online conversations take place on the Jitsi platform here: \n\nhttps://8X8.vc/forged/books\n\nWe recommend the Chromium browser on desktop: \n\nhttps://download-chromium.appspot.com/\n\nOr Chromium-degoogled: https://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\nChrome should also work. Firefox *usually* works.\n\nYou can also use one of Jitsi’s desktop apps here: https://github.com/jitsi/jitsi-meet-electron/releases/tags – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nFor mobile devices try: https://jitsi.org/downloads/ – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nIf you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: https://download.8X8.vc/",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/7c2882e188a10cf3acb3da57428b68e8-small.jpg",
+    "imageUrl": "/assets/images/events/7c2882e188a10cf3acb3da57428b68e8-small.jpg",
     "tags": ["Anarchism", "Philosophy", "Play", "Art", "Ecology", "Sex"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -1164,7 +1164,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/2fa61aae954efd4ed92584b4288aff14-small.jpg",
+    "imageUrl": "/assets/images/events/2fa61aae954efd4ed92584b4288aff14-small.jpg",
     "tags": ["Direct-action", "Organising", "Food"],
     "websiteUrl": "https://instagram.com/liberatetheuniversity"
   },
@@ -1185,7 +1185,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/f5b6e9cf9dcee4cababef889ff317b67-small.jpg",
+    "imageUrl": "/assets/images/events/f5b6e9cf9dcee4cababef889ff317b67-small.jpg",
     "tags": ["Tour", "History"],
     "websiteUrl": "https://maydayrooms.org"
   },
@@ -1206,7 +1206,7 @@
       "description": "The Bertrand Russell Room has a (non-Covid) seating capacity of 35 and is perfect for auditions, rehearsals and meetings alike.\n\nIt is located on the ground floor and is accessible by wheelchair via a shallow ramp.\n\nIt has a full HD screen – compatible with HDMI-enabled computers and devices (for VGA devices a projector and screen can be used).\n\n\nPlease enquire for Covid-secure capacities, dependent on type of hire.\n",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/7009b42c3c325a4ea90d7633024efe57-small.jpg",
+    "imageUrl": "/assets/images/events/7009b42c3c325a4ea90d7633024efe57-small.jpg",
     "tags": [
       "Class",
       "Art",
@@ -1238,7 +1238,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/44b7ae528cc20ed79aa2903cde3bc047-small.jpg",
+    "imageUrl": "/assets/images/events/44b7ae528cc20ed79aa2903cde3bc047-small.jpg",
     "tags": ["Architecture", "Food", "Ecology", "Class"],
     "websiteUrl": "https://www.radicalhousingnetwork.uk/"
   },
@@ -1259,7 +1259,7 @@
       "description": "Online conversations take place on the Jitsi platform here: \n\nhttps://8X8.vc/forged/books\n\nWe recommend the Chromium browser on desktop: \n\nhttps://download-chromium.appspot.com/\n\nOr Chromium-degoogled: https://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\nChrome should also work. Firefox *usually* works.\n\nYou can also use one of Jitsi’s desktop apps here: https://github.com/jitsi/jitsi-meet-electron/releases/tags – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nFor mobile devices try: https://jitsi.org/downloads/ – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nIf you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: https://download.8X8.vc/",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/0fdc6671806e87324f80c78907d5da4a-small.jpg",
+    "imageUrl": "/assets/images/events/0fdc6671806e87324f80c78907d5da4a-small.jpg",
     "tags": ["Anarchism", "Art", "Ecology", "Philosophy", "Play", "Bodies"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -1280,7 +1280,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/fa4ec7ec0344a61f1cf717560e74076b-small.jpg",
+    "imageUrl": "/assets/images/events/fa4ec7ec0344a61f1cf717560e74076b-small.jpg",
     "tags": ["Anticapitalism", "Architecture", "Class", "Tour"],
     "websiteUrl": "https://www.assetarrest.com/"
   },
@@ -1301,7 +1301,7 @@
       "description": "A small museum exploring an obscure economic ideology that has come to dominate our lives.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/ad94b4a0b373c1a2972d36da8ed04878-small.jpg",
+    "imageUrl": "/assets/images/events/ad94b4a0b373c1a2972d36da8ed04878-small.jpg",
     "tags": ["Anticapitalism", "Class", "Exhibition", "History"],
     "websiteUrl": "https://www.spellingmistakescostlives.com/museumofneoliberalism"
   },
@@ -1322,7 +1322,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/681415a760de760acf92f9b79cdfc2ed-small.jpg",
+    "imageUrl": "/assets/images/events/681415a760de760acf92f9b79cdfc2ed-small.jpg",
     "tags": ["Architecture", "Art", "Exhibition", "Play", "Experiment"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   },
@@ -1343,7 +1343,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/aa7bf18b6ac7813a70753dee4581ec1d-small.jpg",
+    "imageUrl": "/assets/images/events/aa7bf18b6ac7813a70753dee4581ec1d-small.jpg",
     "tags": ["Direct-action", "Organising"],
     "websiteUrl": "https://www.pauseorpayuk.org"
   },
@@ -1364,7 +1364,7 @@
       "description": "Cooperation Town is a new network of community-led food co-ops, providing free and affordable food.\n​​\nCooperation Town co-ops are owned and run by their members, who democratically decide how to organise the project.\n\nAnyone can start a co-op on your street, block or estate. Join the movement!\n\n**Cooperation Kentish Town was the first coop in the network, it is based in a North London community centre and has multiple free spaces for Antiuni events!**\n[About Kentish Town Cooperation Town](https://cooperation.town/cooperation-kentish-town/)",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/0ba395cc892a51bdaba6c2a3e7b67e14-small.jpg",
+    "imageUrl": "/assets/images/events/0ba395cc892a51bdaba6c2a3e7b67e14-small.jpg",
     "tags": ["Care", "Food"],
     "websiteUrl": ""
   },
@@ -1385,7 +1385,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/e10404c8473f2f62c1a5bea080d5ebc8-small.jpg",
+    "imageUrl": "/assets/images/events/e10404c8473f2f62c1a5bea080d5ebc8-small.jpg",
     "tags": ["History", "Race", "Screening", "Sound", "Talk"],
     "websiteUrl": "https://BBM.eventbrite.com"
   },
@@ -1406,7 +1406,7 @@
       "description": "The Remakery was born in 2012 out of a disused car park in South London. Located between Brixton and Camberwell, our not-for-profit maker-space has fostered a community of makers, artists, local residents and enterprises that have been breathing new life and creativity into things destined for landfill.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/fdbc7cf438a5ec2621733cd3734c9724-small.jpg",
+    "imageUrl": "/assets/images/events/fdbc7cf438a5ec2621733cd3734c9724-small.jpg",
     "tags": ["Walk", "Sound", "Ecology"],
     "websiteUrl": ""
   },
@@ -1427,7 +1427,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/a4c3fd01730b51da199d7416ed295b70-small.jpg",
+    "imageUrl": "/assets/images/events/a4c3fd01730b51da199d7416ed295b70-small.jpg",
     "tags": ["Anticapitalism", "Architecture", "Class", "Tour"],
     "websiteUrl": "https://www.assetarrest.com/"
   },
@@ -1448,7 +1448,7 @@
       "description": "Online conversations take place on the Jitsi platform here: \n\nhttps://8X8.vc/forged/books\n\nWe recommend the Chromium browser on desktop: \n\nhttps://download-chromium.appspot.com/\n\nOr Chromium-degoogled: https://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\nChrome should also work. Firefox *usually* works.\n\nYou can also use one of Jitsi’s desktop apps here: https://github.com/jitsi/jitsi-meet-electron/releases/tags – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nFor mobile devices try: https://jitsi.org/downloads/ – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nIf you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: https://download.8X8.vc/",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/c5734dfaa01fc5adde17c54b382ae365-small.jpg",
+    "imageUrl": "/assets/images/events/c5734dfaa01fc5adde17c54b382ae365-small.jpg",
     "tags": ["Anarchism", "Play", "Philosophy", "Sound"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -1469,7 +1469,7 @@
       "description": "A small museum exploring an obscure economic ideology that has come to dominate our lives.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/e476e255a974d05daace4c9faf0fc611-small.jpg",
+    "imageUrl": "/assets/images/events/e476e255a974d05daace4c9faf0fc611-small.jpg",
     "tags": ["Anticapitalism", "Class", "Exhibition", "History"],
     "websiteUrl": "https://www.spellingmistakescostlives.com/museumofneoliberalism"
   },
@@ -1490,7 +1490,7 @@
       "description": "The Bertrand Russell Room has a (non-Covid) seating capacity of 35 and is perfect for auditions, rehearsals and meetings alike.\n\nIt is located on the ground floor and is accessible by wheelchair via a shallow ramp.\n\nIt has a full HD screen – compatible with HDMI-enabled computers and devices (for VGA devices a projector and screen can be used).\n\n\nPlease enquire for Covid-secure capacities, dependent on type of hire.\n",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/2a7bfaa407dce3f0a79555ba7a910f08-small.jpg",
+    "imageUrl": "/assets/images/events/2a7bfaa407dce3f0a79555ba7a910f08-small.jpg",
     "tags": [
       "Anticapitalism",
       "Anarchism",
@@ -1519,7 +1519,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/a3a7524519c8d48fe5228c1ed60c1d39-small.jpg",
+    "imageUrl": "/assets/images/events/a3a7524519c8d48fe5228c1ed60c1d39-small.jpg",
     "tags": ["Architecture", "Art", "Play", "Experiment", "Exhibition"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   },
@@ -1540,7 +1540,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/243d698d6b87fc61172d0ed1681d50ca-small.jpg",
+    "imageUrl": "/assets/images/events/243d698d6b87fc61172d0ed1681d50ca-small.jpg",
     "tags": [
       "Art",
       "Care",
@@ -1573,7 +1573,7 @@
       "description": "The Bertrand Russell Room has a (non-Covid) seating capacity of 35 and is perfect for auditions, rehearsals and meetings alike.\n\nIt is located on the ground floor and is accessible by wheelchair via a shallow ramp.\n\nIt has a full HD screen – compatible with HDMI-enabled computers and devices (for VGA devices a projector and screen can be used).\n\n\nPlease enquire for Covid-secure capacities, dependent on type of hire.\n",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/958d15e6c2edfc62a16735ba908cd320-small.jpg",
+    "imageUrl": "/assets/images/events/958d15e6c2edfc62a16735ba908cd320-small.jpg",
     "tags": [
       "Anarchism",
       "Art",
@@ -1601,7 +1601,7 @@
       "description": "Online conversations take place on the Jitsi platform here: \n\nhttps://8X8.vc/forged/books\n\nWe recommend the Chromium browser on desktop: \n\nhttps://download-chromium.appspot.com/\n\nOr Chromium-degoogled: https://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\nChrome should also work. Firefox *usually* works.\n\nYou can also use one of Jitsi’s desktop apps here: https://github.com/jitsi/jitsi-meet-electron/releases/tags – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nFor mobile devices try: https://jitsi.org/downloads/ – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nIf you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: https://download.8X8.vc/",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/07f0169af06d8f499487334f8041d24e-small.jpg",
+    "imageUrl": "/assets/images/events/07f0169af06d8f499487334f8041d24e-small.jpg",
     "tags": ["Anarchism", "Philosophy", "Sound"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -1622,7 +1622,7 @@
       "description": "The Bertrand Russell Room has a (non-Covid) seating capacity of 35 and is perfect for auditions, rehearsals and meetings alike.\n\nIt is located on the ground floor and is accessible by wheelchair via a shallow ramp.\n\nIt has a full HD screen – compatible with HDMI-enabled computers and devices (for VGA devices a projector and screen can be used).\n\n\nPlease enquire for Covid-secure capacities, dependent on type of hire.\n",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/3a98b0e6a4c50465e4ba69f2c4979618-small.jpg",
+    "imageUrl": "/assets/images/events/3a98b0e6a4c50465e4ba69f2c4979618-small.jpg",
     "tags": ["Anticapitalism", "Art", "Experiment"],
     "websiteUrl": "https://www.ripitup.carefulnow.org/"
   },
@@ -1643,7 +1643,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/0816c95c37d7350d112a50253fa6b626-small.jpg",
+    "imageUrl": "/assets/images/events/0816c95c37d7350d112a50253fa6b626-small.jpg",
     "tags": ["Anarchism"],
     "websiteUrl": "https://anarchistpedagogies.net"
   },
@@ -1664,7 +1664,7 @@
       "description": "Bandstand in Springfield Park :-]\n\n(photo from http://thelostbyway.com)",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/3d317134ab6c810f0c6521fd1fcf2e75-small.jpg",
+    "imageUrl": "/assets/images/events/3d317134ab6c810f0c6521fd1fcf2e75-small.jpg",
     "tags": ["Rights", "Sound", "Anarchism", "Anticapitalism", "Direct-action"],
     "websiteUrl": ""
   },
@@ -1685,7 +1685,7 @@
       "description": "Online conversations take place on the Jitsi platform here: \n\nhttps://8X8.vc/forged/books\n\nWe recommend the Chromium browser on desktop: \n\nhttps://download-chromium.appspot.com/\n\nOr Chromium-degoogled: https://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\nChrome should also work. Firefox *usually* works.\n\nYou can also use one of Jitsi’s desktop apps here: https://github.com/jitsi/jitsi-meet-electron/releases/tags – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nFor mobile devices try: https://jitsi.org/downloads/ – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nIf you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: https://download.8X8.vc/",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/131ba6b2e5c1ac3b12fd4516b2674a3c-small.jpg",
+    "imageUrl": "/assets/images/events/131ba6b2e5c1ac3b12fd4516b2674a3c-small.jpg",
     "tags": ["Anarchism", "Philosophy"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -1706,7 +1706,7 @@
       "description": "The Main Hall has a “Covid-19 Secure” capacity of 100 (and a standard capacity of 400) spread over the balcony and ground floor seating.\n\nThe ground floor of the Main Hall is fully accessible by wheelchair.\n\nThis is a very large venue and there is some other availability, so if you are planning a large event get in touch with the anti-university team and there may be space for your event.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/05da6b1cd21aa10e60db07455bcfe9c7-small.jpg",
+    "imageUrl": "/assets/images/events/05da6b1cd21aa10e60db07455bcfe9c7-small.jpg",
     "tags": ["Anarchism"],
     "websiteUrl": "https://anarchistbookfair.london/"
   },
@@ -1727,7 +1727,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/c4081dc26697aaa1617fd361a0f1f954-small.jpg",
+    "imageUrl": "/assets/images/events/c4081dc26697aaa1617fd361a0f1f954-small.jpg",
     "tags": [
       "Anarchism",
       "Anticapitalism",
@@ -1756,7 +1756,7 @@
       "description": "A small museum exploring an obscure economic ideology that has come to dominate our lives.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/772fc7facc82496f6c41f4ea33f4eb26-small.jpg",
+    "imageUrl": "/assets/images/events/772fc7facc82496f6c41f4ea33f4eb26-small.jpg",
     "tags": ["Anticapitalism", "Class", "Exhibition", "History"],
     "websiteUrl": "https://www.spellingmistakescostlives.com/museumofneoliberalism"
   },
@@ -1777,7 +1777,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/2e01dcd32ada90bb0eb72189cb3a3316-small.jpg",
+    "imageUrl": "/assets/images/events/2e01dcd32ada90bb0eb72189cb3a3316-small.jpg",
     "tags": ["Architecture", "Art", "Play", "Experiment", "Exhibition"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   },
@@ -1798,7 +1798,7 @@
       "description": "Online conversations take place on the Jitsi platform here: \n\nhttps://8X8.vc/forged/books\n\nWe recommend the Chromium browser on desktop: \n\nhttps://download-chromium.appspot.com/\n\nOr Chromium-degoogled: https://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\nChrome should also work. Firefox *usually* works.\n\nYou can also use one of Jitsi’s desktop apps here: https://github.com/jitsi/jitsi-meet-electron/releases/tags – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nFor mobile devices try: https://jitsi.org/downloads/ – you will need to change ‘Server URL’ in settings to https://8X8.vc/ and join the room /forged/books\n\nIf you’re really stuck, you could try joining the meeting room /forged/books with the desktop and mobile apps listed here: https://download.8X8.vc/",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/922d223b9de409a6d82bab47d723bf4d-small.jpg",
+    "imageUrl": "/assets/images/events/922d223b9de409a6d82bab47d723bf4d-small.jpg",
     "tags": ["Anarchism", "Philosophy"],
     "websiteUrl": "https://forgedbooks.noblogs.org"
   },
@@ -1819,7 +1819,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/d9f3a1331bf5085d76d86526670fd089-small.jpg",
+    "imageUrl": "/assets/images/events/d9f3a1331bf5085d76d86526670fd089-small.jpg",
     "tags": [
       "Anticapitalism",
       "Architecture",
@@ -1850,7 +1850,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/b617bbc9c6ba2447df5520d7f6a9b203-small.jpg",
+    "imageUrl": "/assets/images/events/b617bbc9c6ba2447df5520d7f6a9b203-small.jpg",
     "tags": ["Walk", "Art", "Experiment"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   },
@@ -1871,7 +1871,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/2551afa764a01546eb00aef2131b29b5-small.jpg",
+    "imageUrl": "/assets/images/events/2551afa764a01546eb00aef2131b29b5-small.jpg",
     "tags": [
       "Art",
       "Exhibition",
@@ -1901,7 +1901,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/b59a214a569a98a41ffc14f797fe88e9-small.jpg",
+    "imageUrl": "/assets/images/events/b59a214a569a98a41ffc14f797fe88e9-small.jpg",
     "tags": [
       "Anticapitalism",
       "Architecture",
@@ -1932,7 +1932,7 @@
       "description": "If you're holding an event online, you can select Antiuni Online as your place. Or you're welcome to add your own online space using [Create Place.](/Places)\nAntiuni does not have access to a paid Zoom account, alternatively we recommend using [Jitsi](https://meet.jit.si/), free and open source. Don't forget to let your registered attendees know and send them a link a few hours before the event begins!",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/8d868af093f2748ad126be8e119bff43-small.jpg",
+    "imageUrl": "/assets/images/events/8d868af093f2748ad126be8e119bff43-small.jpg",
     "tags": ["Anarchism"],
     "websiteUrl": ""
   },
@@ -1953,7 +1953,7 @@
       "description": "The organiser of this event should provide location details once you register for a ticket.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/de22de8da4fa3d29079bddcff20cf1b3-small.jpg",
+    "imageUrl": "/assets/images/events/de22de8da4fa3d29079bddcff20cf1b3-small.jpg",
     "tags": [
       "Anarchism",
       "Anticapitalism",
@@ -1983,7 +1983,7 @@
       "description": "A small museum exploring an obscure economic ideology that has come to dominate our lives.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/e27893cecdb5fd82caa69bf540650751-small.jpg",
+    "imageUrl": "/assets/images/events/e27893cecdb5fd82caa69bf540650751-small.jpg",
     "tags": ["Anticapitalism", "Class", "Exhibition", "History"],
     "websiteUrl": "https://www.spellingmistakescostlives.com/museumofneoliberalism"
   },
@@ -2004,7 +2004,7 @@
       "description": "This new Making Space builds on an immersive arts/culture/heritage programme, pioneered from next door at The Tommy Flowers Community Pub, now run by local residents.We offer workshops for local people to learn ceramics, glassmaking, music and photography.",
       "area": "London"
     },
-    "imageUrl": "https://s3.eu-west-2.amazonaws.com/antiuni-2021/uploads/bf43b060609328b561244aef7b5c8a06-small.jpg",
+    "imageUrl": "/assets/images/events/bf43b060609328b561244aef7b5c8a06-small.jpg",
     "tags": ["Art", "Architecture", "Experiment", "Exhibition", "Play"],
     "websiteUrl": "https://youngbloodinitiative.com/U-Dys-topia-s"
   }

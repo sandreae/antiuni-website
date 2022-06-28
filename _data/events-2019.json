@@ -17,12 +17,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-antiuni2019partysquare.jpg",
-    "tags": [
-      "Bodies",
-      "Sound",
-      "Party"
-    ],
+    "imageUrl": "/assets/images/events/thumb-antiuni2019partysquare.jpg",
+    "tags": ["Bodies", "Sound", "Party"],
     "websiteUrl": ""
   },
   {
@@ -43,12 +39,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-EvaMegias-Spanishbookclub-antiuniversitynow2019.jpg",
-    "tags": [
-      "Feminism",
-      "History",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-EvaMegias-Spanishbookclub-antiuniversitynow2019.jpg",
+    "tags": ["Feminism", "History", "Conversation"],
     "websiteUrl": "http://feministlibrary.co.uk/spanish-language-book-club/"
   },
   {
@@ -69,11 +61,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-blancSceolantiuniversity.jpg",
-    "tags": [
-      "Sound",
-      "Walk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-blancSceolantiuniversity.jpg",
+    "tags": ["Sound", "Walk"],
     "websiteUrl": "https://www.blancsceol.co.uk"
   },
   {
@@ -94,13 +83,8 @@
       "description": null,
       "area": "Scotland"
     },
-    "imageUrl": "/assets/images/2019/thumb-About-Film-antiuniversity.jpg",
-    "tags": [
-      "Art",
-      "Talk",
-      " Screening",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-About-Film-antiuniversity.jpg",
+    "tags": ["Art", "Talk", " Screening", " Conversation"],
     "websiteUrl": ""
   },
   {
@@ -121,11 +105,8 @@
       "description": null,
       "area": "Outside of the UK"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-Affordable-Weaving-Spinning-Your-Own-Paper-Yarn-antiuniversity.jpg",
-    "tags": [
-      "Art",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-Affordable-Weaving-Spinning-Your-Own-Paper-Yar.jpg",
+    "tags": ["Art", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -146,11 +127,8 @@
       "description": null,
       "area": "Outside of the UK"
     },
-    "imageUrl": "/assets/images/2019/thumb-Affordable-Weaving-The-Basics-antuniversity.jpg",
-    "tags": [
-      "Art",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Affordable-Weaving-The-Basics-antuniversity.jpg",
+    "tags": ["Art", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -171,11 +149,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Christopher-Antiuni-AlchemyforCreativeProblem-SolvingandSocialTransmutation.png",
-    "tags": [
-      "Alchemy",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Christopher-Antiuni-AlchemyforCreativeProblem-Solvinga.png",
+    "tags": ["Alchemy", "Workshop"],
     "websiteUrl": "https://magico-materialism.wixsite.com/study-circle/"
   },
   {
@@ -196,11 +171,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Anarchismforbeginners-antiuniversity.jpg",
-    "tags": [
-      "Anarchism",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Anarchismforbeginners-antiuniversity.jpg",
+    "tags": ["Anarchism", "Talk"],
     "websiteUrl": "https://rebelcitylondon.wordpress.com"
   },
   {
@@ -221,11 +193,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Anna-AnarchistFederation.jpeg",
-    "tags": [
-      "Anarchism",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Anna-AnarchistFederation.jpeg",
+    "tags": ["Anarchism", "Conversation"],
     "websiteUrl": "https://aflondon.wordpress.com"
   },
   {
@@ -246,14 +215,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-antiuni-Anarcho-Agony-aunt-Antiuniversity.jpg",
-    "tags": [
-      "Feminism",
-      "Anarchism",
-      "Sex",
-      "Talk",
-      " Experiment"
-    ],
+    "imageUrl": "/assets/images/events/thumb-antiuni-Anarcho-Agony-aunt-Antiuniversity.jpg",
+    "tags": ["Feminism", "Anarchism", "Sex", "Talk", " Experiment"],
     "websiteUrl": "https://www.youtube.com/channel/UCKq20e5nPDEok0loksTqEyQ"
   },
   {
@@ -274,12 +237,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-black-rose-antiuniversity.png",
-    "tags": [
-      "Anarchism",
-      "Direct Action",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-black-rose-antiuniversity.png",
+    "tags": ["Anarchism", "Direct Action", "Talk"],
     "websiteUrl": "http://www.afed.org.uk"
   },
   {
@@ -300,11 +259,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-Antidegree-show.png",
-    "tags": [
-      "Art",
-      "Art exhibition"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Antidegree-show.png",
+    "tags": ["Art", "Art exhibition"],
     "websiteUrl": "https://www.croydonartsstore.art/whatson/2019/6/15/loft-antiuniversity-now-the-anti-degree-show"
   },
   {
@@ -325,12 +281,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-milkshake-rainbow.jpg",
-    "tags": [
-      "Education",
-      "Care",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-milkshake-rainbow.jpg",
+    "tags": ["Education", "Care", "Workshop"],
     "websiteUrl": "https://www.eventbrite.co.uk/e/antiuniversitynow-childcare-for-events-happening-in-mayday-rooms-1506-tickets-62733473508"
   },
   {
@@ -351,12 +303,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Art-workers-Organise.jpg",
-    "tags": [
-      "Art",
-      "Direct Action",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Art-workers-Organise.jpg",
+    "tags": ["Art", "Direct Action", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -377,7 +325,7 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-ArtastherapySaraSteanbeck-antiuniversity.jpg",
+    "imageUrl": "/assets/images/events/thumb-ArtastherapySaraSteanbeck-antiuniversity.jpg",
     "tags": [
       "Art",
       "Mental Health",
@@ -406,13 +354,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Artforthenotyetborn.jpeg",
-    "tags": [
-      "Art",
-      "Education",
-      "Experiment",
-      " Screening"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Artforthenotyetborn.jpeg",
+    "tags": ["Art", "Education", "Experiment", " Screening"],
     "websiteUrl": "https://www.facebook.com/Art-For-The-Not-Yet-Born-422563145143524"
   },
   {
@@ -433,12 +376,8 @@
       "description": null,
       "area": "North West"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-AutographicZineWorkshopAntiuniversity.jpg",
-    "tags": [
-      "Art",
-      "words",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-AutographicZineWorkshopAntiuniversity.jpg",
+    "tags": ["Art", "words", "Workshop"],
     "websiteUrl": "https://www.beehughes.co.uk & http://mutanten.tumblr.com/"
   },
   {
@@ -459,12 +398,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-becomeyourownprincedragworkshop.jpg",
-    "tags": [
-      "Bodies",
-      "Gender",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-becomeyourownprincedragworkshop.jpg",
+    "tags": ["Bodies", "Gender", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -485,11 +420,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2019/thumb-AJStockwell-antiuni-biblioinout.png",
-    "tags": [
-      "Words",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-AJStockwell-antiuni-biblioinout.png",
+    "tags": ["Words", "Conversation"],
     "websiteUrl": ""
   },
   {
@@ -510,12 +442,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-booklaunchtheprocessandthefield.jpg",
-    "tags": [
-      "Art",
-      "Education",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-booklaunchtheprocessandthefield.jpg",
+    "tags": ["Art", "Education", "Conversation"],
     "websiteUrl": "https://www.joaap.org"
   },
   {
@@ -536,14 +464,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-elenipapazoglou-antiuniversity.jpg",
-    "tags": [
-      "Bodies",
-      "Walk",
-      " Experiment",
-      " Workshop",
-      " Intervention"
-    ],
+    "imageUrl": "/assets/images/events/thumb-elenipapazoglou-antiuniversity.jpg",
+    "tags": ["Bodies", "Walk", " Experiment", " Workshop", " Intervention"],
     "websiteUrl": "https://epapazoglou.com, https://rosalindwilson.com"
   },
   {
@@ -564,7 +486,7 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-BritainsNervousBreakdown+Antiuniversity.jpg",
+    "imageUrl": "/assets/images/events/thumb-BritainsNervousBreakdownAntiuniversity.jpg",
     "tags": [
       "Anti-capitalism",
       "Politics",
@@ -592,11 +514,8 @@
       "description": null,
       "area": "online"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-canteen2-antiuniversity.jpg",
-    "tags": [
-      "Sound",
-      "Experiment"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-canteen2-antiuniversity.jpg",
+    "tags": ["Sound", "Experiment"],
     "websiteUrl": "https://soundcloud.com/user-619934284"
   },
   {
@@ -617,11 +536,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-dhunter-antiuni-chavsolidarity.png",
-    "tags": [
-      "Class",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-dhunter-antiuni-chavsolidarity.png",
+    "tags": ["Class", "Talk"],
     "websiteUrl": "https://www.chavsolidarity.com"
   },
   {
@@ -642,13 +558,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2019/thumb-workshop1.jpg",
-    "tags": [
-      "Art",
-      "Play",
-      "Experiment",
-      " Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-workshop1.jpg",
+    "tags": ["Art", "Play", "Experiment", " Workshop"],
     "websiteUrl": "https://arcade-campfa.org"
   },
   {
@@ -669,11 +580,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-CoffeeCanPinholeCameramaking-MadeinRoath-Antiuniversity.jpg",
-    "tags": [
-      "Art",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-CoffeeCanPinholeCameramaking-MadeinRoath-Antiu.jpg",
+    "tags": ["Art", "Workshop"],
     "websiteUrl": "https://madeinroath.com"
   },
   {
@@ -694,12 +602,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-communitybakeries-antiuniversity.jpg",
-    "tags": [
-      "History",
-      "Walk",
-      " Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-communitybakeries-antiuniversity.jpg",
+    "tags": ["History", "Walk", " Talk"],
     "websiteUrl": "https://gravelpress.wordpress.com/author/gravelpress/"
   },
   {
@@ -720,13 +624,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-CraftingBetterSexEdEmmaChan-Antiuniversity.jpg",
-    "tags": [
-      "Education",
-      "Sex",
-      "Gender",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-CraftingBetterSexEdEmmaChan-Antiuniversity.jpg",
+    "tags": ["Education", "Sex", "Gender", "Workshop"],
     "websiteUrl": "https://www.squishsquashsquelch.com"
   },
   {
@@ -747,12 +646,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-doitourselves.jpg",
-    "tags": [
-      "Direct Action",
-      "Ecology",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-doitourselves.jpg",
+    "tags": ["Direct Action", "Ecology", "Talk"],
     "websiteUrl": ""
   },
   {
@@ -773,13 +668,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-a@artemetpopulis.com-antiuni-decolonizingthestudentexperience.jpg",
-    "tags": [
-      "Education",
-      "Talk",
-      " Workshop",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/decolonizing.jpeg",
+    "tags": ["Education", "Talk", " Workshop", " Conversation"],
     "websiteUrl": "https://www.artemetpopulis.com"
   },
   {
@@ -800,12 +690,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-earthworm.jpg",
-    "tags": [
-      "Play",
-      "Experiment",
-      " Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-earthworm.jpg",
+    "tags": ["Play", "Experiment", " Workshop"],
     "websiteUrl": "N/A"
   },
   {
@@ -826,12 +712,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Radicalanthropology.jpg",
-    "tags": [
-      "Gender",
-      "History",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Radicalanthropology.jpg",
+    "tags": ["Gender", "History", "Talk"],
     "websiteUrl": "http://www.radicalanthropologygroup.org"
   },
   {
@@ -852,12 +734,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-DISCUSSION-Final.jpg",
-    "tags": [
-      "Care",
-      "Mental Health",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-DISCUSSION-Final.jpg",
+    "tags": ["Care", "Mental Health", "Conversation"],
     "websiteUrl": "https://sgi-uk.org/"
   },
   {
@@ -878,11 +756,8 @@
       "description": null,
       "area": "Outside of the UK"
     },
-    "imageUrl": "/assets/images/2019/thumb-DisruptingData-CollectingandPersonalizingBiosignals.jpg",
-    "tags": [
-      "Bodies",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-DisruptingData-CollectingandPersonalizingBiosignals.jpg",
+    "tags": ["Bodies", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -903,12 +778,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2019/thumb-Mending-.jpg",
-    "tags": [
-      "Art",
-      "Experiment",
-      " Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Mending-.jpg",
+    "tags": ["Art", "Experiment", " Workshop"],
     "websiteUrl": "https://arcade-campfa.org"
   },
   {
@@ -929,12 +800,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-LaurenTapp-Anti-UniversityDrugs,Workers_GlobalJustice.jpg",
-    "tags": [
-      "",
-      "Talk",
-      " Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-LaurenTapp-Anti-UniversityDrugsWorkers_GlobalJustice.jpg",
+    "tags": ["", "Talk", " Workshop"],
     "websiteUrl": "https://healthpovertyaction.org"
   },
   {
@@ -955,11 +822,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-ecologies-of-spirit-antuniversity.jpg",
-    "tags": [
-      "Ecology",
-      "Experiment"
-    ],
+    "imageUrl": "/assets/images/events/thumb-ecologies-of-spirit-antuniversity.jpg",
+    "tags": ["Ecology", "Experiment"],
     "websiteUrl": ""
   },
   {
@@ -980,12 +844,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Element.Void.Antiuniversity(squareformat).jpg",
-    "tags": [
-      "Art",
-      "Bodies",
-      "Experiment"
-    ],
+    "imageUrl": "/assets/images/events/element-void.jpg",
+    "tags": ["Art", "Bodies", "Experiment"],
     "websiteUrl": "https://www.isobelatacus.com/icing-room"
   },
   {
@@ -1006,13 +866,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Erynies.jpg",
-    "tags": [
-      "Feminism",
-      "Art",
-      "Talk",
-      " Screening"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Erynies.jpg",
+    "tags": ["Feminism", "Art", "Talk", " Screening"],
     "websiteUrl": ""
   },
   {
@@ -1033,12 +888,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Everythingyoueverwantedtoknowaboutanarchism.png",
-    "tags": [
-      "Anarchism",
-      "History",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Everythingyoueverwantedtoknowaboutanarchism.png",
+    "tags": ["Anarchism", "History", "Talk"],
     "websiteUrl": "https://aflondon.wordpress.com/"
   },
   {
@@ -1059,11 +910,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-MarianneDissard.jpeg",
-    "tags": [
-      "Sound",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-MarianneDissard.jpeg",
+    "tags": ["Sound", "Workshop"],
     "websiteUrl": "https://www.mariannedissard.com"
   },
   {
@@ -1084,12 +932,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-statewatch.jpeg",
-    "tags": [
-      "Direct Action",
-      "Talk",
-      " Tour"
-    ],
+    "imageUrl": "/assets/images/events/thumb-statewatch.jpeg",
+    "tags": ["Direct Action", "Talk", " Tour"],
     "websiteUrl": "https://statewatch.omeka.net / https://maydayrooms.org"
   },
   {
@@ -1110,14 +954,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Followme.jpeg",
-    "tags": [
-      "Art",
-      "History",
-      "Walk",
-      " Experiment",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Followme.jpeg",
+    "tags": ["Art", "History", "Walk", " Experiment", " Conversation"],
     "websiteUrl": "https://www.hackneytours.com"
   },
   {
@@ -1138,12 +976,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Frontida_I.GUTIERREZ.png",
-    "tags": [
-      "Direct Action",
-      "Care",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Frontida_I.png",
+    "tags": ["Direct Action", "Care", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1164,11 +998,8 @@
       "description": null,
       "area": "North West"
     },
-    "imageUrl": "/assets/images/2019/thumb-AnnaSexton-Get_Lost_artist_walk-Antiuniversity_NOW_2019.jpg",
-    "tags": [
-      "Art",
-      "Walk"
-    ],
+    "imageUrl": "/assets/images/events/get_lost.jpeg",
+    "tags": ["Art", "Walk"],
     "websiteUrl": "https://www.annabsexton.com"
   },
   {
@@ -1189,13 +1020,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Greenanticapitalistperspectives.jpg",
-    "tags": [
-      "Anarchism",
-      "Direct Action",
-      "Ecology",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Greenanticapitalistperspectives.jpg",
+    "tags": ["Anarchism", "Direct Action", "Ecology", "Workshop"],
     "websiteUrl": "https://greenanticapitalist.org/"
   },
   {
@@ -1216,14 +1042,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-AlexBrown-Greenbalistic.jpeg",
-    "tags": [
-      "Play",
-      "Walk",
-      " Experiment",
-      " Workshop",
-      " Intervention"
-    ],
+    "imageUrl": "/assets/images/events/thumb-AlexBrown-Greenbalistic.jpeg",
+    "tags": ["Play", "Walk", " Experiment", " Workshop", " Intervention"],
     "websiteUrl": ""
   },
   {
@@ -1244,12 +1064,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-hearingvoicesfriendshipgroupantiuniversity.jpg",
-    "tags": [
-      "Mental Health",
-      "Care",
-      "Experiment"
-    ],
+    "imageUrl": "/assets/images/events/thumb-hearingvoicesfriendshipgroupantiuniversity.jpg",
+    "tags": ["Mental Health", "Care", "Experiment"],
     "websiteUrl": "https://www.hearing-voices.org/"
   },
   {
@@ -1270,11 +1086,8 @@
       "description": null,
       "area": "North East"
     },
-    "imageUrl": "/assets/images/2019/thumb-HistoryIndians_PakistanisinMiddlesbrough.jpeg",
-    "tags": [
-      "History",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-HistoryIndians_PakistanisinMiddlesbrough.jpeg",
+    "tags": ["History", "Talk"],
     "websiteUrl": ""
   },
   {
@@ -1295,11 +1108,8 @@
       "description": null,
       "area": "North East"
     },
-    "imageUrl": "/assets/images/2019/thumb-antiuni-middlesbrough.png",
-    "tags": [
-      "History",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-antiuni-middlesbrough.png",
+    "tags": ["History", "Talk"],
     "websiteUrl": ""
   },
   {
@@ -1320,13 +1130,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-Francescabaker-antiuniversitycreativity_WellbeingWeek.jpg",
-    "tags": [
-      "Care",
-      "Art",
-      "Talk",
-      " Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Francescabaker-antiuniversitycreativity_WellbeingWeek.jpg",
+    "tags": ["Care", "Art", "Talk", " Workshop"],
     "websiteUrl": "https://www.andsoshethinks.co.uk"
   },
   {
@@ -1347,12 +1152,8 @@
       "description": null,
       "area": "North East"
     },
-    "imageUrl": "/assets/images/2019/thumb-Simoncoates.jpeg",
-    "tags": [
-      "Words",
-      "Talk",
-      " Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Simoncoates.jpeg",
+    "tags": ["Words", "Talk", " Workshop"],
     "websiteUrl": "https://www.galactic-echo.com"
   },
   {
@@ -1373,12 +1174,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2019/thumb-Instagramfortheotheredantiuniversity.jpg",
-    "tags": [
-      "Feminism",
-      "Bodies",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Instagramfortheotheredantiuniversity.jpg",
+    "tags": ["Feminism", "Bodies", "Workshop"],
     "websiteUrl": "https://www.fishfactoryarts.com"
   },
   {
@@ -1399,13 +1196,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-INTERFACECHAOS-antinuniversity.png",
-    "tags": [
-      "Ecology",
-      "Talk",
-      " Screening",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-INTERFACECHAOS-antinuniversity.png",
+    "tags": ["Ecology", "Talk", " Screening", " Conversation"],
     "websiteUrl": "https://evening-class.org , https://demystification.co/mmittee"
   },
   {
@@ -1426,13 +1218,8 @@
       "description": null,
       "area": "North West"
     },
-    "imageUrl": "/assets/images/2019/thumb-Susannaamatoplay.jpg",
-    "tags": [
-      "Bodies",
-      "Art",
-      "Play",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Susannaamatoplay.jpg",
+    "tags": ["Bodies", "Art", "Play", "Workshop"],
     "websiteUrl": "www.performingmonkeys.org "
   },
   {
@@ -1453,12 +1240,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-RebelTango-RebeltangoAntiUniversity.jpg",
-    "tags": [
-      "Bodies",
-      "Sound",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-RebelTango-RebeltangoAntiUniversity.jpg",
+    "tags": ["Bodies", "Sound", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1479,14 +1262,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Songbook-Antiuniversity.jpg",
-    "tags": [
-      "Bodies",
-      "Sound",
-      "Rights",
-      "Workshop",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Songbook-Antiuniversity.jpg",
+    "tags": ["Bodies", "Sound", "Rights", "Workshop", " Conversation"],
     "websiteUrl": ""
   },
   {
@@ -1507,11 +1284,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-EvaFreeman-Knowyourrights,FightLandlords.jpg",
-    "tags": [
-      "Direct Action",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-EvaFreeman-Knowyourrights,FightLandlords.jpg",
+    "tags": ["Direct Action", "Workshop"],
     "websiteUrl": "https://londonrentersunion.org/"
   },
   {
@@ -1532,13 +1306,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Kurdistan-antiuniversity.jpg",
-    "tags": [
-      "Direct Action",
-      "Rights",
-      "History",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Kurdistan-antiuniversity.jpg",
+    "tags": ["Direct Action", "Rights", "History", "Conversation"],
     "websiteUrl": "https://kurdishsolidaritynetwork.wordpress.com/"
   },
   {
@@ -1559,13 +1328,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Fiercecrafts.jpg",
-    "tags": [
-      "Feminism",
-      "Art",
-      "History",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Fiercecrafts.jpg",
+    "tags": ["Feminism", "Art", "History", "Workshop"],
     "websiteUrl": "https://www.facebook.com/Fierce-Crafts-311865012769384/"
   },
   {
@@ -1586,11 +1350,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-yasnecatiselfcare.jpg",
-    "tags": [
-      "Care",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-yasnecatiselfcare.jpg",
+    "tags": ["Care", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1611,12 +1372,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-PuppetShow.jpeg",
-    "tags": [
-      "Rights",
-      "Art",
-      "Experiment"
-    ],
+    "imageUrl": "/assets/images/events/thumb-PuppetShow.jpeg",
+    "tags": ["Rights", "Art", "Experiment"],
     "websiteUrl": ""
   },
   {
@@ -1637,12 +1394,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-AlexLecis-livingwithacescores.jpeg",
-    "tags": [
-      "Mental Health",
-      "Talk",
-      " Screening"
-    ],
+    "imageUrl": "/assets/images/events/thumb-AlexLecis-livingwithacescores.jpeg",
+    "tags": ["Mental Health", "Talk", " Screening"],
     "websiteUrl": ""
   },
   {
@@ -1663,11 +1416,8 @@
       "description": null,
       "area": "Outside of the UK"
     },
-    "imageUrl": "/assets/images/2019/thumb-Lucioles.jpeg",
-    "tags": [
-      "Education",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Lucioles.jpeg",
+    "tags": ["Education", "Conversation"],
     "websiteUrl": "https://horscadres.hypotheses.org/958"
   },
   {
@@ -1688,13 +1438,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-maydayradiomaidez.jpg",
-    "tags": [
-      "History",
-      "Direct Action",
-      "Experiment",
-      " Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-maydayradiomaidez.jpg",
+    "tags": ["History", "Direct Action", "Experiment", " Workshop"],
     "websiteUrl": "https://audio.maydayrooms.org"
   },
   {
@@ -1715,12 +1460,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Mapswhiteordenance.jpg",
-    "tags": [
-      "History",
-      "Workshop",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Mapswhiteordenance.jpg",
+    "tags": ["History", "Workshop", " Conversation"],
     "websiteUrl": ""
   },
   {
@@ -1741,12 +1482,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-makeyouownmasters.jpg",
-    "tags": [
-      "Education",
-      "Talk",
-      " Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-makeyouownmasters.jpg",
+    "tags": ["Education", "Talk", " Workshop"],
     "websiteUrl": "https://www.makeyourownmasters.com"
   },
   {
@@ -1767,11 +1504,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Grenfellmediawatch.jpg",
-    "tags": [
-      "Direct Action",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/grenfell-watch.jpeg",
+    "tags": ["Direct Action", "Conversation"],
     "websiteUrl": "https://www.facebook.com/GrenfellMediaWatch/"
   },
   {
@@ -1792,11 +1526,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Sue-antiuni-movinginthenow.png",
-    "tags": [
-      "Bodies",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Sue-antiuni-movinginthenow.png",
+    "tags": ["Bodies", "Workshop"],
     "websiteUrl": "https://www.metta-taichi.org.uk"
   },
   {
@@ -1817,11 +1548,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Nogodsnomasters-antiuniversity.jpg",
-    "tags": [
-      "Anarchism",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Nogodsnomasters-antiuniversity.jpg",
+    "tags": ["Anarchism", "Talk"],
     "websiteUrl": "https://rebelcitylondon.wordpress.com"
   },
   {
@@ -1842,7 +1570,7 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-KatieFiore.jpeg",
+    "imageUrl": "/assets/images/events/thumb-KatieFiore.jpeg",
     "tags": [
       "Mental Health",
       "Education",
@@ -1871,11 +1599,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-NoSecurityAllowed-antiuniversity.jpg",
-    "tags": [
-      "",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-NoSecurityAllowed-antiuniversity.jpg",
+    "tags": ["", "Talk"],
     "websiteUrl": "http://lukatoyboy.net"
   },
   {
@@ -1896,11 +1621,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2019/thumb-OpenDeck-madeinroath-antiuniversity.jpg",
-    "tags": [
-      "Sound",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-OpenDeck-madeinroath-antiuniversity.jpg",
+    "tags": ["Sound", "Workshop"],
     "websiteUrl": "http://madeinroath.com/"
   },
   {
@@ -1921,11 +1643,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-FocusE15-antiuniversity.jpg",
-    "tags": [
-      "Direct Action",
-      "Experiment"
-    ],
+    "imageUrl": "/assets/images/events/thumb-FocusE15-antiuniversity.jpg",
+    "tags": ["Direct Action", "Experiment"],
     "websiteUrl": "https://focuse15.org"
   },
   {
@@ -1946,11 +1665,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-HattyBush-Tour.jpeg",
-    "tags": [
-      "Art",
-      "Tour"
-    ],
+    "imageUrl": "/assets/images/events/thumb-HattyBush-Tour.jpeg",
+    "tags": ["Art", "Tour"],
     "websiteUrl": ""
   },
   {
@@ -1971,12 +1687,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-OtherWays-AntiuniversityOtherWaystoCare.jpg",
-    "tags": [
-      "Mental Health",
-      "Direct Action",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/Other%20ways%20to%20care%20Antiuniversity.jpg",
+    "tags": ["Mental Health", "Direct Action", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -1997,12 +1709,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-TheTroubleWithWorkingAloneAntiuniversity.jpg",
-    "tags": [
-      "Art",
-      "Care",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-TheTroubleWithWorkingAloneAntiuniversity.jpg",
+    "tags": ["Art", "Care", "Workshop"],
     "websiteUrl": "https://www.zklt.co.uk/"
   },
   {
@@ -2023,11 +1731,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-RobbieWarin-TheInvisibleWorker-squareformat.jpg",
-    "tags": [
-      "Education",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-RobbieWarin-TheInvisibleWorker-squareformat.jpg",
+    "tags": ["Education", "Workshop"],
     "websiteUrl": "https://theinvisibleworker.wordpress.com"
   },
   {
@@ -2048,7 +1753,7 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Allesandra-aniuni-performingborders.jpeg",
+    "imageUrl": "/assets/images/events/thumb-Allesandra-aniuni-performingborders.jpeg",
     "tags": [
       "Gender",
       "Class",
@@ -2078,12 +1783,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-poetryasselfcareLondonqueerwriters.jpg",
-    "tags": [
-      "Care",
-      "Gender",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-poetryasselfcareLondonqueerwriters.jpg",
+    "tags": ["Care", "Gender", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -2104,12 +1805,8 @@
       "description": null,
       "area": "Online"
     },
-    "imageUrl": "/assets/images/2019/thumb-Shappy-antiuniversity.jpg",
-    "tags": [
-      "Education",
-      "Art",
-      "Experiment"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Shappy-antiuniversity.jpg",
+    "tags": ["Education", "Art", "Experiment"],
     "websiteUrl": "https://www.facebook.com/pg/ProfessorShappy/posts/"
   },
   {
@@ -2130,11 +1827,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-ProjectMyopia-LiberatingtheCurricula.jpeg",
-    "tags": [
-      "Education",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-ProjectMyopia-LiberatingtheCurricula.jpeg",
+    "tags": ["Education", "Conversation"],
     "websiteUrl": "https://projectmyopia.com/"
   },
   {
@@ -2155,12 +1849,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-QueerEcologyPicnic-antiuniversity.jpg",
-    "tags": [
-      "Gender",
-      "Ecology",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-QueerEcologyPicnic-antiuniversity.jpg",
+    "tags": ["Gender", "Ecology", "Conversation"],
     "websiteUrl": ""
   },
   {
@@ -2181,14 +1871,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-Antiuni-RiotGrrrlsAntiuniversity.jpg",
-    "tags": [
-      "Art",
-      "Feminism",
-      "Gender",
-      "Conversation",
-      " workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Antiuni-RiotGrrrlsAntiuniversity.jpg",
+    "tags": ["Art", "Feminism", "Gender", "Conversation", " workshop"],
     "websiteUrl": ""
   },
   {
@@ -2209,12 +1893,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-SamBerkson-antiuni-RadicalLivinginaNeoliberalCity.png",
-    "tags": [
-      "Care",
-      "Education",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-SamBerkson-antiuni-RadicalLivinginaNeoliberalCity.png",
+    "tags": ["Care", "Education", "Conversation"],
     "websiteUrl": ""
   },
   {
@@ -2235,13 +1915,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-antiuni-radicalselfcare.png",
-    "tags": [
-      "Care",
-      "Direct Action",
-      "Mental Health",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-antiuni-radicalselfcare.png",
+    "tags": ["Care", "Direct Action", "Mental Health", "Workshop"],
     "websiteUrl": "RichardJonesTherapy.com"
   },
   {
@@ -2262,13 +1937,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-radical_spaceflight_club_antiuniversity.jpg",
-    "tags": [
-      "Art",
-      "Play",
-      "Gender",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-radical_spaceflight_club_antiuniversity.jpg",
+    "tags": ["Art", "Play", "Gender", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -2289,13 +1959,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-reading-room-antiuniversity.jpg",
-    "tags": [
-      "Art",
-      "Words",
-      "Talk",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-reading-room-antiuniversity.jpg",
+    "tags": ["Art", "Words", "Talk", " Conversation"],
     "websiteUrl": "https://readingroomclub.wordpress.com"
   },
   {
@@ -2316,14 +1981,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-AntiuniversityNow-albionsoundsystem.jpg",
-    "tags": [
-      "Sound",
-      "Feminism",
-      "Experiment",
-      " Workshop",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/reggae-intimate.jpeg",
+    "tags": ["Sound", "Feminism", "Experiment", " Workshop", " Conversation"],
     "websiteUrl": "https://www.growhackney.co.uk"
   },
   {
@@ -2344,12 +2003,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-rehersalsfortherevolution.jpg",
-    "tags": [
-      "Direct Action",
-      "Art",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-rehersalsfortherevolution.jpg",
+    "tags": ["Direct Action", "Art", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -2370,12 +2025,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-rentstrikeendgame2-Antiuniversity.jpg",
-    "tags": [
-      "Direct Action",
-      "Play",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-rentstrikeendgame2-Antiuniversity.jpg",
+    "tags": ["Direct Action", "Play", "Workshop"],
     "websiteUrl": "https://www.rent-strike.org"
   },
   {
@@ -2396,13 +2047,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-anti-unibadhousekeeping2.jpg",
-    "tags": [
-      "Feminism",
-      "Art",
-      "Workshop",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-anti-unibadhousekeeping2.jpg",
+    "tags": ["Feminism", "Art", "Workshop", " Conversation"],
     "websiteUrl": "http://feministlibrary.co.uk/"
   },
   {
@@ -2423,12 +2069,8 @@
       "description": null,
       "area": "Midlands"
     },
-    "imageUrl": "/assets/images/2019/thumb-JoanneMasding-SculptureReadingGroup.jpg",
-    "tags": [
-      "Words",
-      "Art",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-JoanneMasding-SculptureReadingGroup.jpg",
+    "tags": ["Words", "Art", "Conversation"],
     "websiteUrl": "http://www.joannemasding.com/index.php?/studio/antiuniversity/"
   },
   {
@@ -2449,13 +2091,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-security-mob-antiunversity.jpg",
-    "tags": [
-      "Rights",
-      "Bodies",
-      "Walk",
-      " Experiment"
-    ],
+    "imageUrl": "/assets/images/events/thumb-security-mob-antiunversity.jpg",
+    "tags": ["Rights", "Bodies", "Walk", " Experiment"],
     "websiteUrl": ""
   },
   {
@@ -2476,7 +2113,7 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-sense.png",
+    "imageUrl": "/assets/images/events/thumb-sense.png",
     "tags": [
       "Sound",
       "Art",
@@ -2505,13 +2142,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-sicklecellsolaceantiuniversity.jpg",
-    "tags": [
-      "Care",
-      "Art",
-      "Workshop",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-sicklecellsolaceantiuniversity.jpg",
+    "tags": ["Care", "Art", "Workshop", " Conversation"],
     "websiteUrl": ""
   },
   {
@@ -2532,11 +2164,8 @@
       "description": null,
       "area": "Wales"
     },
-    "imageUrl": "/assets/images/2019/thumb-Madeinroath.jpeg",
-    "tags": [
-      "Sound",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Madeinroath.jpeg",
+    "tags": ["Sound", "Conversation"],
     "websiteUrl": "http://madeinroath.com/"
   },
   {
@@ -2557,12 +2186,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-sloganandbadge.jpeg",
-    "tags": [
-      "Art",
-      "History",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-sloganandbadge.jpeg",
+    "tags": ["Art", "History", "Workshop"],
     "websiteUrl": "https://www.hackneytours.com"
   },
   {
@@ -2583,12 +2208,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-Socialcentreseleanorsmith.jpeg",
-    "tags": [
-      "Direct Action",
-      "History",
-      "Walk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Socialcentreseleanorsmith.jpeg",
+    "tags": ["Direct Action", "History", "Walk"],
     "websiteUrl": ""
   },
   {
@@ -2609,12 +2230,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-socialmovementsnowandatthestartofthemillenium.jpg",
-    "tags": [
-      "Ecology",
-      "Direct Action",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-socialmovementsnowandatthestartofthemillenium.jpg",
+    "tags": ["Ecology", "Direct Action", "Talk"],
     "websiteUrl": "https://pgaoralhistory.net"
   },
   {
@@ -2635,12 +2252,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-spacetoplay.jpeg",
-    "tags": [
-      "Bodies",
-      "Play",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/space-to-play.jpeg",
+    "tags": ["Bodies", "Play", "Workshop"],
     "websiteUrl": "https://www.sparetyre.org/ www.fauvealice.com "
   },
   {
@@ -2661,13 +2274,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-LutomiKassim-plane5-antuniversity.jpg",
-    "tags": [
-      "Art",
-      "Direct Action",
-      "Workshop",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-LutomiKassim-plane5-antuniversity.jpg",
+    "tags": ["Art", "Direct Action", "Workshop", " Conversation"],
     "websiteUrl": ""
   },
   {
@@ -2688,11 +2296,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-StencilworkshopAntiuniversity.jpg",
-    "tags": [
-      "Art",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-StencilworkshopAntiuniversity.jpg",
+    "tags": ["Art", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -2713,11 +2318,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-12rulesforwhat-antiuniversity.jpg",
-    "tags": [
-      "Direct Action",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-12rulesforwhat-antiuniversity.jpg",
+    "tags": ["Direct Action", "Workshop"],
     "websiteUrl": "https://soundcloud.com/12rulesforwhat"
   },
   {
@@ -2738,12 +2340,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Action-for-education-antiunivrsity.png",
-    "tags": [
-      "Rights",
-      "Education",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Action-for-education-antiunivrsity.png",
+    "tags": ["Rights", "Education", "Talk"],
     "websiteUrl": "https://www.actionforeducation.co.uk/"
   },
   {
@@ -2764,13 +2362,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Talking-ghosts-antiuniversity.jpg",
-    "tags": [
-      "Words",
-      "Direct Action",
-      "Intervention",
-      " Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Talking-ghosts-antiuniversity.jpg",
+    "tags": ["Words", "Direct Action", "Intervention", " Workshop"],
     "websiteUrl": "http://www.albertoduman.me.uk/"
   },
   {
@@ -2791,11 +2384,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-tarot-antiuniversity.jpg",
-    "tags": [
-      "Play",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-tarot-antiuniversity.jpg",
+    "tags": ["Play", "Workshop"],
     "websiteUrl": "http://chriswood.art"
   },
   {
@@ -2816,11 +2406,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2019/thumb-MattFletcher-antiuni-telegraphawalkingaction.png",
-    "tags": [
-      "History",
-      "Walk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-MattFletcher-antiuni-telegraphawalkingaction.png",
+    "tags": ["History", "Walk"],
     "websiteUrl": ""
   },
   {
@@ -2841,13 +2428,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-testingwhatwethinkweknow.jpg",
-    "tags": [
-      "Education",
-      "History",
-      "Direct Action",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-testingwhatwethinkweknow.jpg",
+    "tags": ["Education", "History", "Direct Action", "Workshop"],
     "websiteUrl": "https://www.56a.org.uk"
   },
   {
@@ -2868,13 +2450,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-TheBolsterPlayground.jpg",
-    "tags": [
-      "Art",
-      "Care",
-      "Bodies",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-TheBolsterPlayground.jpg",
+    "tags": ["Art", "Care", "Bodies", "Workshop"],
     "websiteUrl": "https://www.lollyadams.com"
   },
   {
@@ -2895,12 +2472,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-MigrantsinCulture.jpg",
-    "tags": [
-      "Rights",
-      "Direct Action",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-MigrantsinCulture.jpg",
+    "tags": ["Rights", "Direct Action", "Workshop"],
     "websiteUrl": "https://www.migrantsinculture.com"
   },
   {
@@ -2921,12 +2494,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-conqueringbread-antiuniversity.jpg",
-    "tags": [
-      "Food",
-      "Anarchism",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-conqueringbread-antiuniversity.jpg",
+    "tags": ["Food", "Anarchism", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -2947,11 +2516,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Sabine Pappas-Olympian.jpeg",
-    "tags": [
-      "Play",
-      "Experiment"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Sabine Pappas-Olympian.jpeg",
+    "tags": ["Play", "Experiment"],
     "websiteUrl": "https://schoolwithoutfrontiers.org/"
   },
   {
@@ -2972,12 +2538,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-poverty-quasi-student-antiuniversity.jpg",
-    "tags": [
-      "Education",
-      "Art",
-      "Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-poverty-quasi-student-antiuniversity.jpg",
+    "tags": ["Education", "Art", "Conversation"],
     "websiteUrl": "www.commonstudy.co.uk"
   },
   {
@@ -2998,12 +2560,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-KwakuWinrushSq.png",
-    "tags": [
-      "History",
-      "Rights",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-KwakuWinrushSq.png",
+    "tags": ["History", "Rights", "Talk"],
     "websiteUrl": "https://www.AfricanHistoryPlus.eventbrite.com"
   },
   {
@@ -3024,11 +2582,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-KerryWilliamPurcell-ScreeningofTheyLive-KerryWilliamPurcell.jpeg",
-    "tags": [
-      "Art",
-      "Screening"
-    ],
+    "imageUrl": "/assets/images/events/thumb-KerryWilliamPurcell-ScreeningofTheyLive-KerryWilliamP.jpeg",
+    "tags": ["Art", "Screening"],
     "websiteUrl": ""
   },
   {
@@ -3049,11 +2604,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-resized-ThrowingyourvoiceChrisWood-antiuniversity.jpg",
-    "tags": [
-      "Play",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-resized-ThrowingyourvoiceChrisWood-antiuniversity.jpg",
+    "tags": ["Play", "Workshop"],
     "websiteUrl": "http://chriswood.art"
   },
   {
@@ -3074,14 +2626,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-RosinaGodwin-TouchyTextiles_Antiuniversity_RosinaGodwinandEKGerdin-Miosga.jpg",
-    "tags": [
-      "Art",
-      "Mental Health",
-      "Feminism",
-      "Workshop",
-      " Exhibition"
-    ],
+    "imageUrl": "/assets/images/events/thumb-RosinaGodwin-TouchyTextiles_Antiuniversity_RosinaGodwi.jpg",
+    "tags": ["Art", "Mental Health", "Feminism", "Workshop", " Exhibition"],
     "websiteUrl": "https://gerdinmiosgaek.wixsite.com/rg-ekgm"
   },
   {
@@ -3102,12 +2648,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-IWOC-transandqueer.jpeg",
-    "tags": [
-      "Gender",
-      "Direct Action",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-IWOC-transandqueer.jpeg",
+    "tags": ["Gender", "Direct Action", "Talk"],
     "websiteUrl": "http://incarceratedworkers.noflag.org.uk"
   },
   {
@@ -3128,12 +2670,8 @@
       "description": null,
       "area": "Outside of the UK"
     },
-    "imageUrl": "/assets/images/2019/thumb-ShanelWu-Unfabricate_SW_square.jpg",
-    "tags": [
-      "Ecology",
-      "Art",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-ShanelWu-Unfabricate_SW_square.jpg",
+    "tags": ["Ecology", "Art", "Workshop"],
     "websiteUrl": "https://sminliwu.github.io"
   },
   {
@@ -3154,13 +2692,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-EmilyKenway-IMG-20190507-WA0000.jpg",
-    "tags": [
-      "Anti-capitalism",
-      "Feminism",
-      "Sex",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-EmilyKenway-IMG-20190507-WA0000.jpg",
+    "tags": ["Anti-capitalism", "Feminism", "Sex", "Talk"],
     "websiteUrl": "https://decrimnow.org.uk/"
   },
   {
@@ -3181,12 +2714,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-RobRay-antiuni-UnrestandtheTrench-Britishanarchism1909-1919.jpg",
-    "tags": [
-      "Anarchism",
-      "History",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-RobRay-antiuni-UnrestandtheTrench-Britishanarchism1909.jpg",
+    "tags": ["Anarchism", "History", "Talk"],
     "websiteUrl": "https://freedompress.org.uk"
   },
   {
@@ -3207,12 +2736,8 @@
       "description": null,
       "area": "South East"
     },
-    "imageUrl": "/assets/images/2019/thumb-AntiuniversityNow-Visionofasocietywithoutgovernment-antiuniversity.jpg",
-    "tags": [
-      "Anarchism",
-      "Talk",
-      " Conversation"
-    ],
+    "imageUrl": "/assets/images/events/thumb-AntiuniversityNow-Visionofasocietywithoutgovernment-an.jpg",
+    "tags": ["Anarchism", "Talk", " Conversation"],
     "websiteUrl": "https://www.anarchistcommunism.org"
   },
   {
@@ -3233,7 +2758,7 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-VitruvianMantology+Antiuniversity.jpg",
+    "imageUrl": "/assets/images/events/thumb-VitruvianMantologyAntiuniversity.jpg",
     "tags": [
       "Gentrification",
       "Technology",
@@ -3265,13 +2790,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-lauraCopsey-wegoinacircleevent.jpg",
-    "tags": [
-      "Words",
-      "Experiment",
-      " Workshop",
-      " Intervention"
-    ],
+    "imageUrl": "/assets/images/events/thumb-lauraCopsey-wegoinacircleevent.jpg",
+    "tags": ["Words", "Experiment", " Workshop", " Intervention"],
     "websiteUrl": ""
   },
   {
@@ -3292,12 +2812,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-KwakuWinrushSq.png",
-    "tags": [
-      "Sound",
-      "Rights",
-      "Talk"
-    ],
+    "imageUrl": "/assets/images/events/thumb-KwakuWinrushSq.png",
+    "tags": ["Sound", "Rights", "Talk"],
     "websiteUrl": "https://www.BBM.eventbrite.com"
   },
   {
@@ -3318,11 +2834,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-MentalHealthUnderCapitalism.jpeg",
-    "tags": [
-      "Mental Health",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-MentalHealthUnderCapitalism.jpeg",
+    "tags": ["Mental Health", "Workshop"],
     "websiteUrl": "https://www.facebook.com/MentalHealthUnderCapitalism/"
   },
   {
@@ -3343,11 +2856,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Dictionary-neoliberal-terms-antiuniversity.jpg",
-    "tags": [
-      "Words",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Dictionary-neoliberal-terms-antiuniversity.jpg",
+    "tags": ["Words", "Workshop"],
     "websiteUrl": "https://www.spiritduplicator.org/product/dictionary-of-neoliberal-terms-volume-one/"
   },
   {
@@ -3368,12 +2878,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Womens-Strike-Antiuniversity-2019.jpg",
-    "tags": [
-      "Feminism",
-      "History",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Womens-Strike-Antiuniversity-2019.jpg",
+    "tags": ["Feminism", "History", "Workshop"],
     "websiteUrl": "https://www.womenstrike.org"
   },
   {
@@ -3394,12 +2900,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Womens-Strike-Antiuniversity-2019.jpg",
-    "tags": [
-      "Feminism",
-      "Sex",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Womens-Strike-Antiuniversity-2019.jpg",
+    "tags": ["Feminism", "Sex", "Workshop"],
     "websiteUrl": "https://womenstrike.org.uk"
   },
   {
@@ -3420,11 +2922,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-Womens-Strike-Antiuniversity-2019.jpg",
-    "tags": [
-      "Feminism",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Womens-Strike-Antiuniversity-2019.jpg",
+    "tags": ["Feminism", "Workshop"],
     "websiteUrl": "https://womenstrike.org.uk"
   },
   {
@@ -3445,11 +2944,8 @@
       "description": null,
       "area": "South West"
     },
-    "imageUrl": "/assets/images/2019/thumb-Womens-Strike-Antiuniversity-2019.jpg",
-    "tags": [
-      "Direct Action",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-Womens-Strike-Antiuniversity-2019.jpg",
+    "tags": ["Direct Action", "Workshop"],
     "websiteUrl": ""
   },
   {
@@ -3470,11 +2966,8 @@
       "description": null,
       "area": "London"
     },
-    "imageUrl": "/assets/images/2019/thumb-antiuni-Xenia2019Antiuniversity.jpeg",
-    "tags": [
-      "Feminism",
-      "Workshop"
-    ],
+    "imageUrl": "/assets/images/events/thumb-antiuni-Xenia2019Antiuniversity.jpeg",
+    "tags": ["Feminism", "Workshop"],
     "websiteUrl": "https://xenia.org.uk/"
   }
 ]
