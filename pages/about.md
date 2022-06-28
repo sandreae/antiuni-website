@@ -9,8 +9,7 @@ permalink: /about/
 Initiated in 2015, <span class="anti">Antiuniversity Now</span> was set up to reignite the 1968 Antiuniversity of London with the intention to challenge academic and class hierarchy and the exclusivity of the £9K-a-year-degree by inviting people to organise and share learning events in public spaces all over the country.
 
 **Who makes the Antiuniversity?**<br/>
-Antiuniversity events are open to all to organise and attend, regardless of experience, background, age or qualification. All you need is an interesting idea and an openness to share it with others in a collaborative way. Head to this year’s <a href="https://antiuni-2021.samandreae.com/" target="_blank">festival platform</a> to upload or browse events.
-For inspiration, you can check out the Antiuniversity <a href="/archive">archive</a>!
+Antiuniversity events are open to all to organise and attend, regardless of experience, background, age or qualification. All you need is an interesting idea and an openness to share it with others in a collaborative way.
 
 **What does an Antiuni event look like?**<br/>
 Events can take any form, anywhere (as long as we don’t put each other at risk). They are free, accessible and inclusive, using non-hierarchical, participatory and democratic pedagogy.
