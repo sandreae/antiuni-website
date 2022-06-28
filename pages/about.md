@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 <span class="anti">Antiuniversity Now</span> is a collaborative experiment to challenge institutionalised education, access to learning and the mechanism of knowledge creation and distribution.
 
 Initiated in 2015, <span class="anti">Antiuniversity Now</span> was set up to reignite the 1968 Antiuniversity of London with the intention to challenge academic and class hierarchy and the exclusivity of the £9K-a-year-degree by inviting people to organise and share learning events in public spaces all over the country.
@@ -32,13 +33,13 @@ All events will be accepted, providing they do not cause any harm.<br/>
 
 ![Antiuniversity Event](/assets/images/about/about-event-11.png)<br /><span class="caption">Radical Space Flight 2019</span>
 
-![Antiuniversity Event](/assets/images/about/about-event-1.png)<br /><span class="caption">Game workers organising 2019</span>
+![Antiuniversity Event](/assets/images/about/about-event-1.jpg)<br /><span class="caption">Game workers organising 2019</span>
 
-![Antiuniversity Event](/assets/images/about/about-event-3.png)<br /><span class="caption">Anti-fascist milkshake making 2019</span>
+![Antiuniversity Event](/assets/images/about/about-event-3.jpg)<br /><span class="caption">Anti-fascist milkshake making 2019</span>
 
-![Antiuniversity Event](/assets/images/about/about-event-4.png)<br /><span class="caption">Molejoy at Antiuniversity Opening Party, The Jago 2019</span>
+![Antiuniversity Event](/assets/images/about/about-event-4.jpg)<br /><span class="caption">Molejoy at Antiuniversity Opening Party, The Jago 2019</span>
 
-![Antiuniversity Event](/assets/images/about/about-event-2.png)<br /><span class="caption">Punch and Judy “Life In The UK Hostile Environment” puppet show</span>
+![Antiuniversity Event](/assets/images/about/about-event-2.jpg)<br /><span class="caption">Punch and Judy “Life In The UK Hostile Environment” puppet show</span>
 
 ![Antiuniversity Event](/assets/images/about/about-event-10.png)<br /><span class="caption">Degenerate Space 2016</span>
 
@@ -51,4 +52,3 @@ All events will be accepted, providing they do not cause any harm.<br/>
 ![Antiuniversity Event](/assets/images/about/about-event-8.png)<br /><span class="caption">Degenerate Space, The Smallness inside the bigness, 2016</span>
 
 ![Antiuniversity Event](/assets/images/about/about-event-9.png)<br /><span class="caption">Antiuniversity 2017 events</span>
-
