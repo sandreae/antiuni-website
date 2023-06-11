@@ -74,6 +74,7 @@ DEPENDENCIES
   jekyll (~> 4.3.0)
   jekyll-datapage-generator
   jekyll-feed (~> 0.12)
+  rake
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
