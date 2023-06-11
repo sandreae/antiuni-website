@@ -4,6 +4,9 @@ title: "Antiuniversity Now"
 plugins:
   - jekyll-datapage-generator
 page_gen-dirs: true
+sass:
+    sass_dir: _sass
+    style: compressed
 page_gen:
   - data: "events-2021"
     template: "event"

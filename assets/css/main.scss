@@ -1,12 +1,16 @@
 ---
 ---
 
+.nothing {
+    height: 0px
+}
+
 @import "variables";
 @import "common";
-@import "main";
+@import "home";
 @import "page";
 @import "archive_page";
 @import "event_page";
 @import "nav";
 @import "index";
-@import "reader"
+@import "reader";
