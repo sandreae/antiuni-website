@@ -30,24 +30,24 @@ All events will be accepted, providing they do not cause any harm.<br/>
 
 <hr class="dotted">
 
-![Antiuniversity Event]({{/assets/images/about/about-event-11.png | relative_url}})<br /><span class="caption">Radical Space Flight 2019</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-11.png' | relative_url}})<br /><span class="caption">Radical Space Flight 2019</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-1.jpg | relative_url}})<br /><span class="caption">Game workers organising 2019</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-1.jpg' | relative_url}})<br /><span class="caption">Game workers organising 2019</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-3.jpg | relative_url}})<br /><span class="caption">Anti-fascist milkshake making 2019</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-3.jpg' | relative_url}})<br /><span class="caption">Anti-fascist milkshake making 2019</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-4.jpg | relative_url}})<br /><span class="caption">Molejoy at Antiuniversity Opening Party, The Jago 2019</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-4.jpg' | relative_url}})<br /><span class="caption">Molejoy at Antiuniversity Opening Party, The Jago 2019</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-2.jpg | relative_url}})<br /><span class="caption">Punch and Judy “Life In The UK Hostile Environment” puppet show</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-2.jpg' | relative_url}})<br /><span class="caption">Punch and Judy “Life In The UK Hostile Environment” puppet show</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-10.png | relative_url}})<br /><span class="caption">Degenerate Space 2016</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-10.png' | relative_url}})<br /><span class="caption">Degenerate Space 2016</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-5.png | relative_url}})<br /><span class="caption">Anti-symposium July 2015</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-5.png' | relative_url}})<br /><span class="caption">Anti-symposium July 2015</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-6.png | relative_url}})<br /><span class="caption">Hello Nuclear Power Station drawing session 2015</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-6.png' | relative_url}})<br /><span class="caption">Hello Nuclear Power Station drawing session 2015</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-7.png | relative_url}})<br /><span class="caption">Supernormal Super Sensory Summerschool Sing-out</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-7.png' | relative_url}})<br /><span class="caption">Supernormal Super Sensory Summerschool Sing-out</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-8.png | relative_url}})<br /><span class="caption">Degenerate Space, The Smallness inside the bigness, 2016</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-8.png' | relative_url}})<br /><span class="caption">Degenerate Space, The Smallness inside the bigness, 2016</span>
 
-![Antiuniversity Event]({{/assets/images/about/about-event-9.png | relative_url}})<br /><span class="caption">Antiuniversity 2017 events</span>
+![Antiuniversity Event]({{ '/assets/images/about/about-event-9.png' | relative_url}})<br /><span class="caption">Antiuniversity 2017 events</span>
