@@ -25,5 +25,5 @@ The Antiuniversity stands in solidarity with Lisa Mckenzie, United Voices of the
 All power to the union!
 Hasta la victoria!"
 
-![strike](/assets/images/blog/blog-lse-1.png)
+![strike]({{ '/assets/images/blog/blog-lse-1.png' | relative_url }})
 ![strike](/assets/images/blog/blog-lse-2.png)
