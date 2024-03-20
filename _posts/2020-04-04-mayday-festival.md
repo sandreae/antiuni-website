@@ -18,4 +18,4 @@ This year, Antiuni festivals will take place in new real and virtual spaces, in 
 
 *Go to our new platform <a href="https://2020.antiuniversity.org/calendar" target="_blank">2020.antiuniversity.org</a> for the full programme.*
 
-![mayday](/assets/images/blog/mayday-2020.png)
+![mayday]({{ '/assets/images/blog/mayday-2020.png' | relative_url }})

@@ -22,4 +22,4 @@ Taylor has been described as ‘a rare public intellectual, utterly committed to
 
 Book your free ticket <a href="https://www.eventbrite.co.uk/e/antiuniversity-keywords-democracy-with-astra-taylor-tickets-76746429637" target="_blank">here</a>.
 
-![Democracy](/assets/images/blog/astra-democracy.png)
+![Democracy]({{ '/assets/images/blog/astra-democracy.png' | relative_url }})

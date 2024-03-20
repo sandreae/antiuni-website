@@ -23,4 +23,4 @@ Download the course outline.
 
 *Special offer for Antiuni guests at Ridley Road Market Bar: £10 for a bottle of wine and £2.50 for beer before 10pm*
 
-![cpp](/assets/images/blog/cpp-2019.png)
+![cpp]({{ '/assets/images/blog/cpp-2019.png' | relative_url }})

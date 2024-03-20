@@ -26,4 +26,4 @@ All power to the union!
 Hasta la victoria!"
 
 ![strike]({{ '/assets/images/blog/blog-lse-1.png' | relative_url }})
-![strike](/assets/images/blog/blog-lse-2.png)
+![strike]({{'/assets/images/blog/blog-lse-2.png'}})
