@@ -18,12 +18,12 @@ permalink: /archive/
   <div class="archive-item">
     <a
       class="archive-item-link"
-      href="/{{ event.title | datapage_url: 'events' }}"
+      href="{{ event.title | datapage_url: 'events' | relative_url }}"
     >
       <div class="archive-item-text">{{event.title}}</div>
     </a>
     <img
-      src="{{ event.imageUrl }}"
+      src="{{ event.imageUrl | relative_url }}"
       style="display: none"
       onload="this.style.display=''"
     />
@@ -35,12 +35,12 @@ permalink: /archive/
   <div class="archive-item">
     <a
       class="archive-item-link"
-      href="/{{ event.title | datapage_url: 'events' }}"
+      href="{{ event.title | datapage_url: 'events' | relative_url }}"
     >
       <div class="archive-item-text">{{event.title}}</div>
     </a>
     <img
-      src="{{ event.imageUrl }}"
+      src="{{ event.imageUrl | relative_url }}"
       style="display: none"
       onload="this.style.display=''"
     />
@@ -51,12 +51,12 @@ permalink: /archive/
   <div class="archive-item">
     <a
       class="archive-item-link"
-      href="/{{ event.title | datapage_url: 'events' }}"
+      href="{{ event.title | datapage_url: 'events' | relative_url }}"
     >
       <div class="archive-item-text">{{event.title}}</div>
     </a>
     <img
-      src="{{ event.imageUrl }}"
+      src="{{ event.imageUrl | relative_url }}"
       style="display: none"
       onload="this.style.display=''"
     />
@@ -67,12 +67,12 @@ permalink: /archive/
   <div class="archive-item">
     <a
       class="archive-item-link"
-      href="/{{ event.title | datapage_url: 'events' }}"
+      href="{{ event.title | datapage_url: 'events' | relative_url }}"
     >
       <div class="archive-item-text">{{event.title}}</div>
     </a>
     <img
-      src="{{ event.imageUrl }}"
+      src="{{ event.imageUrl | relative_url }}"
       style="display: none"
       onload="this.style.display=''"
     />
@@ -85,7 +85,7 @@ permalink: /archive/
       <div class="archive-item-text">{{event.cargoTitle}}</div>
     </a>
     <img
-      src="{{ event.cargoImageUrl }}"
+      src="{{ event.cargoImageUrl | relative_url }}"
       style="display: none"
       onload="this.style.display=''"
     />
@@ -98,7 +98,7 @@ permalink: /archive/
       <div class="archive-item-text">{{event.cargoTitle}}</div>
     </a>
     <img
-      src="{{ event.cargoImageUrl }}"
+      src="{{ event.cargoImageUrl | relative_url }}"
       style="display: none"
       onload="this.style.display=''"
     />
@@ -111,7 +111,7 @@ permalink: /archive/
       <div class="archive-item-text">{{event.cargoTitle}}</div>
     </a>
     <img
-      src="{{ event.cargoImageUrl }}"
+      src="{{ event.cargoImageUrl | relative_url }}"
       style="display: none"
       onload="this.style.display=''"
     />

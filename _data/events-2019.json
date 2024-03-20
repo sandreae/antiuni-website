@@ -378,7 +378,7 @@
     },
     "imageUrl": "/assets/images/events/thumb-resized-AutographicZineWorkshopAntiuniversity.jpg",
     "tags": ["Art", "words", "Workshop"],
-    "websiteUrl": "https://www.beehughes.co.uk & http://mutanten.tumblr.com/"
+    "websiteUrl": "https://www.beehughes.co.uk"
   },
   {
     "title": "Be your own prince: a drag king workshop",
@@ -466,7 +466,7 @@
     },
     "imageUrl": "/assets/images/events/thumb-elenipapazoglou-antiuniversity.jpg",
     "tags": ["Bodies", "Walk", " Experiment", " Workshop", " Intervention"],
-    "websiteUrl": "https://epapazoglou.com, https://rosalindwilson.com"
+    "websiteUrl": "https://epapazoglou.com"
   },
   {
     "title": "Britain's Nervous Breakdown: What is Actually Happening?",
@@ -934,7 +934,7 @@
     },
     "imageUrl": "/assets/images/events/thumb-statewatch.jpeg",
     "tags": ["Direct Action", "Talk", " Tour"],
-    "websiteUrl": "https://statewatch.omeka.net / https://maydayrooms.org"
+    "websiteUrl": "https://statewatch.omeka.net"
   },
   {
     "title": "Follow Me - I'm Lost!",
@@ -1198,7 +1198,7 @@
     },
     "imageUrl": "/assets/images/events/thumb-INTERFACECHAOS-antinuniversity.png",
     "tags": ["Ecology", "Talk", " Screening", " Conversation"],
-    "websiteUrl": "https://evening-class.org , https://demystification.co/mmittee"
+    "websiteUrl": "https://evening-class.org"
   },
   {
     "title": "Introduction to Play",
@@ -1562,7 +1562,7 @@
     },
     "organiser": {
       "name": "Katie Fiore and Louise Webb",
-      "about": "Katie Fiore and Louise Webb are artists who are interested in spaces of learning that challenge the hegemonic structures we live & learn in. They are interested in breaking down barriers to learning opportunities, and creating spaces that appeal to diverse learning types. They met in Margate whilst associates at Open School East last year. "
+      "about": "Katie Fiore and Louise Webb are artists who are interested in spaces of learning that challenge the hegemonic structures we live & learn in. They are interested in breaking down barriers to learning opportunities, and creating spaces that appeal to diverse learning types. They met in Margate whilst associates at Open School East last year. https://www.katiefiore.co.uk https://www.louisewebb.com"
     },
     "place": {
       "id": null,
@@ -1579,7 +1579,7 @@
       " Workshop",
       " Conversation"
     ],
-    "websiteUrl": "https://www.katiefiore.co.uk https://www.louisewebb.com"
+    "websiteUrl": ""
   },
   {
     "title": "No Security Allowed",
