@@ -14,25 +14,25 @@ permalink: /archive-list/
   <li>2021</li>
   {% for event in site.data.events-2021 %}
   <li>
-    <a href="{{ event.title | strip_newlines | escape | datapage_url: 'events' | relative_url }}">{{event.title}}</a>
+    <a href="{{ event.title | strip_newlines | escape | slugify | datapage_url: 'events' | relative_url }}">{{event.title}}</a>
   </li>
   {% endfor %}
   <li>2020</li>
   {% for event in site.data.events-2020 %}
   <li>
-    <a href="{{ event.title | strip_newlines | escape | datapage_url: 'events' | relative_url }}">{{event.title}}</a>
+    <a href="{{ event.title | strip_newlines | escape | slugify | datapage_url: 'events' | relative_url }}">{{event.title}}</a>
   </li>
   {% endfor %}
   <li>2019</li>
   {% for event in site.data.events-2019 %}
   <li>
-    <a href="{{ event.title | strip_newlines | escape | datapage_url: 'events' | relative_url }}">{{event.title}}</a>
+    <a href="{{ event.title | strip_newlines | escape | slugify | datapage_url: 'events' | relative_url }}">{{event.title}}</a>
   </li>
   {% endfor %}
   <li>2018</li>
   {% for event in site.data.events-2018 %}
   <li>
-    <a href="{{ event.title | strip_newlines | escape | datapage_url: 'events' | relative_url }}">{{event.title}}</a>
+    <a href="{{ event.title | strip_newlines | escape | slugify | datapage_url: 'events' | relative_url }}">{{event.title}}</a>
   </li>
   {% endfor %}
   <li>2017</li>

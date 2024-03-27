@@ -18,7 +18,7 @@ permalink: /archive/
   <div class="archive-item">
     <a
       class="archive-item-link"
-      href="{{ event.title | strip_newlines | escape | datapage_url: 'events' | relative_url }}"
+      href="{{ event.title | strip_newlines | escape | slugify | datapage_url: 'events' | relative_url }}"
     >
       <div class="archive-item-text">{{event.title}}</div>
     </a>
@@ -35,7 +35,7 @@ permalink: /archive/
   <div class="archive-item">
     <a
       class="archive-item-link"
-      href="{{ event.title | strip_newlines | escape | datapage_url: 'events' | relative_url }}"
+      href="{{ event.title | strip_newlines | escape | slugify | datapage_url: 'events' | relative_url }}"
     >
       <div class="archive-item-text">{{event.title}}</div>
     </a>
@@ -51,7 +51,7 @@ permalink: /archive/
   <div class="archive-item">
     <a
       class="archive-item-link"
-      href="{{ event.title | strip_newlines | escape | datapage_url: 'events' | relative_url }}"
+      href="{{ event.title | strip_newlines | escape | slugify | datapage_url: 'events' | relative_url }}"
     >
       <div class="archive-item-text">{{event.title}}</div>
     </a>
@@ -67,7 +67,7 @@ permalink: /archive/
   <div class="archive-item">
     <a
       class="archive-item-link"
-      href="{{ event.title | strip_newlines | escape | datapage_url: 'events' | relative_url }}"
+      href="{{ event.title | strip_newlines | escape | slugify | datapage_url: 'events' | relative_url }}"
     >
       <div class="archive-item-text">{{event.title}}</div>
     </a>

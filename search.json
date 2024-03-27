@@ -4,10 +4,10 @@
 [
   {% for event in all_events %}
     {
-      "title"    : "{{ event.title | strip_newlines | escape }}",
-      "description"      : "{{ event.description | strip_newlines | escape }}",
-      "place"      : "{{ event.place.name | strip_newlines | escape }}",
-      "url": "{{ event.title | strip_newlines | escape | datapage_url: 'events' | relative_url }}"
+      "title"    : "{{ event.title | strip_newlines | escape | slugify }}",
+      "description"      : "{{ event.description | strip_newlines | escape | slugify }}",
+      "place"      : "{{ event.place.name | strip_newlines | escape | slugify }}",
+      "url": "{{ event.title | strip_newlines | escape | slugify | datapage_url: 'events' | relative_url }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
