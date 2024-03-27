@@ -11,6 +11,8 @@
 }
 
 #prog {
+    display: flex;
+    flex-direction: column;
     color: white;
     position: absolute;
     bottom: 50px;
@@ -20,7 +22,7 @@
         width: 400px;
     }
     a {
-        color: white;
+        color: black;
         text-shadow: none;
         text-align: center;
     }
